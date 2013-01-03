@@ -31272,16 +31272,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">tässä:saaminen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">goddin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">valvoja</l>
       </lg>
       <mg>
@@ -70027,7 +70017,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">leiviskä (2 kg:n paino)</l>
+         <l pos="n">leiviskä</l>
       </lg>
       <mg>
          <tg>
@@ -87042,7 +87032,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">hiuksista # ohut</l>
+         <l pos="v">ohut</l>
       </lg>
       <mg>
          <tg>
@@ -119991,7 +119981,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="n">áican</t>
+        <t pos="n">áican</t>
       </tg>
     </mg>
   </e>
