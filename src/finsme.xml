@@ -26972,16 +26972,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">aalto</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bárru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">poikanen</l>
       </lg>
       <mg>
@@ -29747,16 +29737,6 @@
       <mg>
          <tg>
             <t pos="n">fylkkaviessu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">aihe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">fáddá</t>
          </tg>
       </mg>
    </e>
@@ -33927,16 +33907,6 @@
       <mg>
          <tg>
             <t pos="n">ivguheasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">aamu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">iđit</t>
          </tg>
       </mg>
    </e>
@@ -116177,16 +116147,6 @@
       <mg>
          <tg>
             <t pos="v">máhcahit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">aiheuttaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">dagahit</t>
          </tg>
       </mg>
    </e>
