@@ -41707,23 +41707,13 @@
          <tg>
             <t pos="n">ruohtas</t>
          </tg>
+         <tg>
+            <t pos="n">veaddi</t>
+         </tg>
       </mg>
       <mg>
          <tg>
             <t pos="n">máddu</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">juuri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">ruohtas</t>
-         </tg>
-         <tg>
-            <t pos="n">veaddi</t>
          </tg>
       </mg>
    </e>
@@ -43290,26 +43280,6 @@
          </tg>
          <tg>
             <t pos="n">gálli</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">kallio</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bákti</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">kalliolla kuivattu kala</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">fleahkkaguolli</t>
          </tg>
       </mg>
    </e>
@@ -44957,31 +44927,7 @@
          </tg>
          <tg>
             <t pos="n">rámbuvri</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">kauppa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">gávpi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">rámbuvra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">rámbuvri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">buvda</t>
          </tg>
       </mg>
    </e>
@@ -46072,21 +46018,7 @@
       <mg>
          <tg>
             <t pos="n">guovddáš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">guovddaš</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">keskus</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">guovddáš</t>
          </tg>
       </mg>
    </e>
@@ -46469,21 +46401,6 @@
             <t pos="n">giella</t>
          </tg>
          <tg re="suussa">
-            <t pos="n">njuovčča</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">kieli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">giella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">njuovčča</t>
          </tg>
       </mg>
@@ -47553,21 +47470,7 @@
       <mg>
          <tg>
             <t pos="n">girku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">kirku</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">kirkko</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">girku</t>
          </tg>
       </mg>
    </e>
@@ -47878,11 +47781,6 @@
             <t pos="n">suovdi</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">kita</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">soalvi</t>
@@ -50039,16 +49937,6 @@
       <mg>
          <tg>
             <t pos="n">guhkká</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">kukka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">rássi</t>
          </tg>
       </mg>
    </e>
@@ -52428,32 +52316,14 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">atnu</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">käyttö</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="n">geavaheapmi</t>
          </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">atnin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">geavahus</t>
-         </tg>
-      </mg>
-      <mg>
          <tg>
             <t pos="n">atnu</t>
+            <t pos="n">atnin</t>
+         </tg>
+         <tg>
+            <t pos="n">geavahus</t>
          </tg>
       </mg>
    </e>
@@ -52844,16 +52714,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">lahti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">luokta</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">laidun</l>
       </lg>
       <mg>
@@ -53058,17 +52918,7 @@
          </tg>
       </mg>
    </e>
-  <e>
-      <lg>
-         <l pos="n">laki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">láhka</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
+   <e>
       <lg>
          <l pos="n">lakiehdotus</l>
       </lg>
@@ -54238,34 +54088,17 @@
       <mg>
          <tg>
             <t pos="n">aviisa</t>
+            <t pos="n">áviisa</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg re="luettavaksi">
             <t pos="n">bláđđi</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg re="puussa">
             <t pos="n">lasta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">áviisa</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">lehti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">lasta</t>
-         </tg>
-         <tg>
-            <t pos="n">áviisa</t>
          </tg>
       </mg>
    </e>
@@ -54807,18 +54640,8 @@
             <t pos="n">pláhta</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">levy</l>
-      </lg>
       <mg>
-         <tg>
-            <t pos="n">pláhtta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
+         <tg re="musiikkia varten">
             <t pos="n">skearru</t>
          </tg>
       </mg>
@@ -55130,33 +54953,18 @@
    </e>
   <e>
       <lg>
-         <l pos="n">liike (aktio)</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">akšuvdna</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">liike</l>
       </lg>
       <mg>
          <tg re="liikunta">
             <t pos="n">lihkadus</t>
          </tg>
+      </mg>
+      <mg>
          <tg re="yritys">
             <t pos="n">fitnodat</t>
          </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">liike</l>
-      </lg>
-      <mg>
-         <tg>
+         <tg re"kauppa">
             <t pos="n">gávpi</t>
          </tg>
       </mg>
@@ -57193,16 +57001,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">lähde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">ája</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">lähdekoodi</l>
       </lg>
       <mg>
@@ -57393,16 +57191,6 @@
       <mg>
          <tg>
             <t pos="n">viesttar</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">länsi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">oarji</t>
          </tg>
       </mg>
    </e>
@@ -57678,22 +57466,10 @@
       <mg>
          <tg>
             <t pos="n">eana</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">eanan</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">maa</l>
-      </lg>
       <mg>
-         <tg>
-            <t pos="n">eanan</t>
-         </tg>
          <tg>
             <t pos="n">riika</t>
          </tg>
@@ -59249,17 +59025,7 @@
          </tg>
       </mg>
    </e>
-  <e>
-      <lg>
-         <l pos="n">meri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">mearra</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
+   <e>
       <lg>
          <l pos="n">merialue</l>
       </lg>
@@ -60069,21 +59835,7 @@
       <mg>
          <tg>
             <t pos="n">mohtor</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">mutuvra</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">moottori</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">mohtor</t>
          </tg>
       </mg>
    </e>
@@ -61104,16 +60856,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">naapuri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">kránnjá</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">naara</l>
       </lg>
       <mg>
@@ -61389,11 +61131,6 @@
             <t pos="n">ciiku</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">narttu</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">gákšu</t>
@@ -62172,16 +61909,6 @@
       <mg>
          <tg>
             <t pos="n">gožu</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">noki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">giehpa</t>
          </tg>
       </mg>
    </e>
@@ -63252,16 +62979,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">oikeus</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">riekti</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">oikeuslautakunta</l>
       </lg>
       <mg>
@@ -63916,15 +63633,6 @@
       <mg>
          <tg>
             <t pos="n">oahppa</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">oppi</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="n">oahppu</t>
          </tg>
       </mg>
@@ -65695,16 +65403,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">pari</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bárra</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">parila</l>
       </lg>
       <mg>
@@ -66596,13 +66294,6 @@
          <tg>
             <t pos="n">vuođđudeaddji</t>
          </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">perustaja</l>
-      </lg>
-      <mg>
          <tg>
             <t pos="n">ásaheaddji</t>
          </tg>
@@ -67350,21 +67041,12 @@
       <mg>
          <tg>
             <t pos="n">biire</t>
+            <t pos="n">bire</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="n">birradat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">piiri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bire</t>
          </tg>
       </mg>
    </e>
@@ -68015,16 +67697,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">pohja</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bodni</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">pohjallinen</l>
       </lg>
       <mg>
@@ -68110,16 +67782,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">pohjoinen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">davvi</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">pohjoismaa</l>
       </lg>
       <mg>
@@ -68186,27 +67848,8 @@
          <tg>
             <t pos="n">bárdni</t>
          </tg>
-         <tg>
+         <tg re="ei isän tai äidin poika">
             <t pos="n">gánda</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">poika</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bárdni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">gánda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">lunta</t>
          </tg>
       </mg>
@@ -69774,29 +69417,15 @@
          </tg>
          <tg>
             <t pos="n">hállan</t>
-         </tg>
-         <tg>
-            <t pos="n">sáhka</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">puhe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">sáhka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">sárdni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="n">hálla</t>
+         </tg>
+         <tg>
+            <t pos="n">sáhka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="kirkossa">
+            <t pos="n">sárdni</t>
          </tg>
       </mg>
    </e>
@@ -70297,16 +69926,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">puoli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">bealli</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">puolialaston olio</l>
       </lg>
       <mg>
@@ -70417,16 +70036,6 @@
       <mg>
          <tg>
             <t pos="n">gaskamuddu</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">puoliväli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">beallemuddu</t>
          </tg>
       </mg>
    </e>
@@ -71452,16 +71061,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">pää</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">oaivi</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">pääasia</l>
       </lg>
       <mg>
@@ -72100,16 +71699,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">raamattu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">biibbal</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">raanu</l>
       </lg>
       <mg>
@@ -72200,16 +71789,6 @@
       <mg>
          <tg>
             <t pos="n">rábbi</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">radio</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">radio</t>
          </tg>
       </mg>
    </e>
@@ -72485,16 +72064,6 @@
       <mg>
          <tg>
             <t pos="n">gehá</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">rakennus</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">huksehus</t>
          </tg>
       </mg>
    </e>
@@ -72938,7 +72507,7 @@
    </e>
   <e>
       <lg>
-         <l pos="n">rauha esim. sääskiltä</l>
+         <l pos="n">sääskirauha</l>
       </lg>
       <mg>
          <tg>
@@ -72948,7 +72517,7 @@
    </e>
   <e>
       <lg>
-         <l pos="n">rauha tehdä jotakin</l>
+         <l pos="n">työrauha</l>
       </lg>
       <mg>
          <tg>
@@ -72968,16 +72537,6 @@
       <mg>
          <tg>
             <t pos="n">ássu</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">rauha</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">ráfi</t>
          </tg>
       </mg>
    </e>
@@ -73288,11 +72847,6 @@
             <t pos="n">mohkki</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">retki</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">tuvra</t>
@@ -73660,19 +73214,6 @@
          <tg>
             <t pos="n">raddi</t>
          </tg>
-         <tg>
-            <t pos="n">čižži</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">rinta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">raddi</t>
-         </tg>
       </mg>
       <mg>
          <tg>
@@ -73887,34 +73428,17 @@
    </e>
   <e>
       <lg>
-         <l pos="n">risti korttipelissä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">luovvar</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">risti</l>
       </lg>
       <mg>
          <tg>
             <t pos="n">ruossa</t>
-         </tg>
-         <tg>
             <t pos="n">rista</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">risti</l>
-      </lg>
       <mg>
-         <tg>
-            <t pos="n">ruossa</t>
+         <tg re="korttipelissä">
+            <t pos="n">luovvar</t>
          </tg>
       </mg>
    </e>
@@ -74556,16 +74080,6 @@
       <mg>
          <tg>
             <t pos="n">máhta</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">ruoka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">biebmu</t>
          </tg>
       </mg>
    </e>
@@ -78768,16 +78282,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">sotilas</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">soalddát</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">sotku verkossa</l>
       </lg>
       <mg>
@@ -80693,21 +80197,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">sähkö</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">elrávdnji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">el-rávdnji</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">sähköposti</l>
       </lg>
       <mg>
@@ -81121,16 +80610,6 @@
       <mg>
          <tg>
             <t pos="n">goansta</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">taide</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">dáidda</t>
          </tg>
       </mg>
    </e>
@@ -81679,16 +81158,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">talous</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">ekonomiija</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">talousministeri</l>
       </lg>
       <mg>
@@ -81894,16 +81363,6 @@
       <mg>
          <tg>
             <t pos="n">dáhpi</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">tapa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">vierru</t>
          </tg>
       </mg>
    </e>
@@ -82644,11 +82103,6 @@
             <t pos="n">beaktu</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">teho</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">vuoibmi</t>
@@ -83627,11 +83081,6 @@
             <t pos="n">dihkku</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">tikku</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">smáhkku</t>
@@ -83643,22 +83092,12 @@
          <l pos="n">tila</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="tilanne">
             <t pos="n">dilli</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t pos="n">sadji</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">tila</l>
-      </lg>
-      <mg>
-         <tg>
+         <tg re="paikka">
             <t pos="n">sadji</t>
          </tg>
       </mg>
@@ -84127,11 +83566,6 @@
             <t pos="n">doaimmaheapmi</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">toimitus</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">doaimmahus</t>
@@ -84210,16 +83644,6 @@
       <mg>
          <tg>
             <t pos="n">doaivva</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">toivo</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">doaivu</t>
          </tg>
       </mg>
    </e>
@@ -84588,21 +84012,11 @@
    </e>
   <e>
       <lg>
-         <l pos="n">tuki (fig.)</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">doarjalus</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">tuki</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">doarja</t>
+            <t pos="n">doarjja</t>
          </tg>
          <tg>
             <t pos="n">duvdda</t>
@@ -84611,19 +84025,9 @@
             <t pos="n">caggi</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">tuki</l>
-      </lg>
       <mg>
-         <tg>
-            <t pos="n">doarjja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">duvdda</t>
+         <tg re="henkinen tuki">
+            <t pos="n">doarjalus</t>
          </tg>
       </mg>
    </e>
@@ -85338,16 +84742,6 @@
          </tg>
          <tg>
             <t pos="n">buvttadus</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">tuotanto</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">buvttadeapmi</t>
          </tg>
       </mg>
    </e>
@@ -86701,24 +86095,12 @@
       <mg>
          <tg>
             <t pos="n">uhkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">áitta</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">uhka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">áitta</t>
-         </tg>
-         <tg>
             <t pos="n">uhkádus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">áitta</t>
          </tg>
       </mg>
    </e>
@@ -88252,16 +87634,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">vala</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">válli</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">valaannahka</l>
       </lg>
       <mg>
@@ -88623,16 +87995,6 @@
       <mg>
          <tg>
             <t pos="n">stáda</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="n">valtio</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">stáhta</t>
          </tg>
       </mg>
    </e>
@@ -92411,16 +91773,6 @@
    </e>
   <e>
       <lg>
-         <l pos="n">ydin</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">ađa</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="n">ydinase</l>
       </lg>
       <mg>
@@ -94754,11 +94106,6 @@
             <t pos="po">geahčai</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="po">luo</l>
-      </lg>
       <mg>
          <tg>
             <t pos="po">lusa</t>
@@ -96964,16 +96311,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">ajatella</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">jurddašit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">ajattaa</l>
       </lg>
       <mg>
@@ -97484,41 +96821,22 @@
    </e>
   <e>
       <lg>
-         <l pos="v">ampua vähän ja nopeasti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bážestit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">ampua vähän</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bážistit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">ampua</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">bahčit</t>
+            <t pos="v">báhčit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">ampua</l>
-      </lg>
       <mg>
-         <tg>
-            <t pos="v">báhčit</t>
+         <tg re="vähän ja nopeasti">
+            <t pos="v">bážestit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="vähän">
+            <t pos="v">bážistit</t>
          </tg>
       </mg>
    </e>
@@ -97769,16 +97087,6 @@
       <mg>
          <tg>
             <t pos="v">skeŋket</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">antaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">addit</t>
          </tg>
       </mg>
    </e>
@@ -98077,19 +97385,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">asua</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">orrot</t>
-         </tg>
-         <tg>
-            <t pos="v">ássat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">asustella</l>
       </lg>
       <mg>
@@ -98184,22 +97479,12 @@
       </lg>
       <mg>
          <tg>
+            <t pos="v">rahpat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="v">leahkastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">rahpat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">avata</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">rahpat</t>
          </tg>
       </mg>
    </e>
@@ -98620,16 +97905,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">epäillä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">eahpidit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">epäonnistua</l>
       </lg>
       <mg>
@@ -98887,11 +98162,6 @@
             <t pos="v">ovdanbuktit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">esittää</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ovddidit</t>
@@ -98940,19 +98210,6 @@
       <mg>
          <tg>
             <t pos="v">áristit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">estää</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">caggat</t>
-         </tg>
-         <tg>
-            <t pos="v">hehttet</t>
          </tg>
       </mg>
    </e>
@@ -99015,16 +98272,6 @@
             <t pos="v">ohcalit</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t pos="v">ohcat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">etsiä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ohcat</t>
@@ -99191,16 +98438,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">haastaa oikeuteen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">stevdnet</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">haastaa</l>
       </lg>
       <mg>
@@ -99208,14 +98445,14 @@
             <t pos="v">hástalit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">haastaa</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">hástit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="oikeuteen">
+            <t pos="v">stevdnet</t>
          </tg>
       </mg>
    </e>
@@ -99403,11 +98640,6 @@
             <t pos="v">skáđet</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">haitata</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">hehttet</t>
@@ -99456,16 +98688,6 @@
       <mg>
          <tg>
             <t pos="v">háddjet</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">hajottaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">biđget</t>
          </tg>
       </mg>
    </e>
@@ -99661,11 +98883,6 @@
             <t pos="v">hálddašit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">hallita</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">háldet</t>
@@ -99674,11 +98891,6 @@
       <mg>
          <tg>
             <t pos="v">stivret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">hálddašit</t>
          </tg>
       </mg>
    </e>
@@ -99729,16 +98941,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">haluta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">háliidit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">halvaantua</l>
       </lg>
       <mg>
@@ -99769,7 +98971,7 @@
    </e>
   <e>
       <lg>
-         <l pos="v">halventaa</l>
+         <l pos="v">halventua</l>
       </lg>
       <mg>
          <tg>
@@ -99814,19 +99016,6 @@
       <mg>
          <tg>
             <t pos="v">murret</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">hankkia</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">háhkat</t>
-         </tg>
-         <tg>
-            <t pos="v">skáhppot</t>
          </tg>
       </mg>
    </e>
@@ -100728,36 +99917,11 @@
    </e>
   <e>
       <lg>
-         <l pos="v">herättää</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">rávkat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">boktit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">herätyttää</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">bovttihit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">herätä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gohccát</t>
          </tg>
       </mg>
    </e>
@@ -101206,16 +100370,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">hoitaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">dikšut</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">hokaista</l>
       </lg>
       <mg>
@@ -101352,18 +100506,8 @@
          <tg>
             <t pos="v">hohkahit</t>
          </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">houkutella</l>
-      </lg>
-      <mg>
          <tg>
             <t pos="v">hohkahallat</t>
-         </tg>
-         <tg>
-            <t pos="v">geasuhit</t>
          </tg>
       </mg>
    </e>
@@ -101685,24 +100829,9 @@
             <t pos="v">fuomášit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">huomata</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">fuobmát</t>
-         </tg>
-      </mg>
       <mg>
          <tg>
             <t pos="v">áicat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">fuomášit</t>
          </tg>
       </mg>
    </e>
@@ -102140,11 +101269,6 @@
             <t pos="v">atnit ávkin</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">hyödyntää</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ávkkástallat</t>
@@ -102185,11 +101309,6 @@
             <t pos="v">fallehit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">hyökätä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">rohkkáhit</t>
