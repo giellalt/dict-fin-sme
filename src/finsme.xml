@@ -6357,10 +6357,10 @@
    </e>
   <e>
       <lg>
-         <l pos="a">kehittynyt (lapsesta)</l>
+         <l pos="a">kehittynyt</l>
       </lg>
       <mg>
-         <tg>
+         <tg re"lapsesta">
             <t pos="a">veađar</t>
          </tg>
       </mg>
@@ -101334,11 +101334,6 @@
             <t pos="v">ávkašuvvat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">hyötyä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ávkkáiduvvat</t>
@@ -101414,11 +101409,6 @@
             <t pos="v">heađuštit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">häiritä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">árrit</t>
@@ -101632,16 +101622,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">hävitä oikeusjutussa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sordot</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">hävitä</l>
       </lg>
       <mg>
@@ -101649,14 +101629,14 @@
             <t pos="v">dáhpet</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">hävitä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">jávkat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="oikeusjutussa">
+            <t pos="v">sordot</t>
          </tg>
       </mg>
    </e>
@@ -101937,26 +101917,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">ilmestyä näkyviin</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">albmudit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">ilmestyä äkkiä näkyviin taivasta vasten</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">čoarihit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">ilmestyä</l>
       </lg>
       <mg>
@@ -101964,11 +101924,11 @@
             <t pos="v">almmustuvvat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">ilmestyä</l>
-      </lg>
+      <mg>
+         <tg re="näkyviin">
+            <t pos="v">albmudit</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="v">ihtit</t>
@@ -102224,11 +102184,6 @@
             <t pos="v">beassat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">irrota</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">luovvanit</t>
@@ -102558,16 +102513,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">jakaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">juohkit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">jakaantua neljään osaan</l>
       </lg>
       <mg>
@@ -102819,16 +102764,6 @@
          <tg>
             <t pos="v">hovdet</t>
          </tg>
-         <tg>
-            <t pos="v">jođihit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">johtaa</l>
-      </lg>
-      <mg>
          <tg>
             <t pos="v">jođihit</t>
          </tg>
@@ -103222,19 +103157,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">joutua</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">šaddat</t>
-         </tg>
-         <tg>
-            <t pos="v">gártat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">juhlia</l>
       </lg>
       <mg>
@@ -103452,16 +103374,6 @@
             <t pos="v">ruohttat</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t pos="v">viehkat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">juosta</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">viehkat</t>
@@ -103802,19 +103714,6 @@
          <tg>
             <t pos="v">lágidit</t>
          </tg>
-         <tg>
-            <t pos="v">ordnet</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">järjestää</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">lágidit</t>
-         </tg>
       </mg>
       <mg>
          <tg>
@@ -104067,16 +103966,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">jäädä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">báhcit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">jäädää ilman ruokaa</l>
       </lg>
       <mg>
@@ -104262,11 +104151,6 @@
             <t pos="v">njorret</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kaataa</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">njeaidit</t>
@@ -104750,16 +104634,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">kantaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">guoddit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">kapinoida</l>
       </lg>
       <mg>
@@ -104787,11 +104661,6 @@
             <t pos="v">gárgidit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">karata</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">lovpet</t>
@@ -105211,24 +105080,9 @@
             <t pos="v">bagadit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kasvattaa</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">šaddadit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">katkaista nopeasti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">botkestit</t>
          </tg>
       </mg>
    </e>
@@ -105239,6 +105093,11 @@
       <mg>
          <tg>
             <t pos="v">botket</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="nopeasti">
+            <t pos="v">botkestit</t>
          </tg>
       </mg>
    </e>
@@ -105514,11 +105373,6 @@
             <t pos="v">gárggiidit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kehittyä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ovdánit</t>
@@ -105537,11 +105391,6 @@
             <t pos="v">gárgehit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kehittää</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ovdánahttit</t>
@@ -106115,19 +105964,6 @@
          <tg>
             <t pos="v">bistit</t>
          </tg>
-         <tg>
-            <t pos="v">gierdat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kestää</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bistit</t>
-         </tg>
       </mg>
       <mg>
          <tg>
@@ -106287,16 +106123,6 @@
    </e>
   <e>
       <lg>
-         <l pos="v">kieltää</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gieldit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="v">kieroutua silmistä</l>
       </lg>
       <mg>
@@ -106324,11 +106150,6 @@
             <t pos="v">garvit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kiertää</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">johtit birra</t>
@@ -106804,39 +106625,19 @@
    </e>
   <e>
       <lg>
-         <l pos="v">kilpailla keskenään</l>
+         <l pos="v">kilpailla</l>
       </lg>
       <mg>
          <tg>
+            <t pos="v">gilvvohallat</t>
+         </tg>
+         <tg>
+            <t pos="v">gilvalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="keskenään">
             <t pos="v">ritnohallat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kilpailla</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gilvalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">gilvvohallat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="v">kilpailla</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gilvvohallat</t>
-         </tg>
-         <tg>
-            <t pos="v">gilvalit</t>
          </tg>
       </mg>
    </e>
