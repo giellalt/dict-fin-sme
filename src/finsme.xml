@@ -94,6 +94,8 @@
          <tg>
             <t pos="A">ideálaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">jurddalaš</t>
          </tg>
@@ -107,6 +109,8 @@
          <tg>
             <t pos="A">absoluhta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">absoluhtalaš</t>
          </tg>
@@ -401,6 +405,8 @@
          <tg>
             <t pos="A">aktiiva</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">aktiivvalaš</t>
          </tg>
@@ -1209,6 +1215,8 @@
          <tg>
             <t pos="A">govttolaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">ovddolaš</t>
          </tg>
@@ -1447,6 +1455,8 @@
          <tg>
             <t pos="A">eŋgelas</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">englándalaš</t>
          </tg>
@@ -1625,6 +1635,8 @@
          <tg>
             <t pos="A">dohkkemeahttun</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">eahpedohkálaš</t>
          </tg>
@@ -1678,6 +1690,8 @@
          <tg>
             <t pos="A">rámššas</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">dássitmeahttun</t>
          </tg>
@@ -1836,6 +1850,8 @@
          <tg>
             <t pos="A">mearkkalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">earenoamáš</t>
          </tg>
@@ -1964,6 +1980,8 @@
          <tg>
             <t pos="A">erohtalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">erotihkalaš</t>
          </tg>
@@ -2037,6 +2055,8 @@
          <tg>
             <t pos="A">lulli</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">máddi</t>
          </tg>
@@ -2050,6 +2070,8 @@
          <tg>
             <t pos="A">lulli-</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">mátta-</t>
          </tg>
@@ -2528,6 +2550,8 @@
          <tg>
             <t pos="A">duođalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">áŋgir</t>
          </tg>
@@ -6174,6 +6198,8 @@
          <tg>
             <t pos="A">šaddodieđalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">botanihkalaš</t>
          </tg>
@@ -6187,6 +6213,8 @@
          <tg>
             <t pos="A">guoktilaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">behtolaš</t>
          </tg>
@@ -6255,6 +6283,8 @@
          <tg>
             <t pos="A">ollislaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">gokči</t>
          </tg>
@@ -6364,11 +6394,6 @@
             <t pos="A">veađar</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="A">kehittynyt</l>
-      </lg>
       <mg>
          <tg>
             <t pos="A">searalaš</t>
@@ -6633,6 +6658,8 @@
          <tg>
             <t pos="A">gaska-</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">guovda-</t>
          </tg>
@@ -7241,6 +7268,8 @@
          <tg>
             <t pos="A">várálaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">vuorbbálaš</t>
          </tg>
@@ -7534,6 +7563,8 @@
          <tg>
             <t pos="A">hearvái</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">čiŋahuvvon</t>
          </tg>
@@ -9622,6 +9653,8 @@
          <tg>
             <t pos="A">luonddudieđalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">biologalaš</t>
          </tg>
@@ -9655,6 +9688,8 @@
          <tg>
             <t pos="A">iežaddiluvvon</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">lunddolaš</t>
          </tg>
@@ -10033,6 +10068,8 @@
          <tg>
             <t pos="A">dálkkasdieđalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">medisiinnalaš</t>
          </tg>
@@ -10266,6 +10303,8 @@
          <tg>
             <t pos="A">beakkálmas</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">beakkán</t>
          </tg>
@@ -10474,6 +10513,8 @@
          <tg>
             <t pos="A">mekanihkalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">mekánalaš</t>
          </tg>
@@ -10527,6 +10568,8 @@
          <tg>
             <t pos="A">deaŧalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">dehálaš</t>
          </tg>
@@ -10640,6 +10683,8 @@
          <tg>
             <t pos="A">jierpmálaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">govttolaš</t>
          </tg>
@@ -10843,6 +10888,8 @@
          <tg>
             <t pos="A">mohkkái</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">mohkkát</t>
          </tg>
@@ -11176,6 +11223,8 @@
          <tg>
             <t pos="A">positiiva</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">miehtemielalaš</t>
          </tg>
@@ -11513,16 +11562,6 @@
       <mg>
          <tg>
             <t pos="A">jođán</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="A">nopea</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="A">johtil</t>
          </tg>
       </mg>
    </e>
@@ -11989,6 +12028,8 @@
          <tg>
             <t pos="A">deaŧalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">guovddáš-</t>
          </tg>
@@ -14217,6 +14258,8 @@
          <tg>
             <t pos="A">huksejeaddji</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">konstruktiiva</t>
          </tg>
@@ -14545,6 +14588,8 @@
          <tg>
             <t pos="A">vuloš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">sorjavaš</t>
          </tg>
@@ -14778,6 +14823,8 @@
          <tg>
             <t pos="A">rosvu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">bigohas</t>
          </tg>
@@ -15991,6 +16038,8 @@
          <tg>
             <t pos="A">guhkolaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">ovála</t>
          </tg>
@@ -16504,6 +16553,8 @@
          <tg>
             <t pos="A">oiddolaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">heivvolaš</t>
          </tg>
@@ -16647,6 +16698,8 @@
          <tg>
             <t pos="A">čáhppat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">seavdnjat</t>
          </tg>
@@ -17025,6 +17078,8 @@
          <tg>
             <t pos="A">soddjil</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">mieđis</t>
          </tg>
@@ -17598,6 +17653,8 @@
          <tg>
             <t pos="A">vissis</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">diehto-</t>
          </tg>
@@ -17851,6 +17908,8 @@
          <tg>
             <t pos="A">háldi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">stállu</t>
          </tg>
@@ -18689,6 +18748,8 @@
          <tg>
             <t pos="A">rávis</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">dievas</t>
          </tg>
@@ -19237,6 +19298,8 @@
          <tg>
             <t pos="A">váttis</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">váigat</t>
          </tg>
@@ -19360,6 +19423,8 @@
          <tg>
             <t pos="A">boastto-</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">behtolaš</t>
          </tg>
@@ -19769,6 +19834,8 @@
          <tg>
             <t pos="A">deaŧalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">dehálaš</t>
          </tg>
@@ -20177,6 +20244,8 @@
          <tg>
             <t pos="A">atnin</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">doallan</t>
          </tg>
@@ -20695,6 +20764,8 @@
          <tg>
             <t pos="A">unni</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">uhcci</t>
          </tg>
@@ -21563,6 +21634,8 @@
          <tg>
             <t pos="A">fihtolaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">intelligeanta</t>
          </tg>
@@ -21711,6 +21784,8 @@
          <tg>
             <t pos="A">rádji</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="A">ravda</t>
          </tg>
@@ -23604,6 +23679,8 @@
          <tg>
             <t pos="Adv">juohke bealde</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Adv">miehtá</t>
          </tg>
@@ -23617,6 +23694,8 @@
          <tg>
             <t pos="Adv">juohke beallai</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Adv">miehtá</t>
          </tg>
@@ -26629,6 +26708,8 @@
          <tg>
             <t pos="Adv">suhtus</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Adv">bosis</t>
          </tg>
@@ -28747,6 +28828,8 @@
          <tg>
             <t pos="Cc">ja</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Cc">sihke</t>
          </tg>
@@ -30309,11 +30392,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">Uutiset</l>
+         <l pos="N" nr="Pl">Uutiset</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">Ođđasat</t>
+            <t pos="N" nr="Pl">Ođđasat</t>
          </tg>
       </mg>
    </e>
@@ -30369,7 +30452,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">aakkoset</l>
+         <l pos="N" nr="Pl">aakkoset</l>
       </lg>
       <mg>
          <tg>
@@ -30490,6 +30573,8 @@
          <tg>
             <t pos="N">idea</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">jurdda</t>
          </tg>
@@ -30923,6 +31008,8 @@
          <tg>
             <t pos="N">ávdnasat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">materiála</t>
          </tg>
@@ -31361,6 +31448,8 @@
          <tg>
             <t pos="N">viidodat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">suorgi</t>
          </tg>
@@ -31484,9 +31573,13 @@
          <tg>
             <t pos="N">álgu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">čuolbma</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">áhta</t>
          </tg>
@@ -31549,16 +31642,6 @@
       <mg>
          <tg>
             <t pos="N">boahtimuš</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="N">alkuperäisasukkaat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N">eamiálbmot</t>
          </tg>
       </mg>
    </e>
@@ -31650,6 +31733,8 @@
          <tg>
             <t pos="N">álgu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">álgomuddu</t>
          </tg>
@@ -31887,11 +31972,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">alushousut</l>
+         <l pos="N" nr="Pl">alushousut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">sisbuvssat</t>
+            <t pos="N" nr="Pl">sisbuvssat</t>
          </tg>
       </mg>
    </e>
@@ -31923,6 +32008,8 @@
          <tg>
             <t pos="N">vuoláš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">juolgi</t>
          </tg>
@@ -31940,7 +32027,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">alusvaatteet</l>
+         <l pos="N" nr="Pl">alusvaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -32235,16 +32322,6 @@
       <mg>
          <tg>
             <t pos="N">sisaboahtu</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="N">ansiot</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N">tinestus</t>
          </tg>
       </mg>
    </e>
@@ -32565,16 +32642,6 @@
    </e>
   <e>
       <lg>
-         <l pos="N">arkivaatteet</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N">árgabivttas</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="N">arkki</l>
       </lg>
       <mg>
@@ -32716,6 +32783,8 @@
          <tg>
             <t pos="N">árvu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">sulla</t>
          </tg>
@@ -33149,6 +33218,8 @@
          <tg>
             <t pos="N">orru</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">ášši</t>
          </tg>
@@ -33197,6 +33268,8 @@
          <tg>
             <t pos="N">orrun</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">áššán</t>
          </tg>
@@ -33280,6 +33353,8 @@
          <tg>
             <t pos="N">šillju</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">jalgadas</t>
          </tg>
@@ -33767,7 +33842,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">bileet</l>
+         <l pos="N" nr="Pl">bileet</l>
       </lg>
       <mg>
          <tg>
@@ -33873,6 +33948,8 @@
          <tg>
             <t pos="N">dáhta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">addagat</t>
          </tg>
@@ -34326,6 +34403,8 @@
          <tg>
             <t pos="N">ealligovva</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">filbma</t>
          </tg>
@@ -34674,6 +34753,8 @@
          <tg>
             <t pos="N">vuosttášeahket</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">premieara</t>
          </tg>
@@ -35142,6 +35223,8 @@
          <tg>
             <t pos="N">lulábeale</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">máttabeale</t>
          </tg>
@@ -35260,6 +35343,8 @@
          <tg>
             <t pos="N">ovdu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">ávki</t>
          </tg>
@@ -35323,6 +35408,8 @@
          <tg>
             <t pos="N">gaska</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">mátkegaska</t>
          </tg>
@@ -35410,7 +35497,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">eväät</l>
+         <l pos="N" nr="Pl">eväät</l>
       </lg>
       <mg>
          <tg>
@@ -35430,7 +35517,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">farkut</l>
+         <l pos="N" nr="Pl">farkut</l>
       </lg>
       <mg>
          <tg>
@@ -35701,9 +35788,13 @@
          <tg>
             <t pos="N">suorgi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">suorri</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">oaksi</t>
          </tg>
@@ -35872,6 +35963,8 @@
          <tg>
             <t pos="N">figuvra</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">hápmi</t>
          </tg>
@@ -36534,11 +36627,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">harjoitteluhousut</l>
+         <l pos="N" nr="Pl">harjoitteluhousut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">hárjehallanbuvssat</t>
+            <t pos="N" nr="Pl">hárjehallanbuvssat</t>
          </tg>
       </mg>
    </e>
@@ -36554,7 +36647,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">harjoitteluvaatteet</l>
+         <l pos="N" nr="Pl">harjoitteluvaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -36765,6 +36858,8 @@
          <tg>
             <t pos="N">áicu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">fuomášupmi</t>
          </tg>
@@ -37168,6 +37263,8 @@
          <tg>
             <t pos="N">olmmoš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">persovdna</t>
          </tg>
@@ -37485,11 +37582,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">hiihtohousut</l>
+         <l pos="N" nr="Pl">hiihtohousut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">čuoiganbuvssat</t>
+            <t pos="N" nr="Pl">čuoiganbuvssat</t>
          </tg>
       </mg>
    </e>
@@ -37531,6 +37628,8 @@
          <tg>
             <t pos="N">hilla</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">čađđa</t>
          </tg>
@@ -38098,7 +38197,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">housut</l>
+         <l pos="N" nr="Pl">housut</l>
       </lg>
       <mg>
          <tg>
@@ -38189,6 +38288,8 @@
          <tg>
             <t pos="N">čohkka</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">boldni</t>
          </tg>
@@ -38317,6 +38418,8 @@
          <tg>
             <t pos="N">fuolla</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">moraš</t>
          </tg>
@@ -39134,11 +39237,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">häät</l>
+         <l pos="N" nr="Pl">häät</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">heajat</t>
+            <t pos="N" nr="Pl">heajat</t>
          </tg>
       </mg>
       <mg>
@@ -39595,6 +39698,8 @@
          <tg>
             <t pos="N">albmoneapmi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">fenomena</t>
          </tg>
@@ -40388,6 +40493,8 @@
          <tg>
             <t pos="N">ráidu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">oassi</t>
          </tg>
@@ -40451,6 +40558,8 @@
          <tg>
             <t pos="N">spábbačiekčan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">čiekčanspábba</t>
          </tg>
@@ -41270,9 +41379,13 @@
          <tg>
             <t pos="N">feasta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">ávvudeapmi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">riemut</t>
          </tg>
@@ -41290,7 +41403,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">juhlat</l>
+         <l pos="N" nr="Pl">juhlat</l>
       </lg>
       <mg>
          <tg>
@@ -41300,7 +41413,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">juhlavaatteet</l>
+         <l pos="N" nr="Pl">juhlavaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -41420,7 +41533,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">jumppavaatteet</l>
+         <l pos="N" nr="Pl">jumppavaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -41696,6 +41809,8 @@
          <tg>
             <t pos="N">ruohtas</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">veaddi</t>
          </tg>
@@ -42099,6 +42214,8 @@
          <tg>
             <t pos="N">lahttuvuohta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">miellahttuvuohta</t>
          </tg>
@@ -42726,11 +42843,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">kaimakset</l>
+         <l pos="N" nr="Pl">kaimakset</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">gáimmežat</t>
+            <t pos="N" nr="Pl">gáimmežat</t>
          </tg>
       </mg>
    </e>
@@ -43267,6 +43384,8 @@
          <tg>
             <t pos="N">bákti</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">gálli</t>
          </tg>
@@ -44446,6 +44565,8 @@
          <tg>
             <t pos="N">šattolašvuohta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">vegetašuvdna</t>
          </tg>
@@ -44453,11 +44574,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">kasvot</l>
+         <l pos="N" nr="Pl">kasvot</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">muođut</t>
+            <t pos="N" nr="Pl">muođut</t>
          </tg>
       </mg>
       <mg>
@@ -44914,6 +45035,8 @@
          <tg>
             <t pos="N">gávpi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">rámbuvri</t>
             <t pos="N">rámbuvri</t>
@@ -46198,7 +46321,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">kesättivaljaat</l>
+         <l pos="N" nr="Pl">kesättivaljaat</l>
       </lg>
       <mg>
          <tg>
@@ -46208,7 +46331,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">kesävaatteet</l>
+         <l pos="N" nr="Pl">kesävaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -47696,6 +47819,8 @@
          <tg>
             <t pos="N">gilvvohallan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">gilvu</t>
          </tg>
@@ -48754,6 +48879,8 @@
          <tg>
             <t pos="N">reastaluvvan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">konkursa</t>
          </tg>
@@ -50357,6 +50484,8 @@
          <tg>
             <t pos="N">golaheaddji</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">geavaheaddji</t>
          </tg>
@@ -51485,6 +51614,8 @@
          <tg>
             <t pos="N">gilga</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">siidu</t>
          </tg>
@@ -51987,11 +52118,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">käräjät</l>
+         <l pos="N" nr="Pl">käräjät</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">gearregat</t>
+            <t pos="N" nr="Pl">gearregat</t>
          </tg>
       </mg>
       <mg>
@@ -52103,6 +52234,8 @@
          <tg>
             <t pos="N">ipmárdus</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">áddejupmi</t>
          </tg>
@@ -52251,6 +52384,8 @@
          <tg>
             <t pos="N">fitnan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">galledeapmi</t>
          </tg>
@@ -52274,6 +52409,8 @@
          <tg>
             <t pos="N">sodju</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">moalki</t>
          </tg>
@@ -52307,10 +52444,14 @@
          <tg>
             <t pos="N">geavaheapmi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">atnu</t>
             <t pos="N">atnin</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">geavahus</t>
          </tg>
@@ -52819,9 +52960,13 @@
          <tg>
             <t pos="N">apparáhta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">bierggas</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">rusttet</t>
          </tg>
@@ -54444,6 +54589,8 @@
          <tg>
             <t pos="N">girdišillju</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">girdihámman</t>
          </tg>
@@ -54612,6 +54759,8 @@
          <tg>
             <t pos="N">dilihisvuohta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">leabohisvuohta</t>
          </tg>
@@ -54625,6 +54774,8 @@
          <tg>
             <t pos="N">duolbbus</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">pláhta</t>
          </tg>
@@ -54986,6 +55137,8 @@
          <tg>
             <t pos="N">johtalus</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">johtolat</t>
          </tg>
@@ -55188,7 +55341,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">liivit</l>
+         <l pos="N" nr="Pl">liivit</l>
       </lg>
       <mg>
          <tg>
@@ -55979,6 +56132,8 @@
          <tg>
             <t pos="N">lunša</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">beaivemális</t>
          </tg>
@@ -56167,6 +56322,8 @@
          <tg>
             <t pos="N">lohku</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">lohkomearri</t>
          </tg>
@@ -56345,6 +56502,8 @@
          <tg>
             <t pos="N">sivdnideaddji</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">luovvi</t>
          </tg>
@@ -56488,6 +56647,8 @@
          <tg>
             <t pos="N">luonddudieđa</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">biologiija</t>
          </tg>
@@ -57647,6 +57808,8 @@
          <tg>
             <t pos="N">málen</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">málagovva</t>
          </tg>
@@ -57830,6 +57993,8 @@
          <tg>
             <t pos="N">eatnandieđa</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">geografiija</t>
          </tg>
@@ -57878,6 +58043,8 @@
          <tg>
             <t pos="N">riikkagilvu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">eanangilvu</t>
          </tg>
@@ -58101,6 +58268,8 @@
          <tg>
             <t pos="N">eatnamat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">oainnus</t>
          </tg>
@@ -58248,7 +58417,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">makeiset</l>
+         <l pos="N" nr="Pl">makeiset</l>
       </lg>
       <mg>
          <tg>
@@ -58594,6 +58763,8 @@
          <tg>
             <t pos="N">nuonddahallan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">šlundun</t>
          </tg>
@@ -59762,6 +59933,8 @@
          <tg>
             <t pos="N">mihttolávva</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">skálá</t>
          </tg>
@@ -60515,7 +60688,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">myyjäiset</l>
+         <l pos="N" nr="Pl">myyjäiset</l>
       </lg>
       <mg>
          <tg>
@@ -60950,7 +61123,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">nahkavaatteet</l>
+         <l pos="N" nr="Pl">nahkavaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -63064,6 +63237,8 @@
          <tg>
             <t pos="N">leahkin</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">eksisteansa</t>
          </tg>
@@ -63587,6 +63762,8 @@
          <tg>
             <t pos="N">studeanta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">oahppi</t>
          </tg>
@@ -63610,6 +63787,8 @@
          <tg>
             <t pos="N">studeren</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">lohkan</t>
          </tg>
@@ -63674,6 +63853,8 @@
          <tg>
             <t pos="N">vuostebealli</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">opposišuvdna</t>
          </tg>
@@ -63972,6 +64153,8 @@
          <tg>
             <t pos="N">ossodat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">oassi</t>
          </tg>
@@ -64879,7 +65062,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">palkeet</l>
+         <l pos="N" nr="Pl">palkeet</l>
       </lg>
       <mg>
          <tg>
@@ -64930,6 +65113,8 @@
          <tg>
             <t pos="N">máksu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">bálkkašupmi</t>
          </tg>
@@ -66283,6 +66468,8 @@
          <tg>
             <t pos="N">vuođđudeaddji</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">ásaheaddji</t>
          </tg>
@@ -66655,11 +66842,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">pidot</l>
+         <l pos="N" nr="Pl">pidot</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">doalut</t>
+            <t pos="N" nr="Pl">doalut</t>
          </tg>
       </mg>
    </e>
@@ -67116,11 +67303,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">pikkuhousut</l>
+         <l pos="N" nr="Pl">pikkuhousut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">sisbuvssat</t>
+            <t pos="N" nr="Pl">sisbuvssat</t>
          </tg>
       </mg>
    </e>
@@ -67466,7 +67653,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">piparit</l>
+         <l pos="N" nr="Pl">piparit</l>
       </lg>
       <mg>
          <tg>
@@ -68910,15 +69097,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">portaat</l>
+         <l pos="N" nr="Pl">portaat</l>
       </lg>
       <mg>
          <tg>
             <t pos="N">ráhppá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="N">tráhppá</t>
          </tg>
       </mg>
@@ -68936,6 +69119,8 @@
          <tg>
             <t pos="N">poarta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">uksa</t>
          </tg>
@@ -69404,10 +69589,14 @@
          <tg>
             <t pos="N">hupman</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">hállan</t>
             <t pos="N">hálla</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">sáhka</t>
          </tg>
@@ -69575,7 +69764,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">pukimet</l>
+         <l pos="N" nr="Pl">pukimet</l>
       </lg>
       <mg>
          <tg>
@@ -72378,7 +72567,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">rasitukset</l>
+         <l pos="N" nr="Pl">rasitukset</l>
       </lg>
       <mg>
          <tg>
@@ -72464,6 +72653,8 @@
          <tg>
             <t pos="N">luodda</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">vuojáhat</t>
          </tg>
@@ -72607,6 +72798,8 @@
          <tg>
             <t pos="N">biebmu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">borramuš</t>
          </tg>
@@ -72674,7 +72867,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">reidet</l>
+         <l pos="N" nr="Pl">reidet</l>
       </lg>
       <mg>
          <tg re="kangaspuiden">
@@ -72694,7 +72887,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">reisilihakset</l>
+         <l pos="N" nr="Pl">reisilihakset</l>
       </lg>
       <mg>
          <tg>
@@ -73180,6 +73373,8 @@
          <tg>
             <t pos="N">fielti</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">ceahkki</t>
          </tg>
@@ -73504,6 +73699,8 @@
          <tg>
             <t pos="N">ruossalasvuohta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">soahpameahttunvuohta</t>
          </tg>
@@ -73992,6 +74189,8 @@
          <tg>
             <t pos="N">dikten</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">poesiija</t>
          </tg>
@@ -75245,6 +75444,8 @@
          <tg>
             <t pos="N">sullot</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">suologuovlu</t>
          </tg>
@@ -75328,6 +75529,8 @@
          <tg>
             <t pos="N">olahus</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">jovssus</t>
          </tg>
@@ -75400,7 +75603,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">sadevaatteet</l>
+         <l pos="N" nr="Pl">sadevaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -75615,7 +75818,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">sakset</l>
+         <l pos="N" nr="Pl">sakset</l>
       </lg>
       <mg>
          <tg>
@@ -75696,6 +75899,8 @@
          <tg>
             <t pos="N">meahcci</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">vuovdeguovlu</t>
          </tg>
@@ -76023,7 +76228,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">sarvet</l>
+         <l pos="N" nr="Pl">sarvet</l>
       </lg>
       <mg>
          <tg>
@@ -76304,6 +76509,8 @@
          <tg>
             <t pos="N">čuokkis</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">ášši</t>
          </tg>
@@ -77341,15 +77548,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">silmälasit</l>
+         <l pos="N" nr="Pl">silmälasit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">čalbmelásat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
+            <t pos="N" nr="Pl">čalbmelásat</t>
             <t pos="N">čalbmeláset</t>
          </tg>
       </mg>
@@ -78426,11 +78629,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">stereot</l>
+         <l pos="N" nr="Pl">stereot</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">stereot</t>
+            <t pos="N" nr="Pl">stereot</t>
          </tg>
       </mg>
    </e>
@@ -78606,11 +78809,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">sukkahousut</l>
+         <l pos="N" nr="Pl">sukkahousut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">suohkkobuvssat</t>
+            <t pos="N" nr="Pl">suohkkobuvssat</t>
          </tg>
       </mg>
    </e>
@@ -79207,6 +79410,8 @@
          <tg>
             <t pos="N">doaimmár</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">prosessor</t>
          </tg>
@@ -79240,6 +79445,8 @@
          <tg>
             <t pos="N">idola</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">oidot</t>
          </tg>
@@ -79483,6 +79690,8 @@
          <tg>
             <t pos="N">hálti</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">viggamuš</t>
          </tg>
@@ -80046,6 +80255,8 @@
          <tg>
             <t pos="N">sivahus</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">stevnnet</t>
          </tg>
@@ -80179,6 +80390,8 @@
          <tg>
             <t pos="N">elektrisitehta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">elrávdnji</t>
          </tg>
@@ -80271,7 +80484,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">sänkyvaatteet</l>
+         <l pos="N" nr="Pl">sänkyvaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -80362,6 +80575,8 @@
          <tg>
             <t pos="N">ivdni</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">suoivva</t>
          </tg>
@@ -81140,6 +81355,8 @@
          <tg>
             <t pos="N">ekonomiija</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">dállodoallu</t>
          </tg>
@@ -81232,7 +81449,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">talvivaatteet</l>
+         <l pos="N" nr="Pl">talvivaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -81728,6 +81945,8 @@
          <tg>
             <t pos="N">republihkka</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">dásseváldi</t>
          </tg>
@@ -82106,6 +82325,8 @@
          <tg>
             <t pos="N">bargu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">doaibma</t>
          </tg>
@@ -82129,6 +82350,8 @@
          <tg>
             <t pos="N">dahkan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">dahkamuš</t>
          </tg>
@@ -82372,6 +82595,8 @@
          <tg>
             <t pos="N">duodji</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">bargu</t>
          </tg>
@@ -82510,6 +82735,8 @@
          <tg>
             <t pos="N">dearri</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">ávju</t>
          </tg>
@@ -82678,6 +82905,8 @@
          <tg>
             <t pos="N">fakultehta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">dieđagoddi</t>
          </tg>
@@ -82701,6 +82930,8 @@
          <tg>
             <t pos="N">fiila</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">vuorká</t>
          </tg>
@@ -83779,6 +84010,8 @@
          <tg>
             <t pos="N">fakta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">duohtaášši</t>
          </tg>
@@ -83881,11 +84114,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">treenihousut</l>
+         <l pos="N" nr="Pl">treenihousut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">hárjehallanbuvssat</t>
+            <t pos="N" nr="Pl">hárjehallanbuvssat</t>
          </tg>
       </mg>
    </e>
@@ -84007,9 +84240,13 @@
          <tg>
             <t pos="N">doarjja</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">duvdda</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">caggi</t>
          </tg>
@@ -84443,6 +84680,8 @@
          <tg>
             <t pos="N">dovddut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">mielladilli</t>
          </tg>
@@ -84506,6 +84745,8 @@
          <tg>
             <t pos="N">oktavuohta</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">lagašvuohta</t>
          </tg>
@@ -84729,6 +84970,8 @@
          <tg>
             <t pos="N">buvttadeapmi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">buvttadus</t>
          </tg>
@@ -85542,6 +85785,8 @@
          <tg>
             <t pos="N">stiila</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">vuohki</t>
          </tg>
@@ -85824,7 +86069,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">työvaatteet</l>
+         <l pos="N" nr="Pl">työvaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -86374,7 +86619,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="N">olgguldasbivttas</t>
+            <t pos="N" nr="Pl">olgguldasbivttas</t>
          </tg>
       </mg>
    </e>
@@ -86521,9 +86766,13 @@
          <tg>
             <t pos="N">gurra</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">luodda</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">karrieara</t>
          </tg>
@@ -86712,9 +86961,13 @@
          <tg>
             <t pos="N">osku</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">kristtalaš</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">oskkolaš</t>
          </tg>
@@ -86907,11 +87160,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">uutiset</l>
+         <l pos="N" nr="Pl">uutiset</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">ságat</t>
+            <t pos="N" nr="Pl">ságat</t>
          </tg>
       </mg>
    </e>
@@ -87107,7 +87360,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">vaalit</l>
+         <l pos="N" nr="Pl">vaalit</l>
       </lg>
       <mg>
          <tg>
@@ -87498,6 +87751,8 @@
          <tg>
             <t pos="N">bealdu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">gieddi</t>
          </tg>
@@ -87511,6 +87766,8 @@
          <tg>
             <t pos="N">doarrádallan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">váidnu</t>
          </tg>
@@ -87779,6 +88036,8 @@
          <tg>
             <t pos="N">válderihpan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">revolušuvdna</t>
          </tg>
@@ -87882,6 +88141,8 @@
          <tg>
             <t pos="N">váldi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">fápmu</t>
          </tg>
@@ -88495,6 +88756,8 @@
          <tg>
             <t pos="N">eaktu</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">várrehus</t>
          </tg>
@@ -88708,6 +88971,8 @@
          <tg>
             <t pos="N">bierggas</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">rusttet</t>
          </tg>
@@ -89140,7 +89405,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">vaunut</l>
+         <l pos="N" nr="Pl">vaunut</l>
       </lg>
       <mg>
          <tg>
@@ -89215,11 +89480,11 @@
    </e>
   <e>
       <lg>
-         <l pos="N">vehnäjauhot</l>
+         <l pos="N" nr="Pl">vehnäjauhot</l>
       </lg>
       <mg>
          <tg>
-            <t pos="N">nisojáffut</t>
+            <t pos="N" nr="Pl">nisojáffut</t>
          </tg>
       </mg>
    </e>
@@ -89575,7 +89840,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">verhot</l>
+         <l pos="N" nr="Pl">verhot</l>
       </lg>
       <mg>
          <tg>
@@ -90061,6 +90326,8 @@
          <tg>
             <t pos="N">dieđáhus</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">sáhka</t>
          </tg>
@@ -90084,6 +90351,8 @@
          <tg>
             <t pos="N">fašši</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">suhttu</t>
          </tg>
@@ -90322,6 +90591,8 @@
          <tg>
             <t pos="N">viidni</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">viidna</t>
          </tg>
@@ -90385,6 +90656,8 @@
          <tg>
             <t pos="N">gákti</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">luhkka</t>
          </tg>
@@ -90398,6 +90671,8 @@
          <tg>
             <t pos="N">seavvin</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">čujuheapmi</t>
          </tg>
@@ -90481,6 +90756,8 @@
          <tg>
             <t pos="N">šaddadeapmi</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">gilvin</t>
          </tg>
@@ -90623,7 +90900,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">viranomaiset</l>
+         <l pos="N" nr="Pl">viranomaiset</l>
       </lg>
       <mg>
          <tg>
@@ -90739,6 +91016,8 @@
          <tg>
             <t pos="N">rávdnji</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">golgan</t>
          </tg>
@@ -90896,16 +91175,6 @@
    </e>
   <e>
       <lg>
-         <l pos="N">voima</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N">fápmu</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="N">voimakas kipu</l>
       </lg>
       <mg>
@@ -91031,7 +91300,7 @@
    </e>
   <e>
       <lg>
-         <l pos="N">vuodevaatteet</l>
+         <l pos="N" nr="Pl">vuodevaatteet</l>
       </lg>
       <mg>
          <tg>
@@ -91377,6 +91646,8 @@
          <tg>
             <t pos="N">álbmot</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">populašuvdna</t>
          </tg>
@@ -91755,6 +92026,8 @@
          <tg>
             <t pos="N">ađa</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">váimmus</t>
          </tg>
@@ -91808,6 +92081,8 @@
          <tg>
             <t pos="N">oktiibiddju</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="N">kombinašuvdna</t>
          </tg>
@@ -93971,6 +94246,8 @@
          <tg>
             <t pos="Po">gaskkas</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Po">siste</t>
          </tg>
@@ -94234,6 +94511,8 @@
          <tg>
             <t pos="Po">mielde</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Po">fárus</t>
          </tg>
@@ -94622,6 +94901,8 @@
          <tg>
             <t pos="Po">seahká</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Po">siste</t>
          </tg>
@@ -94635,6 +94916,8 @@
          <tg>
             <t pos="Po">seahká</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="Po">siste</t>
          </tg>
@@ -96098,6 +96381,8 @@
          <tg>
             <t pos="V">leat sivvan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čuožžilit</t>
          </tg>
@@ -97292,6 +97577,8 @@
          <tg>
             <t pos="V">ássat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">sajáiduvvat</t>
          </tg>
@@ -97695,6 +97982,8 @@
          <tg>
             <t pos="V">elimineret</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">sihkkut</t>
          </tg>
@@ -97798,6 +98087,8 @@
          <tg>
             <t pos="V">ávaštallat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">noahkut</t>
          </tg>
@@ -97841,6 +98132,8 @@
          <tg>
             <t pos="V">ovddeštit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">restaureret</t>
          </tg>
@@ -97854,6 +98147,8 @@
          <tg>
             <t pos="V">ovddeštit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">restaureret</t>
          </tg>
@@ -97887,6 +98182,8 @@
          <tg>
             <t pos="V">eahpidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gáddit</t>
          </tg>
@@ -98305,6 +98602,8 @@
          <tg>
             <t pos="V">evakueret</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gurret</t>
          </tg>
@@ -98783,6 +99082,8 @@
          <tg>
             <t pos="V">áigut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ohcalit</t>
          </tg>
@@ -99416,6 +99717,8 @@
          <tg>
             <t pos="V">áicat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">fuobmát</t>
          </tg>
@@ -99899,6 +100202,8 @@
          <tg>
             <t pos="V">boktit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rávkat</t>
          </tg>
@@ -100222,6 +100527,8 @@
          <tg>
             <t pos="V">sadjit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">šliipet</t>
          </tg>
@@ -100495,6 +100802,8 @@
          <tg>
             <t pos="V">hohkahit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">hohkahallat</t>
          </tg>
@@ -100658,6 +100967,8 @@
          <tg>
             <t pos="V">heavahit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">láhppit</t>
          </tg>
@@ -100801,6 +101112,8 @@
          <tg>
             <t pos="V">dikšut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">fuolahit</t>
          </tg>
@@ -100814,6 +101127,8 @@
          <tg>
             <t pos="V">fuobmát</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">fuomášit</t>
          </tg>
@@ -102367,9 +102682,13 @@
          <tg>
             <t pos="V">čohkkáhit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">bidjat šaddat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gilvit</t>
          </tg>
@@ -102753,6 +103072,8 @@
          <tg>
             <t pos="V">hovdet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">jođihit</t>
          </tg>
@@ -102766,6 +103087,8 @@
          <tg>
             <t pos="V">boahtit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čuovvut</t>
          </tg>
@@ -102799,6 +103122,8 @@
          <tg>
             <t pos="V">dávggastit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">guorrat</t>
          </tg>
@@ -103667,6 +103992,8 @@
          <tg re="jousi">
             <t pos="V">gealdit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gealdašuvvat</t>
          </tg>
@@ -103680,6 +104007,8 @@
          <tg>
             <t pos="V">ordnet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">lágidit</t>
          </tg>
@@ -103753,6 +104082,8 @@
          <tg>
             <t pos="V">soasihit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">lihkkasit</t>
          </tg>
@@ -104071,6 +104402,8 @@
          <tg>
             <t pos="V">váldit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rivvet</t>
          </tg>
@@ -104165,11 +104498,6 @@
             <t pos="V">gahččat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kaatua</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">ravgat</t>
@@ -104724,6 +105052,8 @@
          <tg>
             <t pos="V">ádjit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">vuodjelit</t>
          </tg>
@@ -104787,6 +105117,8 @@
          <tg>
             <t pos="V">garvit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">hilggodit</t>
          </tg>
@@ -104800,6 +105132,8 @@
          <tg>
             <t pos="V">gártadit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">lasihit</t>
          </tg>
@@ -105253,6 +105587,8 @@
          <tg>
             <t pos="V">soasihit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gáfestuvvat</t>
          </tg>
@@ -105376,6 +105712,8 @@
          <tg>
             <t pos="V">gárget</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gárgehit</t>
          </tg>
@@ -105394,6 +105732,8 @@
          <tg>
             <t pos="V">šaddat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">bohciidit</t>
          </tg>
@@ -105757,6 +106097,8 @@
          <tg>
             <t pos="V">čoggot</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gártat</t>
          </tg>
@@ -105849,16 +106191,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">kerätä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">čoaggit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">kerääntyä</l>
       </lg>
       <mg>
@@ -105895,6 +106227,8 @@
          <tg>
             <t pos="V">čoahkkanit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">vuodjut</t>
          </tg>
@@ -106236,6 +106570,8 @@
          <tg re="suuttua">
             <t pos="V">eaddut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">suhttat</t>
          </tg>
@@ -106399,6 +106735,8 @@
          <tg>
             <t pos="V">nákkáhallat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">digaštallat</t>
          </tg>
@@ -106562,6 +106900,8 @@
          <tg>
             <t pos="V">biškut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gilljut</t>
          </tg>
@@ -106611,6 +106951,8 @@
          <tg>
             <t pos="V">gilvvohallat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gilvalit</t>
          </tg>
@@ -106807,18 +107149,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">girjjogárjjohallat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kirjoa</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="V">hervet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">girjjohallat</t>
          </tg>
@@ -107353,11 +107687,6 @@
             <t pos="V">allánit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kohota</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">badjánit</t>
@@ -107372,6 +107701,8 @@
          <tg>
             <t pos="V">bajidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">loktet</t>
          </tg>
@@ -107483,27 +107814,17 @@
       </lg>
       <mg>
          <tg>
+            <t pos="V">čoahkkanit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="V">čoagganit</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="V">čohkiidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="V">čoahkkanit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kokoontua</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">čoahkkanit</t>
          </tg>
       </mg>
    </e>
@@ -107768,7 +108089,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">dekoreret</t>
+            <t pos="V">čiŋahit</t>
          </tg>
       </mg>
       <mg>
@@ -107778,22 +108099,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="V">čiŋahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="V">hearvvahit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">koristella</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">čiŋahit</t>
          </tg>
       </mg>
    </e>
@@ -107834,16 +108140,6 @@
       <mg>
          <tg>
             <t pos="V">muddet</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">korjata</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">divvut</t>
          </tg>
       </mg>
    </e>
@@ -108154,16 +108450,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">kuivata</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">goiket</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">kuivattaa</l>
       </lg>
       <mg>
@@ -108200,6 +108486,8 @@
          <tg>
             <t pos="V">vuoitit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">njeaidit</t>
          </tg>
@@ -108312,20 +108600,6 @@
       <mg>
          <tg>
             <t pos="V">fievrredit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="V">fievrridit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kuljettaa</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="V">fievrridit</t>
          </tg>
       </mg>
@@ -108593,19 +108867,6 @@
          <tg>
             <t pos="V">gollat</t>
          </tg>
-         <tg>
-            <t pos="V">nohkat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kulua</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">gollat</t>
-         </tg>
       </mg>
       <mg>
          <tg>
@@ -108662,11 +108923,6 @@
             <t pos="V">golahit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kuluttaa</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">loaktit</t>
@@ -109195,16 +109451,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">kutoa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">gođđit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">kutsua jotakuta anopiksi</l>
       </lg>
       <mg>
@@ -109221,18 +109467,10 @@
          <tg>
             <t pos="V">bovdet</t>
          </tg>
-         <tg>
-            <t pos="V">gohččut</t>
-         </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kutsua</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="V">bovdet</t>
+            <t pos="V">gohččut</t>
          </tg>
       </mg>
       <mg>
@@ -109249,6 +109487,8 @@
          <tg>
             <t pos="V">bovdehit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gohčodit</t>
          </tg>
@@ -109282,6 +109522,8 @@
          <tg>
             <t pos="V">čuodjat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gullot</t>
          </tg>
@@ -109440,23 +109682,15 @@
          <tg>
             <t pos="V">govvidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">govvet</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kuvata</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">válddahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="V">govvidit</t>
          </tg>
       </mg>
    </e>
@@ -109478,6 +109712,8 @@
          <tg>
             <t pos="V">illustreret</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">govuhit</t>
          </tg>
@@ -109491,15 +109727,12 @@
          <tg>
             <t pos="V">bastit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">nákcet</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kyetä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">nagadit</t>
@@ -109523,16 +109756,6 @@
       <mg>
          <tg>
             <t pos="V">čalmmástuvvat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kyllästyä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">dolkat</t>
          </tg>
       </mg>
    </e>
@@ -109719,6 +109942,8 @@
          <tg>
             <t pos="V">laktit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čatnat</t>
          </tg>
@@ -109961,22 +110186,14 @@
    </e>
   <e>
       <lg>
-         <l pos="V">käsitellä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">gieđahallat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">käsittää</l>
       </lg>
       <mg>
          <tg>
             <t pos="V">ipmirdit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">áddet</t>
          </tg>
@@ -110209,16 +110426,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">käydä kylässä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">gallestallat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">käydä ostoksilla</l>
       </lg>
       <mg>
@@ -110246,15 +110453,12 @@
             <t pos="V">fitnat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">käydä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">geavvat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">mannat</t>
          </tg>
@@ -110347,16 +110551,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">käyttäytyä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">meannudit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">käyttää hihnaa</l>
       </lg>
       <mg>
@@ -110412,16 +110606,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">käyttää</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">geavahit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">käännellä nurjin puolin</l>
       </lg>
       <mg>
@@ -110458,18 +110642,10 @@
          <tg>
             <t pos="V">jorggihit</t>
          </tg>
-         <tg>
-            <t pos="V">jorgalit</t>
-         </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kääntyä</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="V">jorggihit</t>
+            <t pos="V">jorgalit</t>
          </tg>
       </mg>
       <mg>
@@ -110507,16 +110683,6 @@
             <t pos="V">dulkot</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t pos="V">jorgalit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">kääntää</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">jorgalit</t>
@@ -110589,16 +110755,6 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">viiddidit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">laajentaa</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="V">viidudit</t>
          </tg>
       </mg>
@@ -110647,24 +110803,9 @@
             <t pos="V">gárvvistit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">laatia</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">ordnet</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">ladata panos</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">láddet</t>
          </tg>
       </mg>
    </e>
@@ -110677,11 +110818,6 @@
             <t pos="V">luđet</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">ladata</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">láddet</t>
@@ -110926,18 +111062,10 @@
          <tg>
             <t pos="V">bidjat</t>
          </tg>
-         <tg>
-            <t pos="V">stellet</t>
-         </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">laittaa</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="V">bidjat</t>
+            <t pos="V">stellet</t>
          </tg>
       </mg>
       <mg>
@@ -111044,6 +111172,8 @@
          <tg>
             <t pos="V">ravgat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gahččat</t>
          </tg>
@@ -111168,11 +111298,6 @@
             <t pos="V">rehkenuššat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">laskea</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">luoitit</t>
@@ -111258,11 +111383,6 @@
             <t pos="V">luoitalit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">laskeutua</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">luoitit</t>
@@ -111541,16 +111661,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">leikata</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">čuohppat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">leikellä kangasta tai nahkaa</l>
       </lg>
       <mg>
@@ -111777,18 +111887,10 @@
          <tg>
             <t pos="V">lebbet</t>
          </tg>
-         <tg>
-            <t pos="V">viiddidit</t>
-         </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">levittää</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="V">lebbet</t>
+            <t pos="V">viiddidit</t>
          </tg>
       </mg>
    </e>
@@ -111890,6 +111992,8 @@
          <tg>
             <t pos="V">geahpidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">álkidahttit</t>
          </tg>
@@ -112119,15 +112223,7 @@
             <t pos="V">lihkadit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">liikkua</l>
-      </lg>
       <mg>
-         <tg>
-            <t pos="V">lihkadit</t>
-         </tg>
          <tg>
             <t pos="V">lihkkat</t>
          </tg>
@@ -112172,11 +112268,6 @@
             <t pos="V">stuorádallat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">liioitella</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">veavttastit</t>
@@ -112220,16 +112311,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">liittyä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">láktasit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">liittää</l>
       </lg>
       <mg>
@@ -112237,15 +112318,12 @@
             <t pos="V">laktit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">liitää</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">seivvodit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">sattihit</t>
          </tg>
@@ -112559,6 +112637,8 @@
          <tg>
             <t pos="V">čellet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">hárčet</t>
          </tg>
@@ -112773,11 +112853,6 @@
             <t pos="V">heaitit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">lopettaa</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">heaittihit</t>
@@ -112811,16 +112886,6 @@
    </e>
   <e>
       <lg>
-         <l pos="V">loppua</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">nohkat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">louhia</l>
       </lg>
       <mg>
@@ -112837,6 +112902,8 @@
          <tg>
             <t pos="V">norddastit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">lábmet</t>
          </tg>
@@ -112861,11 +112928,6 @@
             <t pos="V">loavkašuvvat</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">loukkaantua</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">lápmašuvvat</t>
@@ -113008,22 +113070,12 @@
       </lg>
       <mg>
          <tg>
+            <t pos="V">lohkat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="V">logadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="V">lohkat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">lukea</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">lohkat</t>
          </tg>
       </mg>
    </e>
@@ -113146,11 +113198,6 @@
             <t pos="V">luobahit</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">luopua</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">luohpat</t>
@@ -113441,16 +113488,6 @@
             <t pos="V">lahkanit</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t pos="V">lahkonit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">lähestyä</l>
-      </lg>
       <mg>
          <tg>
             <t pos="V">lahkonit</t>
@@ -113908,7 +113945,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">johtit</t>
+            <t pos="V">vuolgit</t>
          </tg>
       </mg>
       <mg>
@@ -113918,17 +113955,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="V">vuolgit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">lähteä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">vuolgit</t>
+            <t pos="V">johtit</t>
          </tg>
       </mg>
    </e>
@@ -114475,6 +114502,8 @@
          <tg>
             <t pos="V">reklameret</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rábmot</t>
          </tg>
@@ -114763,6 +114792,8 @@
          <tg>
             <t pos="V">márset</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">márseret</t>
          </tg>
@@ -114846,6 +114877,8 @@
          <tg>
             <t pos="V">jođašit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">mátkkoštit</t>
          </tg>
@@ -114964,6 +114997,8 @@
          <tg>
             <t pos="V">láhttet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">meannudit</t>
          </tg>
@@ -115697,6 +115732,8 @@
          <tg>
             <t pos="V">moivet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">borvet vuđolaččat</t>
          </tg>
@@ -115745,9 +115782,13 @@
          <tg>
             <t pos="V">ráhkadit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čohkket</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">cegget</t>
          </tg>
@@ -115916,6 +115957,8 @@
          <tg>
             <t pos="V">mollet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">skálmmastit</t>
          </tg>
@@ -116449,6 +116492,8 @@
          <tg>
             <t pos="V">másket</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">maskeret</t>
          </tg>
@@ -116502,6 +116547,8 @@
          <tg>
             <t pos="V">váldit beallelažžan</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">anašit</t>
          </tg>
@@ -118315,6 +118362,8 @@
          <tg>
             <t pos="V">stivret</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">bagadallat</t>
          </tg>
@@ -119888,6 +119937,8 @@
          <tg>
             <t pos="V">áŧestit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">deaddit</t>
          </tg>
@@ -120986,6 +121037,8 @@
          <tg>
             <t pos="V">njáskat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">reduseret</t>
          </tg>
@@ -121389,6 +121442,8 @@
          <tg>
             <t pos="V">behttot</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">beahttašuvvat</t>
          </tg>
@@ -122497,6 +122552,8 @@
          <tg>
             <t pos="V">doallat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">atnit</t>
          </tg>
@@ -123150,9 +123207,13 @@
          <tg>
             <t pos="V">hupmat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">hállat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">sárdnut</t>
          </tg>
@@ -124361,6 +124422,8 @@
          <tg>
             <t pos="V">gokčat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">bajidit</t>
          </tg>
@@ -124664,6 +124727,8 @@
          <tg>
             <t pos="V">rundit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">geassit</t>
          </tg>
@@ -124772,6 +124837,8 @@
          <tg>
             <t pos="V">illastit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ráisket</t>
          </tg>
@@ -125140,6 +125207,8 @@
          <tg>
             <t pos="V">rátkit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čoavddašit</t>
          </tg>
@@ -125173,6 +125242,8 @@
          <tg>
             <t pos="V">healbat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">máhccat</t>
          </tg>
@@ -125441,6 +125512,8 @@
          <tg>
             <t pos="V">rahtasit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gaikánit</t>
          </tg>
@@ -125464,6 +125537,8 @@
          <tg>
             <t pos="V">bieđđat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rieibmudit</t>
          </tg>
@@ -125551,41 +125626,18 @@
    </e>
   <e>
       <lg>
-         <l pos="V">riisua housut</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">nallat</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="V">riisua äkkiä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">nuolastit</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="V">riisua</l>
       </lg>
       <mg>
          <tg>
             <t pos="V">nuoladit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t pos="V">nuolahit</t>
+            <t pos="V">nuollat</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t pos="V">nuollat</t>
+         <tg re="äkkiä">
+            <t pos="V">nuolastit</t>
          </tg>
       </mg>
    </e>
@@ -125627,6 +125679,8 @@
          <tg>
             <t pos="V">bistit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">juoksut</t>
          </tg>
@@ -125695,6 +125749,8 @@
          <tg>
             <t pos="V">cuvket</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">biđget</t>
          </tg>
@@ -125708,6 +125764,8 @@
          <tg>
             <t pos="V">cuovkanit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">billašuvvat</t>
          </tg>
@@ -125906,6 +125964,8 @@
          <tg>
             <t pos="V">bilidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">biđget</t>
          </tg>
@@ -126099,6 +126159,8 @@
          <tg>
             <t pos="V">laskat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">lassánit</t>
          </tg>
@@ -126547,6 +126609,8 @@
          <tg>
             <t pos="V">riepmat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">álgit</t>
          </tg>
@@ -126590,6 +126654,8 @@
          <tg>
             <t pos="V">riepmat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">álgit</t>
          </tg>
@@ -126663,6 +126729,8 @@
          <tg>
             <t pos="V">girdit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">boalddihit</t>
          </tg>
@@ -127741,6 +127809,8 @@
          <tg>
             <t pos="V">joavdat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">boahtit</t>
          </tg>
@@ -127959,6 +128029,8 @@
          <tg>
             <t pos="V">buohccát</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">skihppát</t>
          </tg>
@@ -128022,6 +128094,8 @@
          <tg>
             <t pos="V">čiehkat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">beaitit</t>
          </tg>
@@ -128045,6 +128119,8 @@
          <tg>
             <t pos="V">diktit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">mieđihit</t>
          </tg>
@@ -128116,6 +128192,8 @@
          <tg>
             <t pos="V">vánddardit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">jođašit</t>
          </tg>
@@ -128139,9 +128217,13 @@
          <tg>
             <t pos="V">dadjat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">lohkat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">cealkit</t>
          </tg>
@@ -128305,6 +128387,8 @@
          <tg>
             <t pos="V">soaitit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">deaivat</t>
          </tg>
@@ -128741,6 +128825,8 @@
          <tg>
             <t pos="V">ceavzit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">birget</t>
          </tg>
@@ -129044,6 +129130,8 @@
          <tg>
             <t pos="V">sahkanit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">lassánit</t>
          </tg>
@@ -129247,6 +129335,8 @@
          <tg>
             <t pos="V">deavdit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čiŋahit</t>
          </tg>
@@ -129870,6 +129960,8 @@
          <tg>
             <t pos="V">heivehit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">guoskadit</t>
          </tg>
@@ -130033,6 +130125,8 @@
          <tg>
             <t pos="V">heivet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">soahpat</t>
          </tg>
@@ -130126,6 +130220,8 @@
          <tg>
             <t pos="V">firrot</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">fierrat</t>
          </tg>
@@ -130509,6 +130605,8 @@
          <tg>
             <t pos="V">čielgat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">geargat</t>
          </tg>
@@ -130522,6 +130620,8 @@
          <tg>
             <t pos="V">oidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">favoriseret</t>
          </tg>
@@ -130545,6 +130645,8 @@
          <tg>
             <t pos="V">neavvut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rávvet</t>
          </tg>
@@ -130573,6 +130675,8 @@
          <tg>
             <t pos="V">neavvut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rávvet</t>
          </tg>
@@ -130586,6 +130690,8 @@
          <tg>
             <t pos="V">guorrasit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">mieđihit</t>
          </tg>
@@ -130599,6 +130705,8 @@
          <tg>
             <t pos="V">humahit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">sojahit</t>
          </tg>
@@ -130632,6 +130740,8 @@
          <tg>
             <t pos="V">šurrat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">cuhlaidit</t>
          </tg>
@@ -130655,6 +130765,8 @@
          <tg>
             <t pos="V">gáržut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">uhccut</t>
          </tg>
@@ -130668,6 +130780,8 @@
          <tg>
             <t pos="V">sotnat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ástat</t>
          </tg>
@@ -130691,6 +130805,8 @@
          <tg>
             <t pos="V">sorbmet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">goddit</t>
          </tg>
@@ -130734,6 +130850,8 @@
          <tg>
             <t pos="V">dollet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">sirdit</t>
          </tg>
@@ -130757,6 +130875,8 @@
          <tg>
             <t pos="V">dollet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">dadjalit</t>
          </tg>
@@ -130770,6 +130890,8 @@
          <tg>
             <t pos="V">plánet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">guorahallat</t>
          </tg>
@@ -130793,6 +130915,8 @@
          <tg>
             <t pos="V">jorgalit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">dollet</t>
          </tg>
@@ -131006,6 +131130,8 @@
          <tg>
             <t pos="V">veallat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">vealahit</t>
          </tg>
@@ -131029,6 +131155,8 @@
          <tg>
             <t pos="V">buollát</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čahkkát</t>
          </tg>
@@ -131077,6 +131205,8 @@
          <tg>
             <t pos="V">bullehit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">buolláhit</t>
          </tg>
@@ -131215,6 +131345,8 @@
          <tg>
             <t pos="V">firrohit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">njeaidit</t>
          </tg>
@@ -131248,6 +131380,8 @@
          <tg>
             <t pos="V">borrat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">borahit</t>
          </tg>
@@ -131316,6 +131450,8 @@
          <tg>
             <t pos="V">seailluhit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">bisuhit</t>
          </tg>
@@ -131369,6 +131505,8 @@
          <tg>
             <t pos="V">seailluhit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">konserveret</t>
          </tg>
@@ -131412,6 +131550,8 @@
          <tg>
             <t pos="V">cuvket</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">biđget</t>
          </tg>
@@ -131425,6 +131565,8 @@
          <tg>
             <t pos="V">cuovkanit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">bieđganit</t>
          </tg>
@@ -131898,6 +132040,8 @@
          <tg>
             <t pos="V">fihttet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">árvidit</t>
          </tg>
@@ -132166,6 +132310,8 @@
          <tg>
             <t pos="V">goddit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">sorbmet</t>
          </tg>
@@ -132239,6 +132385,8 @@
          <tg>
             <t pos="V">fáladit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">fáluhit</t>
          </tg>
@@ -132312,6 +132460,8 @@
          <tg>
             <t pos="V">dárkot</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">fáktet</t>
          </tg>
@@ -132355,6 +132505,8 @@
          <tg>
             <t pos="V">dárkot</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">fáktet</t>
          </tg>
@@ -132368,6 +132520,8 @@
          <tg>
             <t pos="V">dárkkuhit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">mearkkašit</t>
          </tg>
@@ -132976,6 +133130,8 @@
          <tg>
             <t pos="V">dahkat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ráhkadit</t>
          </tg>
@@ -133559,6 +133715,8 @@
          <tg>
             <t pos="V">váhkkasit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">áhtat</t>
          </tg>
@@ -133617,6 +133775,8 @@
          <tg>
             <t pos="V">sávvat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">doaivut</t>
          </tg>
@@ -133900,6 +134060,8 @@
          <tg>
             <t pos="V">hávkadit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čáskadit</t>
          </tg>
@@ -135388,6 +135550,8 @@
          <tg>
             <t pos="V">dovdát</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">earuhit</t>
          </tg>
@@ -135611,6 +135775,8 @@
          <tg>
             <t pos="V">duhpáhastit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">borgguhit</t>
          </tg>
@@ -135674,6 +135840,8 @@
          <tg>
             <t pos="V">bilidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">billistit</t>
          </tg>
@@ -135862,6 +136030,8 @@
          <tg>
             <t pos="V">oahpásmit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">oahpásmuvvat</t>
          </tg>
@@ -136565,6 +136735,8 @@
          <tg>
             <t pos="V">áitit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">uhkidit</t>
          </tg>
@@ -136933,6 +137105,8 @@
          <tg>
             <t pos="V">ođasmit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ođasmuvvat</t>
          </tg>
@@ -137006,6 +137180,8 @@
          <tg>
             <t pos="V">ođasmuvvat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ođasmahtit</t>
          </tg>
@@ -137204,6 +137380,8 @@
          <tg>
             <t pos="V">gievrut</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">nannut</t>
          </tg>
@@ -137517,6 +137695,8 @@
          <tg>
             <t pos="V">stáđásmit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">stáđásmuvvat</t>
          </tg>
@@ -137530,6 +137710,8 @@
          <tg>
             <t pos="V">nannet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">dáhkidit</t>
          </tg>
@@ -137683,6 +137865,8 @@
          <tg>
             <t pos="V">váldit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">oamastit</t>
          </tg>
@@ -137706,6 +137890,8 @@
          <tg>
             <t pos="V">váldit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">oamastit</t>
          </tg>
@@ -137739,6 +137925,8 @@
          <tg>
             <t pos="V">ráhkadit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ávnnastit</t>
          </tg>
@@ -137797,6 +137985,8 @@
          <tg>
             <t pos="V">geargat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">válbmanit</t>
          </tg>
@@ -137880,6 +138070,8 @@
          <tg>
             <t pos="V">gohcit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gozihit</t>
          </tg>
@@ -137933,6 +138125,8 @@
          <tg>
             <t pos="V">boarásmit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">boarásmuvvat</t>
          </tg>
@@ -137986,6 +138180,8 @@
          <tg>
             <t pos="V">beastit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">luoitit</t>
          </tg>
@@ -138009,6 +138205,8 @@
          <tg>
             <t pos="V">beassat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">luomusmuvvat</t>
          </tg>
@@ -138177,6 +138375,8 @@
          <tg>
             <t pos="V">fáktet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gozihit</t>
          </tg>
@@ -138200,6 +138400,8 @@
          <tg>
             <t pos="V">čálgat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rávásmit</t>
          </tg>
@@ -138353,6 +138555,8 @@
          <tg>
             <t pos="V">ráhkkanahttit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">rustet</t>
          </tg>
@@ -138591,6 +138795,8 @@
          <tg>
             <t pos="V">fearrat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">belket</t>
          </tg>
@@ -138734,6 +138940,8 @@
          <tg>
             <t pos="V">bohciidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">ihtit</t>
          </tg>
@@ -138812,6 +139020,8 @@
          <tg>
             <t pos="V">geassásit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">geassádit</t>
          </tg>
@@ -138845,6 +139055,8 @@
          <tg>
             <t pos="V">geassit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">njaldit</t>
          </tg>
@@ -138928,6 +139140,8 @@
          <tg>
             <t pos="V">eaidit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">vierrut</t>
          </tg>
@@ -138966,6 +139180,8 @@
          <tg>
             <t pos="V">fierrat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">jorrat</t>
          </tg>
@@ -139022,6 +139238,8 @@
          <tg>
             <t pos="V">atnit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">doallat</t>
          </tg>
@@ -139110,6 +139328,8 @@
          <tg>
             <t pos="V">vihahit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">náitit</t>
          </tg>
@@ -139351,6 +139571,8 @@
          <tg>
             <t pos="V">seavvit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čujuhit</t>
          </tg>
@@ -139429,6 +139651,8 @@
          <tg>
             <t pos="V">šaddadit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">gilvit</t>
          </tg>
@@ -139593,6 +139817,8 @@
          <tg>
             <t pos="V">gožžat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">cissat</t>
          </tg>
@@ -140061,6 +140287,8 @@
          <tg>
             <t pos="V">geahppánit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">uhccut</t>
          </tg>
@@ -140137,6 +140365,8 @@
          <tg>
             <t pos="V">nágget</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">čuoččuhit</t>
          </tg>
@@ -140230,6 +140460,8 @@
          <tg>
             <t pos="V">beassat</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">vealtat</t>
          </tg>
@@ -140358,6 +140590,8 @@
          <tg>
             <t pos="V">bestet</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">bálkáhit</t>
          </tg>
@@ -140856,6 +141090,8 @@
          <tg>
             <t pos="V">ipmirdit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">áddet</t>
          </tg>
@@ -140994,6 +141230,8 @@
          <tg>
             <t pos="V">geahččalit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">iskat</t>
          </tg>
@@ -141112,6 +141350,8 @@
          <tg>
             <t pos="V">hárdit</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <t pos="V">eardudit</t>
          </tg>
