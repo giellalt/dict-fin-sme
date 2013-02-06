@@ -31357,7 +31357,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">rievttat</t>
+            <t pos="N" nr="Pl" freq="0">rievttat</t>
          </tg>
       </mg>
    </e>
@@ -37897,7 +37897,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">hirssat</t>
+            <t pos="N" nr="Pl" freq="0">hirssat</t>
          </tg>
       </mg>
    </e>
@@ -47748,7 +47748,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="5">behttosat</t>
+            <t pos="N" nr="Pl" freq="5">behttosat</t>
          </tg>
       </mg>
    </e>
@@ -56446,7 +56446,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">muohttálagat</t>
+            <t pos="N" nr="Pl" freq="0">muohttálagat</t>
          </tg>
       </mg>
    </e>
@@ -57241,7 +57241,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">birrasat</t>
+            <t pos="N" nr="Pl" freq="0">birrasat</t>
          </tg>
       </mg>
    </e>
@@ -93116,17 +93116,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">aivot</l>
+         <l pos="N" nr="Pl">aivot</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="23">vuoigŋašat</t>
+            <t pos="N" nr="Pl" freq="23">vuoigŋašat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">alimmaiset selkänikamat</l>
+         <l pos="N" nr="Pl">alimmaiset selkänikamat</l>
       </lg>
       <mg>
          <tg>
@@ -93136,87 +93136,87 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">arkivaatteet</l>
+         <l pos="N" nr="Pl">arkivaatteet</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">atnubiktasat</t>
+            <t pos="N" nr="Pl" freq="0">atnubiktasat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">hautajaiset</l>
+         <l pos="N" nr="Pl">hautajaiset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="156">hávdádeapmi</t>
+            <t pos="N" nr="Pl" freq="156">hávdádeapmi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">häät</l>
+         <l pos="N" nr="Pl">häät</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="327">heajat</t>
+            <t pos="N" nr="Pl" freq="327">heajat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">juhlat</l>
+         <l pos="N" nr="Pl">juhlat</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="338">riemut</t>
+            <t pos="N" nr="Pl" freq="338">riemut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">kaverukset</l>
+         <l pos="N" nr="Pl">kaverukset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="18">skihpáraš</t>
+            <t pos="N" nr="Pl" freq="18">skihpáraš</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">keuhkot</l>
+         <l pos="N" nr="Pl">keuhkot</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">geahppát</t>
+            <t pos="N" nr="Pl" freq="0">geahppát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">kälykset</l>
+         <l pos="N" nr="Pl">kälykset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">gálojenežat</t>
+            <t pos="N" nr="Pl" freq="0">gálojenežat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">kärryt</l>
+         <l pos="N" nr="Pl">kärryt</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">skieryt</t>
+            <t pos="N" nr="Pl" freq="0">skieryt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">munuaiset</l>
+         <l pos="N" nr="Pl">munuaiset</l>
       </lg>
       <mg>
          <tg>
@@ -93226,47 +93226,47 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">olympialaiset</l>
+         <l pos="N" nr="Pl">olympialaiset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="113">olympiagilvvut</t>
+            <t pos="N" nr="Pl" freq="113">olympiagilvvut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">pitovaatteet</l>
+         <l pos="N" nr="Pl">pitovaatteet</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">atnubiktasat</t>
+            <t pos="N" nr="Pl" freq="0">atnubiktasat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">rakastavaiset</l>
+         <l pos="N" nr="Pl">rakastavaiset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">ráhkkásaččat</t>
+            <t pos="N" nr="Pl" freq="0">ráhkkásaččat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">ristiäiset</l>
+         <l pos="N" nr="Pl">ristiäiset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="5">ristejaččat</t>
+            <t pos="N" nr="Pl" freq="5">ristejaččat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">saamelaiskäräjien vaalit</l>
+         <l pos="N" nr="Pl">saamelaiskäräjien vaalit</l>
       </lg>
       <mg>
          <tg>
@@ -93276,57 +93276,57 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">seisontavalot</l>
+         <l pos="N" nr="Pl">seisontavalot</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">čuožžunčuovggat</t>
+            <t pos="N" nr="Pl" freq="0">čuožžunčuovggat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">sihtijauhot</l>
+         <l pos="N" nr="Pl">sihtijauhot</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">siktajáffut</t>
+            <t pos="N" nr="Pl" freq="0">siktajáffut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">silavaljaat</l>
+         <l pos="N" nr="Pl">silavaljaat</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">silát</t>
+            <t pos="N" nr="Pl" freq="0">silát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">silmälasit</l>
+         <l pos="N" nr="Pl">silmälasit</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="5">brillat</t>
+            <t pos="N" nr="Pl" freq="5">brillat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">suitset</l>
+         <l pos="N" nr="Pl">suitset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">suittet</t>
+            <t pos="N" nr="Pl" freq="0">suittet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">suurkäräjävaalit</l>
+         <l pos="N" nr="Pl">suurkäräjävaalit</l>
       </lg>
       <mg>
          <tg>
@@ -93336,17 +93336,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">tanssiaiset</l>
+         <l pos="N" nr="Pl">tanssiaiset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">dánsejaččat</t>
+            <t pos="N" nr="Pl" freq="0">dánsejaččat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">täinmunat</l>
+         <l pos="N" nr="Pl">täinmunat</l>
       </lg>
       <mg>
          <tg>
@@ -93356,26 +93356,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">veljesten tai serkusten vaimot keskenään</l>
+         <l pos="N" nr="Pl">veljesten tai serkusten vaimot keskenään</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">gálojenežat</t>
+            <t pos="N" nr="Pl" freq="0">gálojenežat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l nr="pl" pos="N">ystävykset</l>
+         <l pos="N" nr="Pl">ystävykset</l>
       </lg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">lávežat</t>
+            <t pos="N" nr="Pl" freq="0">lávežat</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t nr="pl" pos="N" freq="0">ustibaččat</t>
+            <t pos="N" nr="Pl" freq="0">ustibaččat</t>
          </tg>
       </mg>
    </e>
