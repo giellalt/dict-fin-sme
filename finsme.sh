@@ -4,6 +4,16 @@
 
 # Førebels er det berre eit shellscript.
 
+echo 
+echo "Etter at dette scriptet er ferdig står du i xfst med promten"
+echo "xfst[1]"
+echo 
+echo "Gjör då dette:"
+echo "invert"
+echo "save bin/finsme.fst"
+echo "quit"
+echo ""
+
 # Kommando for å lage finsme.fst
 echo "LEXICON Root" > bin/finsme.lexc
 cat src/finsme.xml | tr '\n' '™' | sed 's/<e>/£/g;'| tr '£' '\n'| sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f5,15| tr ' ' '_'| tr '>' ':'| grep -v '__'|sed 's/$/ # ;/g' >> bin/finsme.lexc
