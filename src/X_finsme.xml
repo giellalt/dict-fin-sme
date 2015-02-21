@@ -41429,16 +41429,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="Pl">juhlat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="125">meassu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" nr="Pl">juhlavaatteet</l>
       </lg>
       <mg>
@@ -77588,8 +77578,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="73">čalbmeláset</t>
             <t pos="N" nr="Pl" freq="9">čalbmelásat</t>
+            <t pos="N" nr="Pl" freq="5">brillat</t>
          </tg>
       </mg>
    </e>
@@ -93166,21 +93156,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="Pl">häät</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" nr="Pl" freq="327">heajat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" nr="Pl">juhlat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" nr="Pl" freq="338">riemut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="125">meassu</t>
          </tg>
       </mg>
    </e>
@@ -93311,16 +93296,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" nr="Pl" freq="0">silát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" nr="Pl">silmälasit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" nr="Pl" freq="5">brillat</t>
          </tg>
       </mg>
    </e>
