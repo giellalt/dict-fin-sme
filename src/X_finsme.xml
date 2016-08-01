@@ -19929,6 +19929,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Adv">vasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="1188">easkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">vastaavanlainen</l>
       </lg>
       <mg>
@@ -28595,11 +28605,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Adv">äsken</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" freq="1188">easkka</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" freq="76">eske</t>
