@@ -8,6 +8,9 @@
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Finsk-nordsamisk ordbok</name>
   <name xml:lang="se">Suoma-davvisámi sátnegirji</name>
+  <name xml:lang="sv">Finsk-nordsamisk ordbok</name>
+  <name xml:lang="sma">Suomi-noerhtesaemien baakoegærja</name>
+  <name xml:lang="smj">Suomi-nuorttasáme báhkogirjje</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
@@ -26,7 +29,7 @@
 
     <p>Hver av ordbøkene inneholder omtrent 11.000 lemmaer.</p>
   </description>
-  
+
   <description xml:lang="se">
     <p>Davvisámi-suoma-davvisámi sátnegirjjit vuođđoduvvojit Giellatekno
     <a href="http://oahpa.no/">Oahpa</a>-bargui ja sátnelisttuide maid leat
@@ -36,7 +39,7 @@
 
     <p>Juohke sátnegirjjis leat su. 11000 vuođđosáni.</p>
   </description>
-  
+
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->
   <!-- Only one source language allowed, but multiple target languages are ok. -->
