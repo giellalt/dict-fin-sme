@@ -28678,67 +28678,67 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Cc">eikä</l>
+         <l pos="CC">eikä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="0">iige</t>
+            <t pos="CC" freq="0">iige</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">eli</l>
+         <l pos="CC">eli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="42119">dahje</t>
+            <t pos="CC" freq="42119">dahje</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">elikkä</l>
+         <l pos="CC">elikkä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="140">dahjege</t>
+            <t pos="CC" freq="140">dahjege</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">enkä</l>
+         <l pos="CC">enkä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="0">inge</t>
+            <t pos="CC" freq="0">inge</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">että</l>
+         <l pos="CC">että</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="237496">ahte</t>
+            <t pos="CC" freq="237496">ahte</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">ja</l>
+         <l pos="CC">ja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="743703">ja</t>
+            <t pos="CC" freq="743703">ja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">josko</l>
+         <l pos="CC">josko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28748,7 +28748,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Cc">kunpa</l>
+         <l pos="CC">kunpa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28758,111 +28758,111 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Cc">mutta</l>
+         <l pos="CC">mutta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="78045">muhto</t>
+            <t pos="CC" freq="78045">muhto</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">saati</l>
+         <l pos="CC">saati</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="0">hálakeahttá</t>
+            <t pos="CC" freq="0">hálakeahttá</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">sekä</l>
+         <l pos="CC">sekä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="26405">sihke</t>
+            <t pos="CC" freq="26405">sihke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">tahi</l>
+         <l pos="CC">tahi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="42119">dahje</t>
+            <t pos="CC" freq="42119">dahje</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">tai</l>
+         <l pos="CC">tai</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="1260">dehe</t>
+            <t pos="CC" freq="1260">dehe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">taikka</l>
+         <l pos="CC">taikka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="42119">dahje</t>
+            <t pos="CC" freq="42119">dahje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="107">dahe</t>
+            <t pos="CC" freq="107">dahe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="0">daihe</t>
+            <t pos="CC" freq="0">daihe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="0">daikke</t>
+            <t pos="CC" freq="0">daikke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">vaan</l>
+         <l pos="CC">vaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="78045">muhto</t>
+            <t pos="CC" freq="78045">muhto</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">vai</l>
+         <l pos="CC">vai</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="16644">vai</t>
+            <t pos="CC" freq="16644">vai</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">vaikka</l>
+         <l pos="CC">vaikka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="12498">vaikko</t>
+            <t pos="CC" freq="12498">vaikko</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="2035">vaikke</t>
+            <t pos="CC" freq="2035">vaikke</t>
          </tg>
       </mg>
       <mg>
@@ -28873,16 +28873,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Cc">ynnä</l>
+         <l pos="CC">ynnä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="743703">ja</t>
+            <t pos="CC" freq="743703">ja</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Cc" freq="26405">sihke</t>
+            <t pos="CC" freq="26405">sihke</t>
          </tg>
       </mg>
    </e>
