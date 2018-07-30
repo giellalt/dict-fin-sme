@@ -140155,7 +140155,9 @@ For the full license text, see the link above.</lic>
    </e>
 <!-- Lisätty bidixista 28.5. 17 -->
    <e>
-    <l pos="N">aarteisto</l>
+    <lg>
+      <l pos="N">aarteisto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dávvir</t>
@@ -140163,7 +140165,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">aave</l>
+    <lg>
+      <l pos="N">aave</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gobmi</t>
@@ -140171,7 +140175,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">agronomi</l>
+    <lg>
+      <l pos="N">agronomi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">agronoma</t>
@@ -140179,7 +140185,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ahkio</l>
+    <lg>
+      <l pos="N">ahkio</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">geres</t>
@@ -140187,7 +140195,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ahosuolaheinä</l>
+    <lg>
+      <l pos="N">ahosuolaheinä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guolbbajuopmu</t>
@@ -140195,7 +140205,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">aikaväli</l>
+    <lg>
+      <l pos="N">aikaväli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guhkesáigi</t>
@@ -140203,7 +140215,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">aikuisuus</l>
+    <lg>
+      <l pos="N">aikuisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rávisvuohta</t>
@@ -140211,7 +140225,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">aloittaminen</l>
+    <lg>
+      <l pos="N">aloittaminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">álggaheapmi</t>
@@ -140219,7 +140235,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ametisti</l>
+    <lg>
+      <l pos="N">ametisti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ametysta</t>
@@ -140227,7 +140245,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">amiraali</l>
+    <lg>
+      <l pos="N">amiraali</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">admirála</t>
@@ -140235,7 +140255,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ankkuri</l>
+    <lg>
+      <l pos="N">ankkuri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">áŋkor</t>
@@ -140243,7 +140265,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ankkuriköysi</l>
+    <lg>
+      <l pos="N">ankkuriköysi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">áŋkorbáddi</t>
@@ -140251,7 +140275,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">antikristus</l>
+    <lg>
+      <l pos="N">antikristus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">antikristus</t>
@@ -140259,7 +140285,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">apumies</l>
+    <lg>
+      <l pos="N">apumies</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">veahkki</t>
@@ -140267,7 +140295,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">asennus</l>
+    <lg>
+      <l pos="N">asennus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sajáiduhttima</t>
@@ -140275,7 +140305,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">asiaankuuluva</l>
+    <lg>
+      <l pos="N">asiaankuuluva</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">áššáigullevaš</t>
@@ -140283,7 +140315,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">astianpesukone</l>
+    <lg>
+      <l pos="N">astianpesukone</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lihttebassanmášiidna</t>
@@ -140291,7 +140325,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ateria</l>
+    <lg>
+      <l pos="N">ateria</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mális</t>
@@ -140299,7 +140335,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">atomiydin</l>
+    <lg>
+      <l pos="N">atomiydin</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váimmus</t>
@@ -140307,7 +140345,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">berylli</l>
+    <lg>
+      <l pos="N">berylli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">berylla</t>
@@ -140315,7 +140355,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">biodiversiteetti</l>
+    <lg>
+      <l pos="N">biodiversiteetti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">biodiversitehta</t>
@@ -140323,7 +140365,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">blogi</l>
+    <lg>
+      <l pos="N">blogi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">blogga</t>
@@ -140331,7 +140375,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">edistys</l>
+    <lg>
+      <l pos="N">edistys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">progrešuvdna</t>
@@ -140339,7 +140385,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">edistyspuolue</l>
+    <lg>
+      <l pos="N">edistyspuolue</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ovddádusbellodat</t>
@@ -140347,7 +140395,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">edistäminen</l>
+    <lg>
+      <l pos="N">edistäminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ovddideapmi</t>
@@ -140355,7 +140405,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">eduskuntatalo</l>
+    <lg>
+      <l pos="N">eduskuntatalo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">parlameantadállu</t>
@@ -140363,7 +140415,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">efesolainen</l>
+    <lg>
+      <l pos="N">efesolainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">efesoslaš</t>
@@ -140371,7 +140425,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ehtoo</l>
+    <lg>
+      <l pos="N">ehtoo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eahket</t>
@@ -140379,7 +140435,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">elinkeinoyhdistelmä</l>
+    <lg>
+      <l pos="N">elinkeinoyhdistelmä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lotnolasealáhus</t>
@@ -140387,7 +140445,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">elonkorjuu</l>
+    <lg>
+      <l pos="N">elonkorjuu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ládju</t>
@@ -140395,7 +140455,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">elvyttäminen</l>
+    <lg>
+      <l pos="N">elvyttäminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ealáskahttin</t>
@@ -140403,7 +140465,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">elämänfilosofia</l>
+    <lg>
+      <l pos="N">elämänfilosofia</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eallinfilosofiija</t>
@@ -140411,7 +140475,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">emulointi</l>
+    <lg>
+      <l pos="N">emulointi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">emuleren</t>
@@ -140419,7 +140485,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">emä</l>
+    <lg>
+      <l pos="N">emä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eallima eadni</t>
@@ -140427,7 +140495,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">epäsiisti</l>
+    <lg>
+      <l pos="N">epäsiisti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nuoski</t>
@@ -140435,7 +140505,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">epävarmuus</l>
+    <lg>
+      <l pos="N">epävarmuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eahpesihkarvuohta</t>
@@ -140443,7 +140515,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">erokirja</l>
+    <lg>
+      <l pos="N">erokirja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">earrogirji</t>
@@ -140451,7 +140525,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">esipuhe</l>
+    <lg>
+      <l pos="N">esipuhe</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ovdasátni</t>
@@ -140459,7 +140535,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">esivalta</l>
+    <lg>
+      <l pos="N">esivalta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eiseváldi</t>
@@ -140467,7 +140545,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">etusivu</l>
+    <lg>
+      <l pos="N">etusivu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldosiidu</t>
@@ -140475,7 +140555,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">etäopetus</l>
+    <lg>
+      <l pos="N">etäopetus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gáiddusoahpahus</t>
@@ -140483,7 +140565,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">evankelista</l>
+    <lg>
+      <l pos="N">evankelista</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">evangelista</t>
@@ -140491,7 +140575,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">eväs</l>
+    <lg>
+      <l pos="N">eväs</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">niesti</t>
@@ -140499,7 +140585,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">farao</l>
+    <lg>
+      <l pos="N">farao</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">farao</t>
@@ -140507,7 +140595,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">feministi</l>
+    <lg>
+      <l pos="N">feministi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">feminista</t>
@@ -140515,7 +140605,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">filippiläinen</l>
+    <lg>
+      <l pos="N">filippiläinen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">filippilaš</t>
@@ -140523,7 +140615,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">finnmarkkulainen</l>
+    <lg>
+      <l pos="N">finnmarkkulainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">finnmárkulaš</t>
@@ -140531,7 +140625,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">fokus</l>
+    <lg>
+      <l pos="N">fokus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">fokus</t>
@@ -140539,7 +140635,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">grönlantilainen</l>
+    <lg>
+      <l pos="N">grönlantilainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruonáeatnanlaš</t>
@@ -140547,7 +140645,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">haaksirikko</l>
+    <lg>
+      <l pos="N">haaksirikko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čázeheahti</t>
@@ -140555,7 +140655,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">haisti</l>
+    <lg>
+      <l pos="N">haisti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">haksin</t>
@@ -140563,7 +140665,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">haka</l>
+    <lg>
+      <l pos="N">haka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hága</t>
@@ -140571,7 +140675,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hakemisto</l>
+    <lg>
+      <l pos="N">hakemisto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">indeaksa</t>
@@ -140579,7 +140685,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">halli</l>
+    <lg>
+      <l pos="N">halli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">deavut</t>
@@ -140587,7 +140695,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hallintopäällikkö</l>
+    <lg>
+      <l pos="N">hallintopäällikkö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hálddahushoavda</t>
@@ -140595,7 +140705,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hampaaton</l>
+    <lg>
+      <l pos="N">hampaaton</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">báneheapme</t>
@@ -140603,7 +140715,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hanka</l>
+    <lg>
+      <l pos="N">hanka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hoaŋka</t>
@@ -140611,7 +140725,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hankaluus</l>
+    <lg>
+      <l pos="N">hankaluus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">unohisvuohta</t>
@@ -140619,7 +140735,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">harja</l>
+    <lg>
+      <l pos="N">harja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kusta</t>
@@ -140627,7 +140745,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">harmaaleppä</l>
+    <lg>
+      <l pos="N">harmaaleppä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">leaibi</t>
@@ -140635,7 +140755,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hautapaikka</l>
+    <lg>
+      <l pos="N">hautapaikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hávdebáiki</t>
@@ -140643,7 +140765,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hedelmäpuu</l>
+    <lg>
+      <l pos="N">hedelmäpuu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">šaddomuorra</t>
@@ -140651,7 +140775,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">heikkous</l>
+    <lg>
+      <l pos="N">heikkous</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">headjuvuohta</t>
@@ -140659,7 +140785,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">henkäys</l>
+    <lg>
+      <l pos="N">henkäys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuoiŋŋanas</t>
@@ -140667,7 +140795,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">herraus</l>
+    <lg>
+      <l pos="N">herraus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hearrávuohta</t>
@@ -140675,7 +140805,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hertta</l>
+    <lg>
+      <l pos="N">hertta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hearta</t>
@@ -140683,7 +140815,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hollantilainen</l>
+    <lg>
+      <l pos="N">hollantilainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hollándalaš</t>
@@ -140691,7 +140825,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">huopa</l>
+    <lg>
+      <l pos="N">huopa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">duohpi</t>
@@ -140699,7 +140835,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">huopaohdake</l>
+    <lg>
+      <l pos="N">huopaohdake</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">alitdiehpperássi</t>
@@ -140707,7 +140845,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">huora</l>
+    <lg>
+      <l pos="N">huora</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">fuorrá</t>
@@ -140715,7 +140855,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hyasintti</l>
+    <lg>
+      <l pos="N">hyasintti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hyasinta</t>
@@ -140723,7 +140865,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hyväksyntä</l>
+    <lg>
+      <l pos="N">hyväksyntä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dohkkeheapmi</t>
@@ -140731,7 +140875,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hyvästi</l>
+    <lg>
+      <l pos="N">hyvästi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bures</t>
@@ -140739,7 +140885,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hälytysääni</l>
+    <lg>
+      <l pos="N">hälytysääni</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuogádatsignála</t>
@@ -140747,7 +140895,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">häpeäpilkku</l>
+    <lg>
+      <l pos="N">häpeäpilkku</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">boalga</t>
@@ -140755,7 +140905,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">hävitys</l>
+    <lg>
+      <l pos="N">hävitys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">heavahus</t>
@@ -140763,7 +140915,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ideaalinen</l>
+    <lg>
+      <l pos="N">ideaalinen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ideála</t>
@@ -140771,7 +140925,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ilmastonmuutos</l>
+    <lg>
+      <l pos="N">ilmastonmuutos</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dálkkádatnuppástus</t>
@@ -140779,7 +140935,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ilmestys</l>
+    <lg>
+      <l pos="N">ilmestys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">almmustus</t>
@@ -140787,7 +140945,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">inarilainen</l>
+    <lg>
+      <l pos="N">inarilainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">anáraš</t>
@@ -140795,7 +140955,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">inarilainen</l>
+    <lg>
+      <l pos="N">inarilainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">anárlaš</t>
@@ -140803,7 +140965,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">inarinsaame</l>
+    <lg>
+      <l pos="N">inarinsaame</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">anárašgiella</t>
@@ -140811,7 +140975,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">indikaattori</l>
+    <lg>
+      <l pos="N">indikaattori</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">indikáhtor</t>
@@ -140819,7 +140985,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">info</l>
+    <lg>
+      <l pos="N">info</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">info</t>
@@ -140827,7 +140995,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">innostus</l>
+    <lg>
+      <l pos="N">innostus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mokta</t>
@@ -140835,7 +141005,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">istuin</l>
+    <lg>
+      <l pos="N">istuin</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beaŋka</t>
@@ -140843,7 +141015,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">istunto</l>
+    <lg>
+      <l pos="N">istunto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargovuorru</t>
@@ -140851,7 +141025,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">istutus</l>
+    <lg>
+      <l pos="N">istutus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">šaddu</t>
@@ -140859,7 +141035,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">itsehallinto</l>
+    <lg>
+      <l pos="N">itsehallinto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">iešstivren</t>
@@ -140867,7 +141045,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">itu</l>
+    <lg>
+      <l pos="N">itu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">spire</t>
@@ -140875,7 +141055,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">itämeri</l>
+    <lg>
+      <l pos="N">itämeri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nuortamearra</t>
@@ -140883,7 +141065,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">itäpuoli</l>
+    <lg>
+      <l pos="N">itäpuoli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nuorttabealli</t>
@@ -140891,7 +141075,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">jalkapuu</l>
+    <lg>
+      <l pos="N">jalkapuu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čoska</t>
@@ -140899,7 +141085,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">jaspis</l>
+    <lg>
+      <l pos="N">jaspis</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jaspis</t>
@@ -140907,7 +141095,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">jata</l>
+    <lg>
+      <l pos="N">jata</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jáhti</t>
@@ -140915,7 +141105,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">johtajuus</l>
+    <lg>
+      <l pos="N">johtajuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jođiheapmi</t>
@@ -140923,7 +141115,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">johtomuoto</l>
+    <lg>
+      <l pos="N">johtomuoto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">stivrejupmi</t>
@@ -140931,7 +141125,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">johtoryhmä</l>
+    <lg>
+      <l pos="N">johtoryhmä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">stivrenjoavku</t>
@@ -140939,7 +141135,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">joikaaminen</l>
+    <lg>
+      <l pos="N">joikaaminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">juoigan</t>
@@ -140947,7 +141145,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">journalismi</l>
+    <lg>
+      <l pos="N">journalismi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">journalisma</t>
@@ -140955,7 +141155,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">järkeisoppi</l>
+    <lg>
+      <l pos="N">järkeisoppi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">viisodat</t>
@@ -140963,7 +141165,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">jäsenmaksu</l>
+    <lg>
+      <l pos="N">jäsenmaksu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lahttomáksu</t>
@@ -140971,7 +141175,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kadotus</l>
+    <lg>
+      <l pos="N">kadotus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dubmehus</t>
@@ -140979,7 +141185,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kadotus</l>
+    <lg>
+      <l pos="N">kadotus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gáđohus</t>
@@ -140987,7 +141195,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kahdeksikko</l>
+    <lg>
+      <l pos="N">kahdeksikko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gákci</t>
@@ -140995,7 +141205,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kahle</l>
+    <lg>
+      <l pos="N">kahle</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">láhkki</t>
@@ -141003,7 +141215,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kaide</l>
+    <lg>
+      <l pos="N">kaide</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skáida</t>
@@ -141011,7 +141225,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kaistale</l>
+    <lg>
+      <l pos="N">kaistale</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sneaida</t>
@@ -141019,7 +141235,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kaksoisnapsautus</l>
+    <lg>
+      <l pos="N">kaksoisnapsautus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">duppalcoahkkal</t>
@@ -141027,7 +141245,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kalansaalis</l>
+    <lg>
+      <l pos="N">kalansaalis</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guollesálaš</t>
@@ -141035,7 +141255,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kameli</l>
+    <lg>
+      <l pos="N">kameli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kamela</t>
@@ -141043,7 +141265,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kammio</l>
+    <lg>
+      <l pos="N">kammio</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gámmir</t>
@@ -141051,7 +141275,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kampanja</l>
+    <lg>
+      <l pos="N">kampanja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kampánja</t>
@@ -141059,7 +141285,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kampus</l>
+    <lg>
+      <l pos="N">kampus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guovlu</t>
@@ -141067,7 +141295,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kanadalainen</l>
+    <lg>
+      <l pos="N">kanadalainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kanadalaš</t>
@@ -141075,7 +141305,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kaneli</l>
+    <lg>
+      <l pos="N">kaneli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kanela</t>
@@ -141083,7 +141315,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kangasajuruoho</l>
+    <lg>
+      <l pos="N">kangasajuruoho</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">deanutimjan</t>
@@ -141091,7 +141325,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kansankeskeinen</l>
+    <lg>
+      <l pos="N">kansankeskeinen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">álbmogiidgaskasaš</t>
@@ -141099,7 +141335,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kantapää</l>
+    <lg>
+      <l pos="N">kantapää</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">šušmi</t>
@@ -141107,7 +141345,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kanttori</l>
+    <lg>
+      <l pos="N">kanttori</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kántor</t>
@@ -141115,7 +141355,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">karamelli</l>
+    <lg>
+      <l pos="N">karamelli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">karamealla</t>
@@ -141123,7 +141365,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">karvaskallioinen</l>
+    <lg>
+      <l pos="N">karvaskallioinen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beatnatnásti</t>
@@ -141131,7 +141375,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kasarmi</l>
+    <lg>
+      <l pos="N">kasarmi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ladni</t>
@@ -141139,7 +141385,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kasti</l>
+    <lg>
+      <l pos="N">kasti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gásta</t>
@@ -141147,7 +141395,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kasvattaminen</l>
+    <lg>
+      <l pos="N">kasvattaminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bajásgeassin</t>
@@ -141155,7 +141405,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kasvatustiede</l>
+    <lg>
+      <l pos="N">kasvatustiede</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">pedagogihkka</t>
@@ -141163,7 +141415,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kasvo</l>
+    <lg>
+      <l pos="N">kasvo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ámadadju</t>
@@ -141171,7 +141425,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">katkeruus</l>
+    <lg>
+      <l pos="N">katkeruus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bahčavuohta</t>
@@ -141179,7 +141435,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">katko</l>
+    <lg>
+      <l pos="N">katko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gátku</t>
@@ -141187,7 +141445,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">katrilli</l>
+    <lg>
+      <l pos="N">katrilli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">katrilla</t>
@@ -141195,7 +141455,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">katsastus</l>
+    <lg>
+      <l pos="N">katsastus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">geahčču</t>
@@ -141203,7 +141465,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kaupunkiseutu</l>
+    <lg>
+      <l pos="N">kaupunkiseutu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gávpotguovlu</t>
@@ -141211,7 +141475,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kavalasti</l>
+    <lg>
+      <l pos="N">kavalasti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guoktilaččat</t>
@@ -141219,7 +141485,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kavennus</l>
+    <lg>
+      <l pos="N">kavennus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">láhpa</t>
@@ -141227,7 +141495,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">keihäs</l>
+    <lg>
+      <l pos="N">keihäs</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sáiti</t>
@@ -141235,7 +141505,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">keimailija</l>
+    <lg>
+      <l pos="N">keimailija</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hearci</t>
@@ -141243,7 +141515,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kenkkäri</l>
+    <lg>
+      <l pos="N">kenkkäri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skeaŋkár</t>
@@ -141251,7 +141525,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kerubi</l>
+    <lg>
+      <l pos="N">kerubi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">keruba</t>
@@ -141259,7 +141535,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">keskustapuolue</l>
+    <lg>
+      <l pos="N">keskustapuolue</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guovddášbellodat</t>
@@ -141267,7 +141545,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">keskustelukieli</l>
+    <lg>
+      <l pos="N">keskustelukieli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gulahallangiella</t>
@@ -141275,7 +141555,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">keto</l>
+    <lg>
+      <l pos="N">keto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gieddi</t>
@@ -141283,7 +141565,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">keula</l>
+    <lg>
+      <l pos="N">keula</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gielas</t>
@@ -141291,7 +141575,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">keulakuorma</l>
+    <lg>
+      <l pos="N">keulakuorma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">njunnádas</t>
@@ -141299,7 +141585,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kevätlukukausi</l>
+    <lg>
+      <l pos="N">kevätlukukausi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giđđalohkanbadji</t>
@@ -141307,7 +141595,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kielipalkinto</l>
+    <lg>
+      <l pos="N">kielipalkinto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giellabálkkašupmi</t>
@@ -141315,7 +141605,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kieliraha</l>
+    <lg>
+      <l pos="N">kieliraha</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giellaruhta</t>
@@ -141323,7 +141615,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kielitaito</l>
+    <lg>
+      <l pos="N">kielitaito</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giellamáhttu</t>
@@ -141331,7 +141625,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kieliyhteistyö</l>
+    <lg>
+      <l pos="N">kieliyhteistyö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giellaovttasbargu</t>
@@ -141339,7 +141635,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kiistanalainen</l>
+    <lg>
+      <l pos="N">kiistanalainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kontroversiealla</t>
@@ -141347,7 +141645,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kili</l>
+    <lg>
+      <l pos="N">kili</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gihcci</t>
@@ -141355,7 +141655,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kimpale</l>
+    <lg>
+      <l pos="N">kimpale</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">stahkka</t>
@@ -141363,7 +141665,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kirjasin</l>
+    <lg>
+      <l pos="N">kirjasin</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">fonta</t>
@@ -141371,7 +141675,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kirjekuori</l>
+    <lg>
+      <l pos="N">kirjekuori</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">konfeluhtta</t>
@@ -141379,7 +141685,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kirjoittelu</l>
+    <lg>
+      <l pos="N">kirjoittelu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čálašeapmi</t>
@@ -141387,7 +141695,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kirjoituskilpailu</l>
+    <lg>
+      <l pos="N">kirjoituskilpailu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čállingilvu</t>
@@ -141395,7 +141705,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kirjonta</l>
+    <lg>
+      <l pos="N">kirjonta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">girji</t>
@@ -141403,7 +141715,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kivikkoalvejuuri</l>
+    <lg>
+      <l pos="N">kivikkoalvejuuri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">juovvagáiski</t>
@@ -141411,7 +141725,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">klinikka</l>
+    <lg>
+      <l pos="N">klinikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">klinihkka</t>
@@ -141419,7 +141735,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koi</l>
+    <lg>
+      <l pos="N">koi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">muohcu</t>
@@ -141427,7 +141745,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koiranputki</l>
+    <lg>
+      <l pos="N">koiranputki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beatnatboska</t>
@@ -141435,7 +141755,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koiranputki</l>
+    <lg>
+      <l pos="N">koiranputki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dierpmárássi</t>
@@ -141443,7 +141765,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kokoontumispaikka</l>
+    <lg>
+      <l pos="N">kokoontumispaikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čohkkánsadji</t>
@@ -141451,7 +141775,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kokoushuone</l>
+    <lg>
+      <l pos="N">kokoushuone</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čoahkkinlatnja</t>
@@ -141459,7 +141785,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kolonisaatio</l>
+    <lg>
+      <l pos="N">kolonisaatio</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">koloniseren</t>
@@ -141467,7 +141795,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koltansaame</l>
+    <lg>
+      <l pos="N">koltansaame</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nuortalašgiella</t>
@@ -141475,7 +141805,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kompensaatio</l>
+    <lg>
+      <l pos="N">kompensaatio</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kompensašuvdna</t>
@@ -141483,7 +141815,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">konsepti</l>
+    <lg>
+      <l pos="N">konsepti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">konseapta</t>
@@ -141491,7 +141825,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koppi</l>
+    <lg>
+      <l pos="N">koppi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">liiru</t>
@@ -141499,7 +141835,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">korotus</l>
+    <lg>
+      <l pos="N">korotus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bajádus</t>
@@ -141507,7 +141845,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kotikunta</l>
+    <lg>
+      <l pos="N">kotikunta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruoktogielda</t>
@@ -141515,7 +141855,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kotkansiipi</l>
+    <lg>
+      <l pos="N">kotkansiipi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuolgodolgi</t>
@@ -141523,7 +141865,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koulubussi</l>
+    <lg>
+      <l pos="N">koulubussi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skuvlabusse</t>
@@ -141531,7 +141875,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kouluopetus</l>
+    <lg>
+      <l pos="N">kouluopetus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skuvlaoahpahus</t>
@@ -141539,7 +141885,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koulusihteeri</l>
+    <lg>
+      <l pos="N">koulusihteeri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skuvlenčálli</t>
@@ -141547,7 +141895,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kouluttaminen</l>
+    <lg>
+      <l pos="N">kouluttaminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skuvlen</t>
@@ -141555,7 +141905,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">koulutuspäivä</l>
+    <lg>
+      <l pos="N">koulutuspäivä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skuvlenbeaivi</t>
@@ -141563,7 +141915,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kovuus</l>
+    <lg>
+      <l pos="N">kovuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">garasvuohta</t>
@@ -141571,7 +141925,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kristalli</l>
+    <lg>
+      <l pos="N">kristalli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kristálla</t>
@@ -141579,7 +141935,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kriteeri</l>
+    <lg>
+      <l pos="N">kriteeri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kriteara</t>
@@ -141587,7 +141945,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kruununprinsessa</l>
+    <lg>
+      <l pos="N">kruununprinsessa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruvdnaprinseassa</t>
@@ -141595,7 +141955,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kruununprinssi</l>
+    <lg>
+      <l pos="N">kruununprinssi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruvdnaprinsa</t>
@@ -141603,7 +141965,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kruununprinssipari</l>
+    <lg>
+      <l pos="N">kruununprinssipari</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruvdnaprinsabárra</t>
@@ -141611,7 +141975,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kuivatus</l>
+    <lg>
+      <l pos="N">kuivatus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">goiku</t>
@@ -141619,7 +141985,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kulkue</l>
+    <lg>
+      <l pos="N">kulkue</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">toga</t>
@@ -141627,7 +141995,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kultapiisku</l>
+    <lg>
+      <l pos="N">kultapiisku</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beatnatsuoidni</t>
@@ -141635,7 +142005,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kultturiperinne</l>
+    <lg>
+      <l pos="N">kultturiperinne</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kulturárbi</t>
@@ -141643,7 +142015,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kulttuurisihteeri</l>
+    <lg>
+      <l pos="N">kulttuurisihteeri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">kulturčálli</t>
@@ -141651,7 +142025,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kummivanhempi</l>
+    <lg>
+      <l pos="N">kummivanhempi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">risváhnen</t>
@@ -141659,7 +142035,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kuningaspari</l>
+    <lg>
+      <l pos="N">kuningaspari</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gonagasbárra</t>
@@ -141667,7 +142045,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kunnioitus</l>
+    <lg>
+      <l pos="N">kunnioitus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gudni</t>
@@ -141675,7 +142055,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kuolo</l>
+    <lg>
+      <l pos="N">kuolo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">šaddu</t>
@@ -141683,7 +142065,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kuukkeli</l>
+    <lg>
+      <l pos="N">kuukkeli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guovssat</t>
@@ -141691,7 +142075,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kuusikko</l>
+    <lg>
+      <l pos="N">kuusikko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guossavuovdi</t>
@@ -141699,7 +142085,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kuvake</l>
+    <lg>
+      <l pos="N">kuvake</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">govaš</t>
@@ -141707,7 +142095,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kyyhkynen</l>
+    <lg>
+      <l pos="N">kyyhkynen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">duvvá</t>
@@ -141715,7 +142105,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">käsiala</l>
+    <lg>
+      <l pos="N">käsiala</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čáláldat</t>
@@ -141723,7 +142115,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">käsihärkä</l>
+    <lg>
+      <l pos="N">käsihärkä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gieđalatheargi</t>
@@ -141731,7 +142125,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">käsikirja</l>
+    <lg>
+      <l pos="N">käsikirja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giehtagirji</t>
@@ -141739,7 +142135,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">käsikivi</l>
+    <lg>
+      <l pos="N">käsikivi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">millu</t>
@@ -141747,7 +142145,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">käymälä</l>
+    <lg>
+      <l pos="N">käymälä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hivsset</t>
@@ -141755,7 +142155,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">käyttösuunnitelma</l>
+    <lg>
+      <l pos="N">käyttösuunnitelma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">geavahanplána</t>
@@ -141763,7 +142165,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">käyttötapa</l>
+    <lg>
+      <l pos="N">käyttötapa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">geavahanvuohki</t>
@@ -141771,7 +142175,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">köysi</l>
+    <lg>
+      <l pos="N">köysi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">báddi</t>
@@ -141779,7 +142185,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">laes</l>
+    <lg>
+      <l pos="N">laes</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">láhkkehaš</t>
@@ -141787,7 +142195,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lainrikkoja</l>
+    <lg>
+      <l pos="N">lainrikkoja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">láhkarihkku</t>
@@ -141795,7 +142205,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lastenkulttuurikeskus</l>
+    <lg>
+      <l pos="N">lastenkulttuurikeskus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mánáidkulturguovddáš</t>
@@ -141803,7 +142215,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lastenohjelma</l>
+    <lg>
+      <l pos="N">lastenohjelma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mánáidprográmma</t>
@@ -141811,7 +142225,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">laudatur</l>
+    <lg>
+      <l pos="N">laudatur</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldofága</t>
@@ -141819,7 +142235,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lehdistötuki</l>
+    <lg>
+      <l pos="N">lehdistötuki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">preassadoarjja</t>
@@ -141827,7 +142245,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">leopardi</l>
+    <lg>
+      <l pos="N">leopardi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">leopárda</t>
@@ -141835,7 +142255,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">liekki</l>
+    <lg>
+      <l pos="N">liekki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dolla</t>
@@ -141843,7 +142265,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">linkki</l>
+    <lg>
+      <l pos="N">linkki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">liŋka</t>
@@ -141851,7 +142275,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lisätieto</l>
+    <lg>
+      <l pos="N">lisätieto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lassediehtu</t>
@@ -141859,7 +142285,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">loimi</l>
+    <lg>
+      <l pos="N">loimi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čuočča</t>
@@ -141867,7 +142295,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lopettaminen</l>
+    <lg>
+      <l pos="N">lopettaminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">loahpaheapmi</t>
@@ -141875,7 +142305,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">luentosali</l>
+    <lg>
+      <l pos="N">luentosali</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">auditoria</t>
@@ -141883,7 +142315,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">luhtalitukka</l>
+    <lg>
+      <l pos="N">luhtalitukka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">suorbmagoahti</t>
@@ -141891,7 +142325,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">luokkitelu</l>
+    <lg>
+      <l pos="N">luokkitelu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">klassifiseren</t>
@@ -141899,7 +142335,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">luontorikkaus</l>
+    <lg>
+      <l pos="N">luontorikkaus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">luondduriggodat</t>
@@ -141907,7 +142345,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">luujärveläinen</l>
+    <lg>
+      <l pos="N">luujärveläinen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lujávrilaš</t>
@@ -141915,7 +142355,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lähestymistapa</l>
+    <lg>
+      <l pos="N">lähestymistapa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lahkonanvuohki</t>
@@ -141923,7 +142365,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lähete</l>
+    <lg>
+      <l pos="N">lähete</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sádden</t>
@@ -141931,7 +142375,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lähtöpaikka</l>
+    <lg>
+      <l pos="N">lähtöpaikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuolggasadji</t>
@@ -141939,7 +142385,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">maailmancup</l>
+    <lg>
+      <l pos="N">maailmancup</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">máilmmicup</t>
@@ -141947,7 +142395,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">maakäyttö</l>
+    <lg>
+      <l pos="N">maakäyttö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eanageavaheapmi</t>
@@ -141955,7 +142405,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">maariankämmekkä</l>
+    <lg>
+      <l pos="N">maariankämmekkä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">noaiddelieđđi</t>
@@ -141963,7 +142415,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">maastopalo</l>
+    <lg>
+      <l pos="N">maastopalo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">meahccebuollin</t>
@@ -141971,7 +142425,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">maili</l>
+    <lg>
+      <l pos="N">maili</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">miila</t>
@@ -141979,7 +142435,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">maistraatti</l>
+    <lg>
+      <l pos="N">maistraatti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">magistráhta</t>
@@ -141987,7 +142445,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">makedonialainen</l>
+    <lg>
+      <l pos="N">makedonialainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">makedonialaš</t>
@@ -141995,7 +142455,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">manna</l>
+    <lg>
+      <l pos="N">manna</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mánna</t>
@@ -142003,7 +142465,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">maori</l>
+    <lg>
+      <l pos="N">maori</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">maorigiella</t>
@@ -142011,7 +142475,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">marmori</l>
+    <lg>
+      <l pos="N">marmori</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">marmora</t>
@@ -142019,7 +142485,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">marto</l>
+    <lg>
+      <l pos="N">marto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">márdu</t>
@@ -142027,7 +142495,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">mesiangervo</l>
+    <lg>
+      <l pos="N">mesiangervo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">miehtaskážir</t>
@@ -142035,7 +142505,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">metsäalvejuuri</l>
+    <lg>
+      <l pos="N">metsäalvejuuri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuovdegáiski</t>
@@ -142043,7 +142515,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">metsähallinto</l>
+    <lg>
+      <l pos="N">metsähallinto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">meahcceráđđehus</t>
@@ -142051,7 +142525,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">metsätalousministeriö</l>
+    <lg>
+      <l pos="N">metsätalousministeriö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">meahccedoalloministeriija</t>
@@ -142059,7 +142535,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">mielenkiinto</l>
+    <lg>
+      <l pos="N">mielenkiinto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beroštupmi</t>
@@ -142067,7 +142545,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">mielenrauha</l>
+    <lg>
+      <l pos="N">mielenrauha</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">máššu</t>
@@ -142075,7 +142555,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">mielivalta</l>
+    <lg>
+      <l pos="N">mielivalta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">háldu</t>
@@ -142083,7 +142565,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">mirha</l>
+    <lg>
+      <l pos="N">mirha</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">myrra</t>
@@ -142091,7 +142575,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">moduuli</l>
+    <lg>
+      <l pos="N">moduuli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">modula</t>
@@ -142099,7 +142585,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">monimuotoisuus</l>
+    <lg>
+      <l pos="N">monimuotoisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">máŋggahámatvuohta</t>
@@ -142107,7 +142595,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">moottoriajoneuvo</l>
+    <lg>
+      <l pos="N">moottoriajoneuvo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mohtorfievru</t>
@@ -142115,7 +142605,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">morsiuskruunu</l>
+    <lg>
+      <l pos="N">morsiuskruunu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bruvda</t>
@@ -142123,7 +142615,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">motiivi</l>
+    <lg>
+      <l pos="N">motiivi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">motiiva</t>
@@ -142131,7 +142625,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">muistokirjoitus</l>
+    <lg>
+      <l pos="N">muistokirjoitus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">muittuhančála</t>
@@ -142139,7 +142635,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">muki</l>
+    <lg>
+      <l pos="N">muki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mugga</t>
@@ -142147,7 +142645,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">musiikkilaji</l>
+    <lg>
+      <l pos="N">musiikkilaji</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">musihkkašládja</t>
@@ -142155,7 +142655,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">musiikkitapahtuma</l>
+    <lg>
+      <l pos="N">musiikkitapahtuma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">musihkkadáhpáhus</t>
@@ -142163,7 +142665,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">musiikkityyli</l>
+    <lg>
+      <l pos="N">musiikkityyli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">musihkkastiila</t>
@@ -142171,7 +142675,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">mutu</l>
+    <lg>
+      <l pos="N">mutu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">noarsa</t>
@@ -142179,7 +142685,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">määräaika</l>
+    <lg>
+      <l pos="N">määräaika</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mearreáigi</t>
@@ -142187,7 +142695,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">määräraha</l>
+    <lg>
+      <l pos="N">määräraha</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mearreruhta</t>
@@ -142195,7 +142705,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">naamasarvi</l>
+    <lg>
+      <l pos="N">naamasarvi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">námmʼoaivi</t>
@@ -142203,7 +142715,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nahas</l>
+    <lg>
+      <l pos="N">nahas</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">náhkki</t>
@@ -142211,7 +142725,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">napapiiri</l>
+    <lg>
+      <l pos="N">napapiiri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">poláragierdu</t>
@@ -142219,7 +142735,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">napsautus</l>
+    <lg>
+      <l pos="N">napsautus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">coahkkal</t>
@@ -142227,7 +142745,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">neuvottelukunta</l>
+    <lg>
+      <l pos="N">neuvottelukunta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ráđđádallangoddi</t>
@@ -142235,7 +142755,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nietos</l>
+    <lg>
+      <l pos="N">nietos</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">joavgga</t>
@@ -142243,7 +142765,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">niittyleinikki</l>
+    <lg>
+      <l pos="N">niittyleinikki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">fiskesrássi</t>
@@ -142251,7 +142775,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">niittynätkelmä</l>
+    <lg>
+      <l pos="N">niittynätkelmä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">niitosáhpal</t>
@@ -142259,7 +142785,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nimeäminen</l>
+    <lg>
+      <l pos="N">nimeäminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nammadeapmi</t>
@@ -142267,7 +142795,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nimikyltti</l>
+    <lg>
+      <l pos="N">nimikyltti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nammagilvu</t>
@@ -142275,7 +142805,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nimimerkki</l>
+    <lg>
+      <l pos="N">nimimerkki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nammamearka</t>
@@ -142283,7 +142815,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nivunen</l>
+    <lg>
+      <l pos="N">nivunen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">buođga</t>
@@ -142291,7 +142825,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nokkonen</l>
+    <lg>
+      <l pos="N">nokkonen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gáskálas</t>
@@ -142299,7 +142835,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nuokkutalvikki</l>
+    <lg>
+      <l pos="N">nuokkutalvikki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">heaŋggolieđga</t>
@@ -142307,7 +142845,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nuorisoneuvosto</l>
+    <lg>
+      <l pos="N">nuorisoneuvosto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nuoraidráđđi</t>
@@ -142315,7 +142855,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nuotio</l>
+    <lg>
+      <l pos="N">nuotio</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dolla</t>
@@ -142323,7 +142865,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nurmitatar</l>
+    <lg>
+      <l pos="N">nurmitatar</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">šilljojuopmu</t>
@@ -142331,7 +142875,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nyöri</l>
+    <lg>
+      <l pos="N">nyöri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">snuvra</t>
@@ -142339,7 +142885,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">nälänhätä</l>
+    <lg>
+      <l pos="N">nälänhätä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nealgi</t>
@@ -142347,7 +142895,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">objekti</l>
+    <lg>
+      <l pos="N">objekti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">objeakta</t>
@@ -142355,7 +142905,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ohdake</l>
+    <lg>
+      <l pos="N">ohdake</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gáskkašahkesrássi</t>
@@ -142363,7 +142915,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ojakellukka</l>
+    <lg>
+      <l pos="N">ojakellukka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">niitobiellorássi</t>
@@ -142371,7 +142925,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">oleskelu</l>
+    <lg>
+      <l pos="N">oleskelu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">orrun</t>
@@ -142379,7 +142935,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">omistajuus</l>
+    <lg>
+      <l pos="N">omistajuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eaiggátvuohta</t>
@@ -142387,7 +142945,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">onnenluku</l>
+    <lg>
+      <l pos="N">onnenluku</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lihkkolohku</t>
@@ -142395,7 +142955,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">onnensulka</l>
+    <lg>
+      <l pos="N">onnensulka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">leavvedolgi</t>
@@ -142403,7 +142965,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">opetuskieli</l>
+    <lg>
+      <l pos="N">opetuskieli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oahpahusgiella</t>
@@ -142411,7 +142975,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">opetusmenetelmä</l>
+    <lg>
+      <l pos="N">opetusmenetelmä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oahpahanvuohki</t>
@@ -142419,7 +142985,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">opetusministeriö</l>
+    <lg>
+      <l pos="N">opetusministeriö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oahpahusministeriija</t>
@@ -142427,7 +142995,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">opetustoimi</l>
+    <lg>
+      <l pos="N">opetustoimi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oahpahusdoaibma</t>
@@ -142435,7 +143005,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">originaali</l>
+    <lg>
+      <l pos="N">originaali</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">originála</t>
@@ -142443,7 +143015,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">osallistuminen</l>
+    <lg>
+      <l pos="N">osallistuminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oassálastin</t>
@@ -142451,7 +143025,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">osanen</l>
+    <lg>
+      <l pos="N">osanen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oasáš</t>
@@ -142459,7 +143035,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">osoittaminen</l>
+    <lg>
+      <l pos="N">osoittaminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čujuhus</t>
@@ -142467,7 +143045,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">osoitus</l>
+    <lg>
+      <l pos="N">osoitus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čájáhus</t>
@@ -142475,7 +143055,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">paastonaika</l>
+    <lg>
+      <l pos="N">paastonaika</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">fástoáigi</t>
@@ -142483,7 +143065,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">painanne</l>
+    <lg>
+      <l pos="N">painanne</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">juggi</t>
@@ -142491,7 +143075,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">paisumus</l>
+    <lg>
+      <l pos="N">paisumus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dulvi</t>
@@ -142499,7 +143085,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">palkintolautakunta</l>
+    <lg>
+      <l pos="N">palkintolautakunta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bálkkašanlávdegoddi</t>
@@ -142507,7 +143095,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">palkkausjärjestelmä</l>
+    <lg>
+      <l pos="N">palkkausjärjestelmä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bálkávuogádat</t>
@@ -142515,7 +143105,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">palkki</l>
+    <lg>
+      <l pos="N">palkki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">holga</t>
@@ -142523,7 +143115,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">palmu</l>
+    <lg>
+      <l pos="N">palmu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">pálbma</t>
@@ -142531,7 +143125,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">palomestari</l>
+    <lg>
+      <l pos="N">palomestari</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dollameaštár</t>
@@ -142539,7 +143135,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">paneeli</l>
+    <lg>
+      <l pos="N">paneeli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">panela</t>
@@ -142547,7 +143145,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">parametri</l>
+    <lg>
+      <l pos="N">parametri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">paramehter</t>
@@ -142555,7 +143155,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">paratiisi</l>
+    <lg>
+      <l pos="N">paratiisi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">paradiisa</t>
@@ -142563,7 +143165,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">parku</l>
+    <lg>
+      <l pos="N">parku</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bárgun</t>
@@ -142571,7 +143175,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">parlamentaarikko</l>
+    <lg>
+      <l pos="N">parlamentaarikko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">parlamentarihkkár</t>
@@ -142579,7 +143185,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">parlamentarismi</l>
+    <lg>
+      <l pos="N">parlamentarismi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">parlamentarisma</t>
@@ -142587,7 +143195,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pato</l>
+    <lg>
+      <l pos="N">pato</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">buođđu</t>
@@ -142595,7 +143205,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">patriarkaalinen</l>
+    <lg>
+      <l pos="N">patriarkaalinen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">patriarkála</t>
@@ -142603,7 +143215,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">patti</l>
+    <lg>
+      <l pos="N">patti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">báhtte</t>
@@ -142611,7 +143225,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">peeaa</l>
+    <lg>
+      <l pos="N">peeaa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruđaheapme</t>
@@ -142619,7 +143235,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pelastus</l>
+    <lg>
+      <l pos="N">pelastus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bestojupmi</t>
@@ -142627,7 +143245,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pelkuruus</l>
+    <lg>
+      <l pos="N">pelkuruus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">baleš</t>
@@ -142635,7 +143255,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">peltohatikka</l>
+    <lg>
+      <l pos="N">peltohatikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bealdoseakkalasta</t>
@@ -142643,7 +143265,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pensaskanerva</l>
+    <lg>
+      <l pos="N">pensaskanerva</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">miesttalivdnju</t>
@@ -142651,7 +143275,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">periaatepäätös</l>
+    <lg>
+      <l pos="N">periaatepäätös</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">prinsihppamearrádus</t>
@@ -142659,7 +143285,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">perintöosa</l>
+    <lg>
+      <l pos="N">perintöosa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">árbeoassi</t>
@@ -142667,7 +143295,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">peruskirja</l>
+    <lg>
+      <l pos="N">peruskirja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuođđogirji</t>
@@ -142675,7 +143305,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">perusperiaate</l>
+    <lg>
+      <l pos="N">perusperiaate</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuođđoprinsihppa</t>
@@ -142683,7 +143315,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pesti</l>
+    <lg>
+      <l pos="N">pesti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beste</t>
@@ -142691,7 +143325,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">peuranvirna</l>
+    <lg>
+      <l pos="N">peuranvirna</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gottesáhpal</t>
@@ -142699,7 +143335,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">piirros</l>
+    <lg>
+      <l pos="N">piirros</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">govus</t>
@@ -142707,7 +143345,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">piitimensaamelainen</l>
+    <lg>
+      <l pos="N">piitimensaamelainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bihtánsápmi</t>
@@ -142715,7 +143355,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pikkutalvikki</l>
+    <lg>
+      <l pos="N">pikkutalvikki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">smávvalieđga</t>
@@ -142723,7 +143365,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pilttuu</l>
+    <lg>
+      <l pos="N">pilttuu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hiŋggal</t>
@@ -142731,7 +143375,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pitkäkestoisuus</l>
+    <lg>
+      <l pos="N">pitkäkestoisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guhkilmasvuohta</t>
@@ -142739,7 +143385,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pitkäkoipi</l>
+    <lg>
+      <l pos="N">pitkäkoipi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">stávru</t>
@@ -142747,7 +143395,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pohjantähti</l>
+    <lg>
+      <l pos="N">pohjantähti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">boahji</t>
@@ -142755,7 +143405,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">poikkikorva</l>
+    <lg>
+      <l pos="N">poikkikorva</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">náhppa</t>
@@ -142763,7 +143415,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">poimulehti</l>
+    <lg>
+      <l pos="N">poimulehti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">moninvuolpu</t>
@@ -142771,7 +143425,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">poliisiasema</l>
+    <lg>
+      <l pos="N">poliisiasema</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">politiijastašuvnna</t>
@@ -142779,7 +143435,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">poraamislauta</l>
+    <lg>
+      <l pos="N">poraamislauta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">loađđa</t>
@@ -142787,7 +143445,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">porovaadin</l>
+    <lg>
+      <l pos="N">porovaadin</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váža</t>
@@ -142795,7 +143455,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">portto</l>
+    <lg>
+      <l pos="N">portto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">fuorrá</t>
@@ -142803,7 +143465,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">postikortti</l>
+    <lg>
+      <l pos="N">postikortti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">boastagoarta</t>
@@ -142811,7 +143475,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">postiosoite</l>
+    <lg>
+      <l pos="N">postiosoite</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">poastačujuhus</t>
@@ -142819,7 +143485,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">presidenttiehdokas</l>
+    <lg>
+      <l pos="N">presidenttiehdokas</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">presideantaevttohas</t>
@@ -142827,7 +143495,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ensisijaisuus</l>
+    <lg>
+      <l pos="N">ensisijaisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ovdasadji</t>
@@ -142835,7 +143505,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">priorisointi</l>
+    <lg>
+      <l pos="N">priorisointi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">prioriteren</t>
@@ -142843,7 +143515,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">profetia</l>
+    <lg>
+      <l pos="N">profetia</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">profetiija</t>
@@ -142851,7 +143525,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">projektipäällikkö</l>
+    <lg>
+      <l pos="N">projektipäällikkö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">prošeaktahoavda</t>
@@ -142859,7 +143535,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">projektiryhmä</l>
+    <lg>
+      <l pos="N">projektiryhmä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">prošeaktajoavku</t>
@@ -142867,7 +143545,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">projektisihteeri</l>
+    <lg>
+      <l pos="N">projektisihteeri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">prošeaktačálli</t>
@@ -142875,7 +143555,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">promille</l>
+    <lg>
+      <l pos="N">promille</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">promilla</t>
@@ -142883,7 +143565,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">psalmi</l>
+    <lg>
+      <l pos="N">psalmi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sálbma</t>
@@ -142891,7 +143575,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pulskaneilikka</l>
+    <lg>
+      <l pos="N">pulskaneilikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">riessanellet</t>
@@ -142899,7 +143585,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">punaherukka</l>
+    <lg>
+      <l pos="N">punaherukka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jieret</t>
@@ -142907,7 +143595,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">punakko</l>
+    <lg>
+      <l pos="N">punakko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gádderuosta</t>
@@ -142915,7 +143605,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">punavihreä</l>
+    <lg>
+      <l pos="N">punavihreä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rukses-ruoná</t>
@@ -142923,7 +143615,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">puolipurka</l>
+    <lg>
+      <l pos="N">puolipurka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čeahborgi</t>
@@ -142931,7 +143625,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">purka</l>
+    <lg>
+      <l pos="N">purka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gassaborgi</t>
@@ -142939,7 +143635,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">purppura</l>
+    <lg>
+      <l pos="N">purppura</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">purpur</t>
@@ -142947,7 +143645,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">puukko</l>
+    <lg>
+      <l pos="N">puukko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">niibi</t>
@@ -142955,7 +143655,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pylväs</l>
+    <lg>
+      <l pos="N">pylväs</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čuolda</t>
@@ -142963,7 +143665,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pyry</l>
+    <lg>
+      <l pos="N">pyry</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">borga</t>
@@ -142971,7 +143675,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pystykorva</l>
+    <lg>
+      <l pos="N">pystykorva</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skohččebeallji</t>
@@ -142979,7 +143685,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pyylevä</l>
+    <lg>
+      <l pos="N">pyylevä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sulttas</t>
@@ -142987,7 +143695,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pyöreäpyrstömolva</l>
+    <lg>
+      <l pos="N">pyöreäpyrstömolva</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lággu</t>
@@ -142995,7 +143705,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">päivitys</l>
+    <lg>
+      <l pos="N">päivitys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ođasmahttin</t>
@@ -143003,7 +143715,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">päivyri</l>
+    <lg>
+      <l pos="N">päivyri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">journála</t>
@@ -143011,7 +143725,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">päivähoito</l>
+    <lg>
+      <l pos="N">päivähoito</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beaivedikšu</t>
@@ -143019,7 +143735,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pääaine</l>
+    <lg>
+      <l pos="N">pääaine</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldofáddá</t>
@@ -143027,7 +143745,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pääkohta</l>
+    <lg>
+      <l pos="N">pääkohta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldoášši</t>
@@ -143035,7 +143755,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">päämies</l>
+    <lg>
+      <l pos="N">päämies</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldoálbmot</t>
@@ -143043,7 +143765,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pääpaino</l>
+    <lg>
+      <l pos="N">pääpaino</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldodeaddu</t>
@@ -143051,7 +143775,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">päärooli</l>
+    <lg>
+      <l pos="N">päärooli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldorolla</t>
@@ -143059,7 +143785,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pääsisäänkäynti</l>
+    <lg>
+      <l pos="N">pääsisäänkäynti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldofeaskkir</t>
@@ -143067,7 +143795,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pääsiäisfestivaali</l>
+    <lg>
+      <l pos="N">pääsiäisfestivaali</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beassášfestivála</t>
@@ -143075,7 +143805,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pääsiäisvieras</l>
+    <lg>
+      <l pos="N">pääsiäisvieras</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beassášguossi</t>
@@ -143083,7 +143815,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">pääteema</l>
+    <lg>
+      <l pos="N">pääteema</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldotemá</t>
@@ -143091,7 +143825,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">päätie</l>
+    <lg>
+      <l pos="N">päätie</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldogeaidnu</t>
@@ -143099,7 +143835,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">päätoimi</l>
+    <lg>
+      <l pos="N">päätoimi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldodoaibma</t>
@@ -143107,7 +143845,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">raati</l>
+    <lg>
+      <l pos="N">raati</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ráđđi</t>
@@ -143115,7 +143855,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rabbi</l>
+    <lg>
+      <l pos="N">rabbi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rabbi</t>
@@ -143123,7 +143865,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rahakukkaro</l>
+    <lg>
+      <l pos="N">rahakukkaro</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruhtabursa</t>
@@ -143131,7 +143875,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rahatalous</l>
+    <lg>
+      <l pos="N">rahatalous</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruhtadoallu</t>
@@ -143139,7 +143885,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">raitio</l>
+    <lg>
+      <l pos="N">raitio</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ráidi</t>
@@ -143147,7 +143895,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rakka</l>
+    <lg>
+      <l pos="N">rakka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ráhkká</t>
@@ -143155,7 +143905,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rantamatala</l>
+    <lg>
+      <l pos="N">rantamatala</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">šleahtta</t>
@@ -143163,7 +143915,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">raskaus</l>
+    <lg>
+      <l pos="N">raskaus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lossatvuohta</t>
@@ -143171,7 +143925,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rasvakerros</l>
+    <lg>
+      <l pos="N">rasvakerros</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ráhpa</t>
@@ -143179,7 +143935,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ratifiointi</l>
+    <lg>
+      <l pos="N">ratifiointi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ratifiseren</t>
@@ -143187,7 +143945,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rautanokkonen</l>
+    <lg>
+      <l pos="N">rautanokkonen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruovdegáskálas</t>
@@ -143195,7 +143955,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">realismi</l>
+    <lg>
+      <l pos="N">realismi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">realisma</t>
@@ -143203,7 +143965,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rekisteröinti</l>
+    <lg>
+      <l pos="N">rekisteröinti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">logahallan</t>
@@ -143211,7 +143975,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">reliefi</l>
+    <lg>
+      <l pos="N">reliefi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">reliefa</t>
@@ -143219,7 +143985,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">reppu</l>
+    <lg>
+      <l pos="N">reppu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">seahkka</t>
@@ -143227,7 +143995,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">retoriikka</l>
+    <lg>
+      <l pos="N">retoriikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">retorihkka</t>
@@ -143235,7 +144005,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">reunapitsi</l>
+    <lg>
+      <l pos="N">reunapitsi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">speallavearka</t>
@@ -143243,7 +144015,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rintalasta</l>
+    <lg>
+      <l pos="N">rintalasta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">mielga</t>
@@ -143251,7 +144025,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">risu</l>
+    <lg>
+      <l pos="N">risu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rissi</t>
@@ -143259,7 +144035,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">romantiikka</l>
+    <lg>
+      <l pos="N">romantiikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">romantihkka</t>
@@ -143267,7 +144045,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rotta</l>
+    <lg>
+      <l pos="N">rotta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">roahttu</t>
@@ -143275,7 +144055,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rotusyrjintä</l>
+    <lg>
+      <l pos="N">rotusyrjintä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nállevealaheapmi</t>
@@ -143283,7 +144065,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rukoilija</l>
+    <lg>
+      <l pos="N">rukoilija</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rohkadallat</t>
@@ -143291,7 +144075,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rukoushetki</l>
+    <lg>
+      <l pos="N">rukoushetki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rohkosboddu</t>
@@ -143299,7 +144085,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ruoholaukka</l>
+    <lg>
+      <l pos="N">ruoholaukka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">njuovvelávki</t>
@@ -143307,7 +144095,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ruuhi</l>
+    <lg>
+      <l pos="N">ruuhi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rufe</t>
@@ -143315,7 +144105,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ryppy</l>
+    <lg>
+      <l pos="N">ryppy</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">roakči</t>
@@ -143323,7 +144115,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ryyppy</l>
+    <lg>
+      <l pos="N">ryyppy</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jugástat</t>
@@ -143331,7 +144125,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ryökäle</l>
+    <lg>
+      <l pos="N">ryökäle</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">boaisán</t>
@@ -143339,7 +144135,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaiselinkeino</l>
+    <lg>
+      <l pos="N">saamelaiselinkeino</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámeealáhus</t>
@@ -143347,7 +144145,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaiskieli</l>
+    <lg>
+      <l pos="N">saamelaiskieli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámegiella</t>
@@ -143355,7 +144155,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaiskulttuurikeskus</l>
+    <lg>
+      <l pos="N">saamelaiskulttuurikeskus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámekulturguovddáš</t>
@@ -143363,7 +144165,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaiskäräjälaki</l>
+    <lg>
+      <l pos="N">saamelaiskäräjälaki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámediggeláhka</t>
@@ -143371,7 +144175,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaismusiikki</l>
+    <lg>
+      <l pos="N">saamelaismusiikki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámemusihkka</t>
@@ -143379,7 +144185,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaismusiikkikeskus</l>
+    <lg>
+      <l pos="N">saamelaismusiikkikeskus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámemusihkkaguovddáš</t>
@@ -143387,7 +144195,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaisnainen</l>
+    <lg>
+      <l pos="N">saamelaisnainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámenisu</t>
@@ -143395,7 +144205,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaisnuori</l>
+    <lg>
+      <l pos="N">saamelaisnuori</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámenuorra</t>
@@ -143403,7 +144215,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaispuku</l>
+    <lg>
+      <l pos="N">saamelaispuku</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámegákti</t>
@@ -143411,7 +144225,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaissopimus</l>
+    <lg>
+      <l pos="N">saamelaissopimus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámesoahpamuš</t>
@@ -143419,7 +144235,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamelaisyhteiskunta</l>
+    <lg>
+      <l pos="N">saamelaisyhteiskunta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámesearvvuš</t>
@@ -143427,7 +144245,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamenalue</l>
+    <lg>
+      <l pos="N">saamenalue</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámiguovlu</t>
@@ -143435,7 +144255,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saamenopetus</l>
+    <lg>
+      <l pos="N">saamenopetus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámeoahpahus</t>
@@ -143443,7 +144265,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saddukeus</l>
+    <lg>
+      <l pos="N">saddukeus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">saddukealaš</t>
@@ -143451,7 +144275,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sadesää</l>
+    <lg>
+      <l pos="N">sadesää</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">arvedálki</t>
@@ -143459,7 +144285,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">safiiri</l>
+    <lg>
+      <l pos="N">safiiri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">safira</t>
@@ -143467,7 +144295,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">saivojärvi</l>
+    <lg>
+      <l pos="N">saivojärvi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">reahpenjávri</t>
@@ -143475,7 +144305,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">salasana</l>
+    <lg>
+      <l pos="N">salasana</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beassansátni</t>
@@ -143483,7 +144315,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sammas</l>
+    <lg>
+      <l pos="N">sammas</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sámpá</t>
@@ -143491,7 +144325,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sapatti</l>
+    <lg>
+      <l pos="N">sapatti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sábbát</t>
@@ -143499,7 +144335,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sarvenvälinahka</l>
+    <lg>
+      <l pos="N">sarvenvälinahka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čuossi</t>
@@ -143507,7 +144345,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">satakerta</l>
+    <lg>
+      <l pos="N">satakerta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čeaksa</t>
@@ -143515,7 +144355,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sato</l>
+    <lg>
+      <l pos="N">sato</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">šaddu</t>
@@ -143523,7 +144365,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">satu</l>
+    <lg>
+      <l pos="N">satu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">máinnas</t>
@@ -143531,7 +144375,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sauma</l>
+    <lg>
+      <l pos="N">sauma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sávdnji</t>
@@ -143539,7 +144385,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">seksuaalisuus</l>
+    <lg>
+      <l pos="N">seksuaalisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">seksualašvuohta</t>
@@ -143547,7 +144395,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">seppel</l>
+    <lg>
+      <l pos="N">seppel</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rássegierdu</t>
@@ -143555,7 +144405,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">serkkupoika</l>
+    <lg>
+      <l pos="N">serkkupoika</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vilbealli</t>
@@ -143563,7 +144415,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">servietti</l>
+    <lg>
+      <l pos="N">servietti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">servieahtta</t>
@@ -143571,7 +144425,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">seuratoiminta</l>
+    <lg>
+      <l pos="N">seuratoiminta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">searvedoaibma</t>
@@ -143579,7 +144435,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">seurustelu</l>
+    <lg>
+      <l pos="N">seurustelu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ovttastallan</t>
@@ -143587,7 +144445,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">siirtymämatka</l>
+    <lg>
+      <l pos="N">siirtymämatka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sirdda</t>
@@ -143595,7 +144455,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">siivo</l>
+    <lg>
+      <l pos="N">siivo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bassi</t>
@@ -143603,7 +144465,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">silitysrauta</l>
+    <lg>
+      <l pos="N">silitysrauta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skriikaruovdi</t>
@@ -143611,7 +144475,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sirkus</l>
+    <lg>
+      <l pos="N">sirkus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sirkus</t>
@@ -143619,7 +144485,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sivusto</l>
+    <lg>
+      <l pos="N">sivusto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">siidu</t>
@@ -143627,7 +144495,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">skandinaavi</l>
+    <lg>
+      <l pos="N">skandinaavi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skandináva</t>
@@ -143635,7 +144505,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">smaragdi</l>
+    <lg>
+      <l pos="N">smaragdi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">smarágda</t>
@@ -143643,7 +144515,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sorsametsästys</l>
+    <lg>
+      <l pos="N">sorsametsästys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giđđalodden</t>
@@ -143651,7 +144525,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sosiaaliala</l>
+    <lg>
+      <l pos="N">sosiaaliala</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sosiálasuorgi</t>
@@ -143659,7 +144535,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sovintoprosessi</l>
+    <lg>
+      <l pos="N">sovintoprosessi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">soabadanproseassa</t>
@@ -143667,7 +144545,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">subjekti</l>
+    <lg>
+      <l pos="N">subjekti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">subjeakta</t>
@@ -143675,7 +144555,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sudenmarja</l>
+    <lg>
+      <l pos="N">sudenmarja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dierbmámuorji</t>
@@ -143683,7 +144565,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">suikale</l>
+    <lg>
+      <l pos="N">suikale</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rággi</t>
@@ -143691,7 +144575,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sukuluettelo</l>
+    <lg>
+      <l pos="N">sukuluettelo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sohkagirji</t>
@@ -143699,7 +144585,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">suokorte</l>
+    <lg>
+      <l pos="N">suokorte</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jeaggehoašša</t>
@@ -143707,7 +144595,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">suokukka</l>
+    <lg>
+      <l pos="N">suokukka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">alásrássi</t>
@@ -143715,7 +144605,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">suomus</l>
+    <lg>
+      <l pos="N">suomus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čuomas</t>
@@ -143723,7 +144615,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">suorakulma</l>
+    <lg>
+      <l pos="N">suorakulma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">viŋkil</t>
@@ -143731,7 +144625,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">suuttumus</l>
+    <lg>
+      <l pos="N">suuttumus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">suhttu</t>
@@ -143739,7 +144635,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">syntaksivirhe</l>
+    <lg>
+      <l pos="N">syntaksivirhe</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">syntaksafeaila</t>
@@ -143747,7 +144645,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">syysmaitiainen</l>
+    <lg>
+      <l pos="N">syysmaitiainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čakčarássi</t>
@@ -143755,7 +144655,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">syysvasa</l>
+    <lg>
+      <l pos="N">syysvasa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">suohkulanmiessi</t>
@@ -143763,7 +144665,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">säiliö</l>
+    <lg>
+      <l pos="N">säiliö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rádju</t>
@@ -143771,7 +144675,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">säädös</l>
+    <lg>
+      <l pos="N">säädös</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">njuolggadus</t>
@@ -143779,7 +144685,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tahdas</l>
+    <lg>
+      <l pos="N">tahdas</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rábát</t>
@@ -143787,7 +144695,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">taidetapahtuma</l>
+    <lg>
+      <l pos="N">taidetapahtuma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dáiddadáhpáhus</t>
@@ -143795,7 +144705,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">taimen</l>
+    <lg>
+      <l pos="N">taimen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čámsa</t>
@@ -143803,7 +144715,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">taiteilija</l>
+    <lg>
+      <l pos="N">taiteilija</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dáiddár</t>
@@ -143811,7 +144725,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">talviloma</l>
+    <lg>
+      <l pos="N">talviloma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dálveluopmu</t>
@@ -143819,7 +144735,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tasakerta</l>
+    <lg>
+      <l pos="N">tasakerta</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dásageardi</t>
@@ -143827,7 +144745,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tehoste</l>
+    <lg>
+      <l pos="N">tehoste</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">effeakta</t>
@@ -143835,7 +144755,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tervehdys</l>
+    <lg>
+      <l pos="N">tervehdys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dearvvahus</t>
@@ -143843,7 +144765,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">terveydenhoito</l>
+    <lg>
+      <l pos="N">terveydenhoito</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dearvvasvuođafuolahus</t>
@@ -143851,7 +144775,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tietosanakirja</l>
+    <lg>
+      <l pos="N">tietosanakirja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">diehtosátnegirji</t>
@@ -143859,7 +144785,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tikka</l>
+    <lg>
+      <l pos="N">tikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dihkká</t>
@@ -143867,7 +144795,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">toimipaja</l>
+    <lg>
+      <l pos="N">toimipaja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">doaibmabadji</t>
@@ -143875,7 +144805,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">toivotus</l>
+    <lg>
+      <l pos="N">toivotus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sávaldat</t>
@@ -143883,7 +144815,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tokka</l>
+    <lg>
+      <l pos="N">tokka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">eallu</t>
@@ -143891,7 +144825,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tomu</l>
+    <lg>
+      <l pos="N">tomu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">muolda</t>
@@ -143899,7 +144835,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">topaasi</l>
+    <lg>
+      <l pos="N">topaasi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">topása</t>
@@ -143907,7 +144845,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tulisoihtu</l>
+    <lg>
+      <l pos="N">tulisoihtu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">spáiddar</t>
@@ -143915,7 +144855,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tulliasema</l>
+    <lg>
+      <l pos="N">tulliasema</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">tuolloviessu</t>
@@ -143923,7 +144865,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tunturihärkki</l>
+    <lg>
+      <l pos="N">tunturihärkki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">várresáhpánrássi</t>
@@ -143931,7 +144875,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tunturikurjenherne</l>
+    <lg>
+      <l pos="N">tunturikurjenherne</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">duottarsáhpal</t>
@@ -143939,7 +144885,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tunturimaarianheinä</l>
+    <lg>
+      <l pos="N">tunturimaarianheinä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">aláš háissuodini</t>
@@ -143947,7 +144895,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tuokio</l>
+    <lg>
+      <l pos="N">tuokio</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bodda</t>
@@ -143955,7 +144905,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tuoksualvejuuri</l>
+    <lg>
+      <l pos="N">tuoksualvejuuri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hádjagáiski</t>
@@ -143963,7 +144915,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tuomi</l>
+    <lg>
+      <l pos="N">tuomi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ávža</t>
@@ -143971,7 +144925,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">turvekammi</l>
+    <lg>
+      <l pos="N">turvekammi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gámme</t>
@@ -143979,7 +144935,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tutina</l>
+    <lg>
+      <l pos="N">tutina</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">spahčan</t>
@@ -143987,7 +144945,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tutinasarvi</l>
+    <lg>
+      <l pos="N">tutinasarvi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">spahči</t>
@@ -143995,7 +144955,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tutkimusasema</l>
+    <lg>
+      <l pos="N">tutkimusasema</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dutkamaguovddáš</t>
@@ -144003,7 +144965,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tutkimuslaitos</l>
+    <lg>
+      <l pos="N">tutkimuslaitos</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dutkamainstituhtta</t>
@@ -144011,7 +144975,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työelin</l>
+    <lg>
+      <l pos="N">työelin</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargoorgána</t>
@@ -144019,7 +144985,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työharjoittelu</l>
+    <lg>
+      <l pos="N">työharjoittelu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargohárjánupmi</t>
@@ -144027,7 +144995,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työjärjestys</l>
+    <lg>
+      <l pos="N">työjärjestys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargoortnet</t>
@@ -144035,7 +145005,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työjärjestö</l>
+    <lg>
+      <l pos="N">työjärjestö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargoorganisašuvdna</t>
@@ -144043,7 +145015,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työkirja</l>
+    <lg>
+      <l pos="N">työkirja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargogirji</t>
@@ -144051,7 +145025,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työohjelma</l>
+    <lg>
+      <l pos="N">työohjelma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargoprográmma</t>
@@ -144059,7 +145035,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työpaja</l>
+    <lg>
+      <l pos="N">työpaja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargobádji</t>
@@ -144067,7 +145045,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">työvaate</l>
+    <lg>
+      <l pos="N">työvaate</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bargobivttas</t>
@@ -144075,7 +145055,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tähtirikko</l>
+    <lg>
+      <l pos="N">tähtirikko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nástenárti</t>
@@ -144083,7 +145065,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">täpläkylki</l>
+    <lg>
+      <l pos="N">täpläkylki</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dávllat</t>
@@ -144091,7 +145075,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">uhrilahja</l>
+    <lg>
+      <l pos="N">uhrilahja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oaffar</t>
@@ -144099,7 +145085,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">uistinsiima</l>
+    <lg>
+      <l pos="N">uistinsiima</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">uštta</t>
@@ -144107,7 +145095,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ulkopaikka</l>
+    <lg>
+      <l pos="N">ulkopaikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">olgobáiki</t>
@@ -144115,7 +145105,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">unelma</l>
+    <lg>
+      <l pos="N">unelma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">niehku</t>
@@ -144123,7 +145115,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">unioni</l>
+    <lg>
+      <l pos="N">unioni</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">uniovdna</t>
@@ -144131,7 +145125,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">uskonasia</l>
+    <lg>
+      <l pos="N">uskonasia</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oskkoldat</t>
@@ -144139,7 +145135,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">utsjokelainen</l>
+    <lg>
+      <l pos="N">utsjokelainen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ohcejohkalaš</t>
@@ -144147,7 +145145,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">uuvana</l>
+    <lg>
+      <l pos="N">uuvana</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lieđđedaŋas</t>
@@ -144155,7 +145155,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vaaliluento</l>
+    <lg>
+      <l pos="N">vaaliluento</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">válgalogahallan</t>
@@ -144163,7 +145165,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vaalipaja</l>
+    <lg>
+      <l pos="N">vaalipaja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">válgabadji</t>
@@ -144171,7 +145175,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vaiko</l>
+    <lg>
+      <l pos="N">vaiko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vai</t>
@@ -144179,7 +145185,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vaikutusmahdollisuus</l>
+    <lg>
+      <l pos="N">vaikutusmahdollisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váikkuhanvejolašvuohta</t>
@@ -144187,7 +145195,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vaivaispaju</l>
+    <lg>
+      <l pos="N">vaivaispaju</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gironlasta</t>
@@ -144195,7 +145205,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vajaus</l>
+    <lg>
+      <l pos="N">vajaus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váili</t>
@@ -144203,7 +145215,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vakka</l>
+    <lg>
+      <l pos="N">vakka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">skeahppu</t>
@@ -144211,7 +145225,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vakuus</l>
+    <lg>
+      <l pos="N">vakuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dáhkádus</t>
@@ -144219,7 +145235,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valamiehistö</l>
+    <lg>
+      <l pos="N">valamiehistö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jury</t>
@@ -144227,7 +145245,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valhe</l>
+    <lg>
+      <l pos="N">valhe</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gielis</t>
@@ -144235,7 +145255,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valkeus</l>
+    <lg>
+      <l pos="N">valkeus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čuovga</t>
@@ -144243,7 +145265,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valkoapila</l>
+    <lg>
+      <l pos="N">valkoapila</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vilgesluovvar</t>
@@ -144251,7 +145275,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valmennus</l>
+    <lg>
+      <l pos="N">valmennus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">hárjehus</t>
@@ -144259,7 +145285,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valoisuus</l>
+    <lg>
+      <l pos="N">valoisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čuovgafápmu</t>
@@ -144267,7 +145295,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valtionapu</l>
+    <lg>
+      <l pos="N">valtionapu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">stáhtaveahkki</t>
@@ -144275,7 +145305,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vanamo</l>
+    <lg>
+      <l pos="N">vanamo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vándádivga</t>
@@ -144283,7 +145315,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vanhurskaus</l>
+    <lg>
+      <l pos="N">vanhurskaus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vanhurskkisvuohta</t>
@@ -144291,7 +145325,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vanutus</l>
+    <lg>
+      <l pos="N">vanutus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">duohpi</t>
@@ -144299,7 +145335,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">varasto</l>
+    <lg>
+      <l pos="N">varasto</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rádju</t>
@@ -144307,7 +145345,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">varpekansi</l>
+    <lg>
+      <l pos="N">varpekansi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">riipu</t>
@@ -144315,7 +145355,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">varpunen</l>
+    <lg>
+      <l pos="N">varpunen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">cizáš</t>
@@ -144323,7 +145365,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vaski</l>
+    <lg>
+      <l pos="N">vaski</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">veaiki</t>
@@ -144331,7 +145375,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vastapäätä</l>
+    <lg>
+      <l pos="N">vastapäätä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">buohta</t>
@@ -144339,7 +145385,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vastatuuli</l>
+    <lg>
+      <l pos="N">vastatuuli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vuostebiegga</t>
@@ -144347,7 +145395,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">veden</l>
+    <lg>
+      <l pos="N">veden</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čáhcedulvi</t>
@@ -144355,7 +145405,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vehnänjyvä</l>
+    <lg>
+      <l pos="N">vehnänjyvä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">nisogordni</t>
@@ -144363,7 +145415,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">velipuoli</l>
+    <lg>
+      <l pos="N">velipuoli</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vielljabealle</t>
@@ -144371,7 +145425,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">velkakirja</l>
+    <lg>
+      <l pos="N">velkakirja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vealgečálus</t>
@@ -144379,7 +145435,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">venymäsuoni</l>
+    <lg>
+      <l pos="N">venymäsuoni</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vietnansuotna</t>
@@ -144387,7 +145445,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">venytyskeppi</l>
+    <lg>
+      <l pos="N">venytyskeppi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čuolddasmuorra</t>
@@ -144395,7 +145455,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">verikoe</l>
+    <lg>
+      <l pos="N">verikoe</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">varraiskkus</t>
@@ -144403,7 +145465,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">veripalttu</l>
+    <lg>
+      <l pos="N">veripalttu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gumppus</t>
@@ -144411,7 +145475,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">veronmaksaja</l>
+    <lg>
+      <l pos="N">veronmaksaja</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vearromáksi</t>
@@ -144419,7 +145485,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vesa</l>
+    <lg>
+      <l pos="N">vesa</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vesá</t>
@@ -144427,7 +145495,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vesiastia</l>
+    <lg>
+      <l pos="N">vesiastia</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čáhcelihtti</t>
@@ -144435,7 +145505,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">viaton</l>
+    <lg>
+      <l pos="N">viaton</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vigiheapmi</t>
@@ -144443,7 +145515,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">video</l>
+    <lg>
+      <l pos="N">video</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">video</t>
@@ -144451,7 +145525,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vihamies</l>
+    <lg>
+      <l pos="N">vihamies</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vašálaš</t>
@@ -144459,7 +145535,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vihannes</l>
+    <lg>
+      <l pos="N">vihannes</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ruonas</t>
@@ -144467,7 +145545,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vihollisuus</l>
+    <lg>
+      <l pos="N">vihollisuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">vašálašvuohta</t>
@@ -144475,7 +145555,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">viikunapuu</l>
+    <lg>
+      <l pos="N">viikunapuu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">fiikonmuorra</t>
@@ -144483,7 +145565,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vilukko</l>
+    <lg>
+      <l pos="N">vilukko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">beaivečalbmi</t>
@@ -144491,7 +145575,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vitsaus</l>
+    <lg>
+      <l pos="N">vitsaus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">giksi</t>
@@ -144499,7 +145585,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vuode</l>
+    <lg>
+      <l pos="N">vuode</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">seaŋga</t>
@@ -144507,7 +145595,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vuodevaate</l>
+    <lg>
+      <l pos="N">vuodevaate</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gávnnit</t>
@@ -144515,7 +145605,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">vähennys</l>
+    <lg>
+      <l pos="N">vähennys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">unnideapmi</t>
@@ -144523,7 +145615,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ydinalue</l>
+    <lg>
+      <l pos="N">ydinalue</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">váldoguovlu</t>
@@ -144531,7 +145625,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">yhdistyminen</l>
+    <lg>
+      <l pos="N">yhdistyminen</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ovttastupmi</t>
@@ -144539,7 +145635,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">yhteenkuuluvuus</l>
+    <lg>
+      <l pos="N">yhteenkuuluvuus</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oktiigullevašvuohta</t>
@@ -144547,7 +145645,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ylenkatse</l>
+    <lg>
+      <l pos="N">ylenkatse</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">bilku</t>
@@ -144555,7 +145655,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ylpeys</l>
+    <lg>
+      <l pos="N">ylpeys</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">čeavllis</t>
@@ -144563,7 +145665,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ympäristöministeriö</l>
+    <lg>
+      <l pos="N">ympäristöministeriö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">birasministeriija</t>
@@ -144571,7 +145675,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ympäristösihteeri</l>
+    <lg>
+      <l pos="N">ympäristösihteeri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">birasčálli</t>
@@ -144579,7 +145685,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">äänestyslippu</l>
+    <lg>
+      <l pos="N">äänestyslippu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jienastanlihppu</t>
@@ -144587,7 +145695,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">äänestysluku</l>
+    <lg>
+      <l pos="N">äänestysluku</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">jienastuslohku</t>
@@ -144595,7 +145705,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">öljypuu</l>
+    <lg>
+      <l pos="N">öljypuu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">oljomuorra</t>
@@ -144603,7 +145715,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kanerva</l>
+    <lg>
+      <l pos="N">kanerva</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">heavušdaŋas</t>
@@ -144614,7 +145728,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kenosarvi</l>
+    <lg>
+      <l pos="N">kenosarvi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">njabbi</t>
@@ -144625,7 +145741,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">kylkiluu</l>
+    <lg>
+      <l pos="N">kylkiluu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">erttetdákti</t>
@@ -144636,7 +145754,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lapinvuokko</l>
+    <lg>
+      <l pos="N">lapinvuokko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">golka</t>
@@ -144647,7 +145767,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">leskenlehti</l>
+    <lg>
+      <l pos="N">leskenlehti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gálla</t>
@@ -144658,7 +145780,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">lillukka</l>
+    <lg>
+      <l pos="N">lillukka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">lávžžamuorji</t>
@@ -144669,7 +145793,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">luhtavilla</l>
+    <lg>
+      <l pos="N">luhtavilla</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gieddeullu</t>
@@ -144680,7 +145806,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">metsäkorte</l>
+    <lg>
+      <l pos="N">metsäkorte</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guossarássi</t>
@@ -144691,7 +145819,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">metsätähti</l>
+    <lg>
+      <l pos="N">metsätähti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">guolbbanásti</t>
@@ -144702,7 +145832,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">riidenlieko</l>
+    <lg>
+      <l pos="N">riidenlieko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">sohterássi</t>
@@ -144713,7 +145845,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">rikka</l>
+    <lg>
+      <l pos="N">rikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">rihpa</t>
@@ -144724,7 +145858,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">ruusujuuri</l>
+    <lg>
+      <l pos="N">ruusujuuri</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gálbberássi</t>
@@ -144735,7 +145871,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sielikkö</l>
+    <lg>
+      <l pos="N">sielikkö</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">deaškedaŋas</t>
@@ -144746,7 +145884,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sinirikko</l>
+    <lg>
+      <l pos="N">sinirikko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">alitnárti</t>
@@ -144757,18 +145897,22 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">sotamies</l>
+    <lg>
+      <l pos="N">sotamies</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">soalddát</t>
       </tg>
       <tg>
-        <t pos="N"></t>
+        <t pos="N"/>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="N">toimipaikka</l>
+    <lg>
+      <l pos="N">toimipaikka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">doaibmabáiki</t>
@@ -144779,7 +145923,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tunturipaju</l>
+    <lg>
+      <l pos="N">tunturipaju</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">ránessieđga</t>
@@ -144790,7 +145936,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tunturilieko</l>
+    <lg>
+      <l pos="N">tunturilieko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">gáiccabáinna</t>
@@ -144801,7 +145949,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">tuuma</l>
+    <lg>
+      <l pos="N">tuuma</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">dumá</t>
@@ -144812,7 +145962,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">valtti</l>
+    <lg>
+      <l pos="N">valtti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">romfa</t>
@@ -144823,7 +145975,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">voikukka</l>
+    <lg>
+      <l pos="N">voikukka</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">uvlorássi</t>
@@ -144834,7 +145988,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="N">änkyrä</l>
+    <lg>
+      <l pos="N">änkyrä</l>
+    </lg>
     <mg>
       <tg>
         <t pos="N">báddebahá</t>
