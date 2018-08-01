@@ -136582,8 +136582,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">vaihtaa</l>
       </lg>
-      <mg re="jotain johonkin toiseen">
+      <mg>
          <tg xml:lang="sme">
+            <re>jotain johonkin toiseen</re>
             <t pos="V" freq="716">lonuhit</t>
          </tg>
       </mg>
