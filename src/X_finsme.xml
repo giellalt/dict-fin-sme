@@ -7750,7 +7750,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">(ii) goitge</t>
+            <re>ii</re>
+            <t pos="Adv">goitge</t>
          </tg>
       </mg>
    </e>
