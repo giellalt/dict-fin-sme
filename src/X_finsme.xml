@@ -122687,43 +122687,36 @@ For the full license text, see the link above.</lic>
          <l pos="V">pitää</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="pitää 6b89d44e-30cd-46ab-b3f8-0bf3894eb9f6">
-            <t pos="V" freq="117281">galgat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="pitää fe06b2c0-7954-4be4-8c14-4c42b26921f1">
-            <t pos="V" freq="12400">atnit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="pitää 345d19a8-f3ae-446a-8394-9f3aa9b5e3c1">
-            <t pos="V" freq="10107">berret</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="pitää 1c8815f7-acb2-4da2-95a0-7d8384dde5b7">
-            <t pos="V" freq="8894">doallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="pitää f7bfab8f-165f-4d0b-a990-09c28a334ab4">
-            <t pos="V" freq="4915">gustot</t>
+           <t pos="V" freq="8894">doallat</t>
+	   <xg>
+	     <x>Äiti pitää lasta sylissä</x>
+	     <xt>Eadni doallá máná askkis.</xt>
+	   </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="pitää f28137ff-625a-44f5-9506-00367d3d30c2">
             <t pos="V" freq="3737">liikot</t>
+            <xg>
+               <x>Minä pidän siitä.</x>
+               <xt>Mun liikon dasa.</xt>
+            </xg>
+            <xg>
+               <x>Minä pidän sinusta.</x>
+               <xt>Mun liikon dutnje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="pitää 6b89d44e-30cd-46ab-b3f8-0bf3894eb9f6">
+            <t pos="V" freq="117281">galgat</t>
+            <t pos="V" freq="10107">berret</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="pitää 1667d49f-b88c-4305-a56d-402271d429ab">
             <t pos="V" freq="3605">doalahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="pitää 64445997-2ddb-4494-8dc7-734b992adf1b">
-            <t pos="V" freq="4">coakcut</t>
          </tg>
       </mg>
    </e>
