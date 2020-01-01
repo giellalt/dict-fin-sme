@@ -140709,6 +140709,17 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e>
+      <lg>
+         <l pos="V">tiskata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">bassat lihtiid</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
     <lg>
       <l pos="N">aarteisto</l>
     </lg>
