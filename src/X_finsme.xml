@@ -146545,4 +146545,34 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N">kaali</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="N">kálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lehtikaali</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="N">lastakálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kiinankaali</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="N">kiinnakálla</t>
+      </tg>
+    </mg>
+  </e>
 </r>
