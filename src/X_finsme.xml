@@ -76209,7 +76209,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="salmi 55260ad9-fd2c-43fa-9d54-199f1f67fe78">
-            <t pos="N" freq="105">nuorri</t>
+           <t pos="N" freq="105">nuorri</t>
+	   <t pos="N">čoalbmi</t>
          </tg>
       </mg>
    </e>
