@@ -14708,11 +14708,6 @@ For the full license text, see the link above.</lic>
             <t pos="A" freq="385">sorjjasmeahttun</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="riippumaton a31af725-92fa-432a-9a38-121ad4d24277">
-            <t pos="A" freq="306">sorjavaš</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -64232,10 +64227,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">osaanottaja</l>
+         <l pos="N">osanottaja</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="osaanottaja 5fa9dcdb-8a3f-4eaf-8244-cfb32981712c">
+         <tg xml:lang="sme" tw_id="osanottaja 5fa9dcdb-8a3f-4eaf-8244-cfb32981712c">
             <t pos="N" freq="1672">oasseváldi</t>
          </tg>
       </mg>
@@ -97754,10 +97749,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">arivoida</l>
+         <l pos="V">arvioida</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="arivoida c1849d9f-3703-47d6-8b49-4f005f80d2e6">
+         <tg xml:lang="sme" tw_id="arvioida c1849d9f-3703-47d6-8b49-4f005f80d2e6">
             <t pos="V" freq="9324">árvvoštallat</t>
          </tg>
       </mg>
@@ -100643,10 +100638,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">hiekottaa</l>
+         <l pos="V">hiekoittaa</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="hiekottaa 3847fbdd-e5e9-4170-8d48-4a9603804615">
+         <tg xml:lang="sme" tw_id="hiekoittaa 3847fbdd-e5e9-4170-8d48-4a9603804615">
             <t pos="V" freq="0">boatkkuhit</t>
          </tg>
       </mg>
@@ -119598,16 +119593,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">osanottajat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="osanottajat 65b14fb5-7d0c-4a89-8ac3-da9a97681be7">
-            <t pos="V" freq="0">oasseváldit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">osata</l>
       </lg>
       <mg>
@@ -123636,16 +123621,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme" tw_id="puraista 5b5d21dc-b132-4e2d-a7a7-3a089b7e8ef4">
             <t pos="V" freq="10">snelket</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">purea</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="purea 76b9a38b-dff1-4afd-9d2a-76a03c36e2ff">
-            <t pos="V" freq="60">gáskit</t>
          </tg>
       </mg>
    </e>
