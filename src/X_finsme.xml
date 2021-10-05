@@ -30354,7 +30354,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="Marianpäivä d7cf5cd3-fced-4f0b-accf-e9f059e87916">
-            <t pos="N" freq="0">márjjábeaivi</t>
+            <t pos="N" freq="0">Márjjábeaivi</t>
          </tg>
       </mg>
    </e>
@@ -32428,11 +32428,6 @@ For the full license text, see the link above.</lic>
          <l pos="N">ankara ihminen</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="ankara ihminen 1fa5d096-cddb-4e1e-9d0c-62bbb29d22a2">
-            <t pos="N" freq="0">sreaŋggár</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="ankara ihminen 4a00374a-8010-45a4-b356-9a8ab4e0f0ad">
             <t pos="N" freq="0">streaŋggár</t>
          </tg>
@@ -32485,11 +32480,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme" tw_id="ansa 0a44f8f1-6bb8-4ff5-a226-f8ed39b21b56">
             <t pos="N" freq="19119">giella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ansa e38b22b8-5740-4b46-b97c-5ac2dfb75457">
-            <t pos="N" freq="0">bážáhat</t>
          </tg>
       </mg>
    </e>
@@ -84139,7 +84129,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="toimitusjohtaja 29d4c71a-b8e9-4edb-940b-7151600e8c7d">
-            <t pos="N" freq="3012">beaivválaš</t>
+            <t pos="N" freq="3012">beaivválaš jođiheaddji</t>
          </tg>
       </mg>
    </e>
