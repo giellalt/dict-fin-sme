@@ -1262,6 +1262,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">edustaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg">ovddasteaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">eeppinen</l>
       </lg>
       <mg>
@@ -32349,7 +32359,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ampuja 38f95bc7-6709-4d3d-a30a-b739d6810dc7">
-            <t pos="N" freq="344">báhčči</t>
+            <t pos="N" type="NomAg" freq="344">báhčči</t>
          </tg>
       </mg>
    </e>
@@ -32459,7 +32469,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="anoja c5185474-5c3c-45d9-a3ab-86c51633001d">
-            <t pos="N" freq="15">ánuheaddji</t>
+            <t pos="N" type="NomAg" freq="15">ánuheaddji</t>
          </tg>
       </mg>
    </e>
@@ -33104,7 +33114,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="asettaja 7ba9b34d-e84d-4936-8392-66f8ac7be1b2">
-            <t pos="N" freq="109">ásaheaddji</t>
+            <t pos="N" type="NomAg" freq="109">ásaheaddji</t>
          </tg>
       </mg>
    </e>
@@ -33224,7 +33234,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="asiantuntija 786b361f-3ce0-463e-8875-08cdf84f84f7">
-            <t pos="N" freq="687">áššedovdi</t>
+            <t pos="N" type="NomAg" freq="687">áššedovdi</t>
          </tg>
       </mg>
       <mg>
@@ -33689,7 +33699,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="autonajaja 6717eb18-2c36-49f4-97c6-8da468c8660b">
-            <t pos="N" freq="414">biilavuoddji</t>
+            <t pos="N" type="NomAg" freq="414">biilavuoddji</t>
          </tg>
       </mg>
    </e>
@@ -33839,7 +33849,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="avopuoliso a5f3815f-6a16-490a-880e-656f454e0768">
-            <t pos="N" freq="62">ovttasorru</t>
+            <t pos="N" type="NomAg" freq="62">ovttasorru</t>
          </tg>
       </mg>
    </e>
@@ -35149,7 +35159,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="esikouluopettaja 665a1f5e-1b64-4af1-a9b0-aa6651cbe687">
-            <t pos="N" freq="346">ovdaskuvlaoahpaheaddji</t>
+            <t pos="N" type="NomAg" freq="346">ovdaskuvlaoahpaheaddji</t>
          </tg>
       </mg>
    </e>
@@ -35774,7 +35784,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="filmintekijä b242f501-3a1b-4b81-b9f0-b0a62b7086eb">
-            <t pos="N" freq="589">filbmadahkki</t>
+            <t pos="N" freq="589" type="NomAg">filbmadahkki</t>
          </tg>
       </mg>
    </e>
@@ -36497,7 +36507,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="hallitsija 62dc585d-7fe7-461c-b4ca-dd8336074a28">
-            <t pos="N" freq="117">ráđđejeaddji</t>
+            <t pos="N" type="NomAg" freq="117">ráđđejeaddji</t>
          </tg>
       </mg>
    </e>
@@ -37807,7 +37817,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="hiihtäjä f9f49ed3-4e98-47f3-998e-abc6539711ca">
-            <t pos="N" freq="610">čuoigi</t>
+            <t pos="N" type="NomAg" freq="610">čuoigi</t>
          </tg>
       </mg>
    </e>
@@ -38243,7 +38253,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="hoitaja cda85998-cf01-4732-b367-a02f4131babd">
-            <t pos="N" freq="1180">dikšu</t>
+            <t pos="N" type="NomAg" freq="1180">dikšu</t>
          </tg>
       </mg>
    </e>
@@ -39897,7 +39907,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ilmiantaja 8fbef742-49b5-4689-97d6-6183a146cd22">
-            <t pos="N" freq="192">váidi</t>
+            <t pos="N" type="NomAg" freq="192">váidi</t>
          </tg>
       </mg>
    </e>
@@ -40782,12 +40792,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="jalkapalloilija 474a1a06-230e-47a3-aca9-c4c7be3b4874">
-            <t pos="N" freq="2816">čiekči</t>
+            <t pos="N" type="NomAg" freq="2816">čiekči</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="jalkapalloilija 5c8db953-fe50-4611-9169-6535dad1a246">
-            <t pos="N" freq="615">spábbačiekči</t>
+            <t pos="N" type="NomAg" freq="615">spábbačiekči</t>
          </tg>
       </mg>
    </e>
@@ -41048,7 +41058,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="johtaja 54c0f2b7-bcf2-4979-95cd-0eeceebfa2eb">
-            <t pos="N" freq="17777">jođiheaddji</t>
+            <t pos="N" type="NomAg" freq="17777">jođiheaddji</t>
          </tg>
       </mg>
       <mg>
@@ -41098,7 +41108,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="joikaaja 9d166e39-cead-4b3f-859d-c080bdd38c80">
-            <t pos="N" freq="1100">juoigi</t>
+            <t pos="N" type="NomAg" freq="1100">juoigi</t>
          </tg>
       </mg>
    </e>
@@ -54756,7 +54766,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="lemmikkieläin 06eb5b8a-aba1-4396-9b2f-47402fd501ed">
-            <t pos="N" freq="19">biebmoealli</t>
+            <t pos="N" type="NomAg" freq="19">biebmoealli</t>
          </tg>
       </mg>
    </e>
@@ -54866,7 +54876,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="lentäjä 99927371-e1ca-4fc6-a386-b0b65ae4e4a2">
-            <t pos="N" freq="874">girdi</t>
+            <t pos="N" type="NomAg" freq="874">girdi</t>
          </tg>
       </mg>
    </e>
@@ -55710,7 +55720,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="linjaautonkuljettaja c0ba4675-7b74-47c2-b85b-e67fbb049251">
-            <t pos="N" freq="101">bussevuoddji</t>
+            <t pos="N" type="NomAg" freq="101">bussevuoddji</t>
          </tg>
       </mg>
    </e>
@@ -76001,7 +76011,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="sairaanhoitaja 023ffd25-da5f-4981-b739-238f528a4a03">
-            <t pos="N" freq="44">buohccidikšu</t>
+            <t pos="N" type="NomAg" freq="44">buohccidikšu</t>
          </tg>
       </mg>
       <mg>
@@ -84144,7 +84154,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="toimitusjohtaja 29d4c71a-b8e9-4edb-940b-7151600e8c7d">
-            <t pos="N" freq="3012">beaivválaš jođiheaddji</t>
+            <t pos="N" type="NomAg" freq="3012">beaivválaš jođiheaddji</t>
          </tg>
       </mg>
    </e>
