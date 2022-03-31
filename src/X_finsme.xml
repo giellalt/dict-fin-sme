@@ -43758,7 +43758,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="G3" freq="10">vuoncáfálli</t>
+            <t pos="N" freq="10">vuoncáfálli</t>
          </tg>
       </mg>
    </e>
@@ -56781,7 +56781,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="978">klássa</t>
+            <t type="G3" pos="N" freq="978">klássa</t>
          </tg>
       </mg>
    </e>
@@ -64451,7 +64451,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="124">gállu</t>
+            <t pos="N" type="G3" freq="124">gállu</t>
          </tg>
       </mg>
    </e>
@@ -66370,7 +66370,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">dirri</t>
+            <t type="G3" pos="N" freq="0">dirri</t>
          </tg>
       </mg>
    </e>
@@ -69898,7 +69898,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="314">hálla</t>
             <t pos="N" freq="115">hállan</t>
          </tg>
       </mg>
@@ -84845,7 +84844,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="85">rišša</t>
+            <t pos="N"  type="G3" freq="85">rišša</t>
          </tg>
       </mg>
       <mg>
@@ -85215,7 +85214,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="494">beassi</t>
+            <t pos="N"  type="G3" freq="494">beassi</t>
          </tg>
       </mg>
    </e>
