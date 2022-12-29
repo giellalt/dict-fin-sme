@@ -3543,7 +3543,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">vudjon fanas</t>
+            <t pos="A" freq="0">vuddjon fanas</t>
          </tg>
       </mg>
    </e>
@@ -3944,7 +3944,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="6">eahkedaččat</t>
+            <t pos="N" nr="Pl" freq="6">eahkedaččat</t>
          </tg>
       </mg>
    </e>
@@ -5365,7 +5365,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">ipmila</t>
+            <t pos="A" freq="0">ipmillaš</t>
          </tg>
       </mg>
    </e>
@@ -5887,7 +5887,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">hálu</t>
+            <t pos="A" freq="0">hálo-</t>
          </tg>
       </mg>
    </e>
@@ -5967,22 +5967,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="1376">našunála</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" freq="160">álbmotlaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">náššuvnnalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="0">nášuvnnalaš</t>
+            <t pos="A" freq="0">našuvnnalaš</t>
          </tg>
       </mg>
    </e>
@@ -9797,7 +9787,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">iežaddiluvvon</t>
+            <t pos="A" freq="0">iešaddiluvvon</t>
          </tg>
       </mg>
    </e>
@@ -10427,7 +10417,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">-lágán</t>
+            <t pos="A" freq="0">-lágan</t>
          </tg>
       </mg>
    </e>
@@ -10447,7 +10437,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">máinnašan</t>
+            <t pos="A" freq="0">máinnašan veara</t>
          </tg>
       </mg>
    </e>
@@ -10527,7 +10517,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">nannáma</t>
+            <t pos="N" freq="0">nannán</t>
          </tg>
       </mg>
    </e>
@@ -11005,11 +10995,6 @@ For the full license text, see the link above.</lic>
             <t pos="A" freq="93">mohkkái</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="0">mohkkát</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -11017,7 +11002,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">máŋggalágán</t>
+            <t pos="A" freq="0">máŋggalágan</t>
          </tg>
       </mg>
    </e>
@@ -12047,11 +12032,6 @@ For the full license text, see the link above.</lic>
             <t pos="A" freq="656">olgeš</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="0">rievttes</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -12461,16 +12441,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" freq="1228">heivvolaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">ottava</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="7504">čađahit</t>
          </tg>
       </mg>
    </e>
@@ -13668,11 +13638,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" freq="862">psyhkalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="0">psykalaš</t>
          </tg>
       </mg>
    </e>
@@ -15537,7 +15502,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">seammalágán</t>
+            <t pos="A" freq="0">seammalágan</t>
          </tg>
       </mg>
       <mg>
@@ -16664,7 +16629,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">njuolggolinnját</t>
+            <t pos="A" freq="0">njuolggolinjat</t>
          </tg>
       </mg>
    </e>
@@ -18003,7 +17968,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">nuppelágán</t>
+            <t pos="A" freq="0">nuppelágan</t>
          </tg>
       </mg>
    </e>
@@ -21285,7 +21250,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">ovttalágán</t>
+            <t pos="A" freq="0">ovttalágan</t>
          </tg>
       </mg>
    </e>
@@ -21296,16 +21261,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" freq="0">seammaguvllot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">yhteenlaskettu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="0">oktiiluiton</t>
          </tg>
       </mg>
    </e>
@@ -21360,7 +21315,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">ovttalágán</t>
+            <t pos="A" freq="0">ovttalágan</t>
          </tg>
       </mg>
    </e>
@@ -29429,7 +29384,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Interj" freq="45">ojá</t>
+            <t pos="Interj" freq="45">oja</t>
          </tg>
       </mg>
    </e>
@@ -29529,7 +29484,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="mwe" freq="0">ieš alddes</t>
+            <t pos="mwe" freq="0">iešalddes</t>
          </tg>
       </mg>
    </e>
@@ -32045,7 +32000,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">regiuvdna</t>
+            <t pos="N" freq="0">regiovdna</t>
          </tg>
       </mg>
    </e>
@@ -34236,7 +34191,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">riikkabeaivvit</t>
+            <t pos="N" nr="Pl" freq="0">riikkabeaivvit</t>
          </tg>
       </mg>
    </e>
@@ -34296,7 +34251,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="275">kandidáhtta</t>
+            <t pos="N" freq="275">kandidáhta</t>
          </tg>
       </mg>
    </e>
@@ -34326,7 +34281,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="6">eahkedaččat</t>
+            <t pos="N" nr="Pl" freq="6">eahkedaččat</t>
          </tg>
       </mg>
    </e>
@@ -34681,7 +34636,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="271">penšunista</t>
+            <t pos="N" freq="271">pensionista</t>
          </tg>
       </mg>
    </e>
@@ -35606,7 +35561,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">obersta</t>
+            <t pos="N" freq="0">oberst</t>
          </tg>
       </mg>
    </e>
@@ -40109,7 +40064,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="1112">internáhtta</t>
+            <t pos="N" freq="1112">internáhta</t>
          </tg>
       </mg>
    </e>
@@ -40860,7 +40815,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="491">joatkka</t>
-            <t pos="N" freq="0">joatkki</t>
          </tg>
       </mg>
    </e>
@@ -43871,7 +43825,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">náššon</t>
+            <t pos="N" freq="0">našuvdna</t>
          </tg>
       </mg>
    </e>
@@ -43901,7 +43855,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">nášuvnnalávlla</t>
+            <t pos="N" freq="0">našuvnnalávlla</t>
          </tg>
       </mg>
    </e>
@@ -47553,7 +47507,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="267">kápihttal</t>
+            <t pos="N" freq="267">kapihttal</t>
          </tg>
       </mg>
    </e>
@@ -48841,11 +48795,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1323">kommišuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">komišuvdna</t>
          </tg>
       </mg>
    </e>
@@ -50529,11 +50478,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="397">kulturdepartemeanta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">kultuvradepartemeanta</t>
          </tg>
       </mg>
    </e>
@@ -55650,11 +55594,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" freq="177">linnjá</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">linjjá</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -56268,7 +56207,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">loahpageahči</t>
+            <t pos="N" freq="0">loahppageahči</t>
          </tg>
       </mg>
    </e>
@@ -57886,7 +57825,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="3">máilmmioláhus</t>
+            <t pos="N" freq="3">máilmmiolahus</t>
          </tg>
       </mg>
    </e>
@@ -57936,7 +57875,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="1202">riikkačoahkkin</t>
+            <t pos="N" freq="1202">riikačoahkkin</t>
          </tg>
       </mg>
    </e>
@@ -58743,7 +58682,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">oađđinlatnja</t>
+            <t pos="N" freq="0">oađđenlatnja</t>
          </tg>
       </mg>
    </e>
@@ -58753,7 +58692,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">oađđinseahkka</t>
+            <t pos="N" freq="0">oađđenseahkka</t>
          </tg>
       </mg>
    </e>
@@ -58964,7 +58903,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="11">mássá</t>
+            <t pos="N" freq="11">mássa</t>
          </tg>
       </mg>
    </e>
@@ -59998,7 +59937,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">miljon</t>
+            <t pos="N" freq="0">miljovdna</t>
          </tg>
       </mg>
    </e>
@@ -60103,7 +60042,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">medálja</t>
+            <t pos="N" freq="0">medállja</t>
          </tg>
       </mg>
    </e>
@@ -61689,7 +61628,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">njealjehaskilomehtar</t>
+            <t pos="N" freq="0">njealjehaskilomehter</t>
          </tg>
       </mg>
    </e>
@@ -62141,11 +62080,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1691">leansmánni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="15">leansman</t>
          </tg>
       </mg>
    </e>
@@ -64263,7 +64197,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">oassebealli</t>
+            <t pos="N" freq="0">oassebealle</t>
          </tg>
       </mg>
    </e>
@@ -65391,7 +65325,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">jorbálasbealli</t>
+            <t pos="N" freq="0">jorbalasbealli</t>
          </tg>
       </mg>
    </e>
@@ -73710,7 +73644,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">rihppa</t>
+            <t pos="N" nr="Pl" freq="0">rihpat</t>
          </tg>
       </mg>
    </e>
@@ -74067,7 +74001,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="520">rock</t>
+            <t pos="N" freq="520">rohka</t>
          </tg>
       </mg>
    </e>
@@ -78148,7 +78082,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="1112">internáhtta</t>
+            <t pos="N" freq="1112">internáhta</t>
          </tg>
       </mg>
    </e>
@@ -80292,7 +80226,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="10">riegádanbeaivedearvvuođat</t>
+            <t pos="N" freq="10">riegádanbeaidearvuohta</t>
          </tg>
       </mg>
    </e>
@@ -80754,7 +80688,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="58">gávnnit</t>
+            <t pos="N" nr="Pl" freq="58">gávnnit</t>
          </tg>
       </mg>
    </e>
@@ -84060,7 +83994,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">nubbingiella</t>
+            <t pos="N" freq="0">nubbigiella</t>
          </tg>
       </mg>
    </e>
@@ -88577,11 +88511,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" freq="288">riikkarádjá</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">riikarádji</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -90664,7 +90593,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="13">juŋgel</t>
+            <t pos="N" freq="13">juŋŋel</t>
          </tg>
       </mg>
    </e>
@@ -91715,7 +91644,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">várit</t>
+            <t pos="N" nr="Pl" freq="0">várit</t>
          </tg>
       </mg>
    </e>
@@ -91940,7 +91869,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">minoritehtta</t>
+            <t pos="N" freq="0">minoriteahtta</t>
          </tg>
       </mg>
    </e>
@@ -92354,11 +92283,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" freq="34">kombinašuvdna</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">oktiibiddju</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -92397,16 +92321,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="537">čoahkkáigeassu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">yhteinen kanta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="7">ovttaoaivil</t>
          </tg>
       </mg>
    </e>
@@ -92571,7 +92485,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">musiikkajoavku</t>
+            <t pos="N" freq="0">musihkkajoavku</t>
          </tg>
       </mg>
    </e>
@@ -92811,7 +92725,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="43">badjosat</t>
+            <t pos="N" nr="Pl" freq="43">badjosat</t>
          </tg>
       </mg>
    </e>
@@ -92821,7 +92735,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="43">badjosat</t>
+            <t pos="N"  nr="Pl" freq="43">badjosat</t>
          </tg>
       </mg>
    </e>
@@ -93398,7 +93312,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" nr="Pl" freq="156">hávdádeapmi</t>
+            <t pos="N" freq="156">hávdádeapmi</t>
          </tg>
       </mg>
    </e>
@@ -95134,7 +95048,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="0">oažžunsajis</t>
+            <t pos="Adv" freq="0">oažžun sajis</t>
          </tg>
       </mg>
    </e>
@@ -95144,7 +95058,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="0">oažžunsadjái</t>
+            <t pos="Adv" freq="0">oažžun sadjái</t>
          </tg>
       </mg>
    </e>
@@ -96174,7 +96088,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" freq="0">olugat</t>
+            <t pos="Pron" freq="0">ollugat</t>
          </tg>
       </mg>
    </e>
@@ -102685,7 +102599,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" freq="0">movttidahttit</t>
+            <t pos="V" freq="0">movttiidahttit</t>
          </tg>
       </mg>
    </e>
@@ -115877,7 +115791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" freq="0">muitášit</t>
+            <t pos="V" freq="0">muittašit</t>
          </tg>
       </mg>
    </e>
@@ -117481,16 +117395,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" freq="8">storbmet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">nostaa tietomäärä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">máhttoloktet</t>
          </tg>
       </mg>
    </e>
@@ -119482,7 +119386,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" freq="829">oasálastit</t>
+            <t pos="V" freq="829">oassálastit</t>
          </tg>
       </mg>
    </e>
@@ -136538,7 +136442,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" freq="0">ođasmáhttit</t>
+            <t pos="V" freq="0">ođasmahttit</t>
          </tg>
       </mg>
    </e>
@@ -136624,11 +136528,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" freq="107">ođasmuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">ođasmahtit</t>
          </tg>
       </mg>
    </e>
@@ -141715,7 +141614,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sme">
-        <t pos="N">kanadalaš</t>
+        <t pos="N">kanádalaš</t>
       </tg>
     </mg>
   </e>
@@ -141895,7 +141794,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sme">
-        <t pos="N">guoktilaččat</t>
+        <t pos="Adv">guoktilaččat</t>
       </tg>
     </mg>
   </e>
@@ -143835,7 +143734,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sme">
-        <t pos="N">politiijastašuvnna</t>
+        <t pos="N">politiijastašuvdna</t>
       </tg>
     </mg>
   </e>
@@ -144466,16 +144365,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">nállevealaheapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rukoilija</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">rohkadallat</t>
       </tg>
     </mg>
   </e>
@@ -145995,7 +145884,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sme">
-        <t pos="N">gávnnit</t>
+        <t nr="Pl" pos="N">gávnnit</t>
       </tg>
     </mg>
   </e>
@@ -146259,9 +146148,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">gálbberássi</t>
-      </tg>
-      <tg xml:lang="sme">
-        <t pos="N">hádjaurttas</t>
       </tg>
     </mg>
   </e>
