@@ -1172,6 +1172,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">keskihajonta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">gaskabiđggiideapmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">demokraattinen</l>
       </lg>
       <mg>
@@ -10958,7 +10968,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">monelainen</l>
+         <l pos="A">monenlainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -13216,7 +13226,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">pierekeleväinen</l>
+         <l pos="A">piereskeleväinen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -15423,7 +15433,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">samaarvoinen</l>
+         <l pos="A">samanarvoinen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -20768,7 +20778,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">vollottavinen</l>
+         <l pos="A">vollottavainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
