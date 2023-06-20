@@ -146628,31 +146628,16 @@ For the full license text, see the link above.</lic>
         <t pos="N">miehtan</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">mieđiheapmi</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">juolludeapmi</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">juolludus</t>
@@ -146762,46 +146747,6 @@ For the full license text, see the link above.</lic>
   <e>
     <lg>
       <l pos="N">jakaminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">juolludus</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">miehtan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">mieđiheapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">juolludeapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
     </lg>
     <mg>
       <tg xml:lang="sme">
@@ -153591,46 +153536,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">miehtan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">mieđiheapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">juolludeapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">juolludus</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">myönnytys</l>
     </lg>
     <mg>
@@ -153666,46 +153571,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">mieđiheapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">miehtan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">mieđiheapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">juolludeapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myöntäminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">juolludus</t>
       </tg>
     </mg>
   </e>
@@ -157338,21 +157203,11 @@ For the full license text, see the link above.</lic>
         <t pos="V">sivahaddat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">syytellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">sivahallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">syytellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">sujahaddat</t>
@@ -157841,46 +157696,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">spierggadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">fieradit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkestallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">šleŋggodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">piehtaroida</l>
     </lg>
     <mg>
@@ -157918,141 +157733,21 @@ For the full license text, see the link above.</lic>
         <t pos="V">suhpodit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">bálkkastallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">bálkkodit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">bálkulit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">šleŋggohallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">suhpodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkulit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">šleŋggohallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">suhpodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkulit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">šleŋggohallat</t>
@@ -158258,43 +157953,15 @@ For the full license text, see the link above.</lic>
         <t pos="V">bisánaddat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">orustaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
         <t pos="V">orostaddat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
+        <t pos="V">orustallat</t>
         <t pos="V">orostallat</t>
       </tg>
     </mg>
@@ -158528,31 +158195,16 @@ For the full license text, see the link above.</lic>
         <t pos="V">gákkastit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">botnjalastit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">botnjalit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">bonjastit</t>
@@ -158568,21 +158220,11 @@ For the full license text, see the link above.</lic>
         <t pos="V">botnjalastit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">botnjalit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">bonjastit</t>
@@ -158746,146 +158388,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">borššodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">gákkastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bonjastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bonjastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">gákkastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bonjastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännältää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bonjastit</t>
       </tg>
     </mg>
   </e>
@@ -159198,41 +158700,21 @@ For the full license text, see the link above.</lic>
         <t pos="V">doaladit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">doalahaddat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">doalahallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">cakkadit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">cakkastallat</t>
@@ -159248,121 +158730,16 @@ For the full license text, see the link above.</lic>
         <t pos="V">eastalit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">easttadit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">cakkadit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doaladit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">eastalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">easttadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">cakkastallat</t>
@@ -159428,21 +158805,11 @@ For the full license text, see the link above.</lic>
         <t pos="V">garcestit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">sitaista</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">čatnalit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">sitaista</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">čanastit</t>
@@ -159466,36 +158833,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">časkkihit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">sitaista</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garcestit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">sitaista</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">čatnalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">sitaista</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">čanastit</t>
       </tg>
     </mg>
   </e>
@@ -160148,21 +159485,11 @@ For the full license text, see the link above.</lic>
         <t pos="V">darvánaddat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">vavddadit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">roahkkasaddat</t>
@@ -160311,106 +159638,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doaladit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doaladit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">viivyttämäksi</l>
     </lg>
     <mg>
@@ -160426,56 +159653,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">doalahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doaladit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">doalahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pidätellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkastallat</t>
       </tg>
     </mg>
   </e>
@@ -160971,86 +160148,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">eastalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">easttadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">eastalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">easttadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">estellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">cakkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">ehdotella</l>
     </lg>
     <mg>
@@ -161151,46 +160248,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vanahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vanahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">njulggohallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">fanahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">pitkitellä</l>
     </lg>
     <mg>
@@ -161236,46 +160293,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">faskulit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">spierggadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">fieradit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkestallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">šleŋggodit</t>
       </tg>
     </mg>
   </e>
@@ -161448,31 +160465,16 @@ For the full license text, see the link above.</lic>
         <t pos="V">mohkkasaddat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">jorggáhallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">firrehallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">firrehaddat</t>
@@ -161536,46 +160538,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">firrehallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">mohkkasaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">jorggáhallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">firrehallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">firrehaddat</t>
       </tg>
     </mg>
   </e>
@@ -161731,46 +160693,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">gákkastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">botnjalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">väännähyttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bonjastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">kuvottaa</l>
     </lg>
     <mg>
@@ -161861,36 +160783,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">sitaista</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garcestit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">sitaista</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">čatnalit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">sitaista</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">čanastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">ansoa</l>
     </lg>
     <mg>
@@ -161926,113 +160818,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">garrodallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
         <t pos="V">garrudallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">garrudastit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sáddehallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrodallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrudallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrudastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sáddehallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrodallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrudallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrudastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">sáddehallat</t>
@@ -163541,46 +162334,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">mohkkasaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">jorggáhallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">firrehallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">firrehaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">pyörähdellä</l>
     </lg>
     <mg>
@@ -164251,46 +163004,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">mohkkasaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">jorggáhallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">firrehallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kääntyillä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">firrehaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">kääntyilytyttää</l>
     </lg>
     <mg>
@@ -164676,46 +163389,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">njulgehit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vanahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vanahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">njulggohallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">fanahallat</t>
       </tg>
     </mg>
   </e>
@@ -165281,56 +163954,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bisánaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">asuskella</l>
     </lg>
     <mg>
@@ -165361,56 +163984,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bisánaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">asuskella</l>
     </lg>
     <mg>
@@ -165432,106 +164005,6 @@ For the full license text, see the link above.</lic>
   <e>
     <lg>
       <l pos="V">asuskella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bisánaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bisánaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orustallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">orostaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">pysähdellä</l>
     </lg>
     <mg>
       <tg xml:lang="sme">
@@ -165891,36 +164364,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">darvánaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vavddadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">roahkkasaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">tuiskahtaa</l>
     </lg>
     <mg>
@@ -166052,46 +164495,6 @@ For the full license text, see the link above.</lic>
   <e>
     <lg>
       <l pos="V">lähetytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sáddehallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrodallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrudallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">garrudastit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kiroilla</l>
     </lg>
     <mg>
       <tg xml:lang="sme">
@@ -166461,36 +164864,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">syytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sivahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">syytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sivahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">syytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sujahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">siunailla</l>
     </lg>
     <mg>
@@ -166628,84 +165001,19 @@ For the full license text, see the link above.</lic>
         <t pos="V">spierggadit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">fieradit</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">bálkestallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">šleŋggodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">suhpodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkulit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">šleŋggohallat</t>
       </tg>
     </mg>
   </e>
@@ -166981,46 +165289,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">spierggadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">fieradit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkestallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">heittelehtiä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">šleŋggodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">pielestää</l>
     </lg>
     <mg>
@@ -167036,56 +165304,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">stávrádit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">suhpodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkastallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkkodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">bálkulit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">nakella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">šleŋggohallat</t>
       </tg>
     </mg>
   </e>
@@ -167116,36 +165334,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">suibbodit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">syytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sivahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">syytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sivahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">syytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">sujahaddat</t>
       </tg>
     </mg>
   </e>
@@ -167358,71 +165546,16 @@ For the full license text, see the link above.</lic>
         <t pos="V">vanahaddat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">vanahallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">njulggohallat</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">fanahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vanahaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vanahallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">njulggohallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">venytellä</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">fanahallat</t>
@@ -167476,36 +165609,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="V">vástádallat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">darvánaddat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">vavddadit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tartuskella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="V">roahkkasaddat</t>
       </tg>
     </mg>
   </e>
