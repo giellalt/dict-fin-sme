@@ -748,11 +748,6 @@ For the full license text, see the link above.</lic>
             <t pos="A" freq="9">goavis</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">ankara</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" freq="0">stroaŋggis</t>
@@ -1252,16 +1247,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" freq="47">ovddolaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">edustava</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="2862">ovddasteaddji</t>
          </tg>
       </mg>
    </e>
@@ -22650,18 +22635,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>vähän</re>
-            <t pos="Adv" freq="0">máddelažžii</t>
+            <t pos="Adv" freq="10">máddelii</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">etelämmäs</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" freq="10">máddelii</t>
+            <re>vähän</re>
+            <t pos="Adv" freq="0">máddelažžii</t>
          </tg>
       </mg>
    </e>
@@ -22677,11 +22657,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" freq="0">máddil</t>
+            <t pos="Adv" freq="0">lullil</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" freq="0">lullil</t>
+            <re>vähän</re>
+            <t pos="Adv" freq="0">máddelačča</t>
+            <t pos="Adv" freq="0">lullelačča</t>
          </tg>
       </mg>
    </e>
@@ -26402,6 +26385,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="Adv" freq="0">dasa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>lähelle puhuteltavaa</re>
             <t pos="Adv" freq="0">diesa</t>
          </tg>
@@ -26425,16 +26413,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sme">
             <re>lähelle puhuteltavaa</re>
             <t pos="Adv" freq="0">diesánaga</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">siihen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" freq="0">dasa</t>
          </tg>
       </mg>
    </e>
@@ -28000,16 +27978,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">vasta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" freq="1188">easkka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">vastaan</l>
       </lg>
       <mg>
@@ -28251,27 +28219,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" freq="1001">gieskat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">vähän etelämpää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>ohi</re>
-            <t pos="Adv" freq="0">máddelačča</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">vähän etelämpää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" freq="0">lullelačča</t>
          </tg>
       </mg>
    </e>
@@ -72063,16 +72010,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">raaka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="161">fádda</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">raamattu</l>
       </lg>
       <mg>
@@ -74740,17 +74677,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>n kieli</re>
+            <re>kieli</re>
             <t pos="N" freq="567">ruoŧŧa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ruotsi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="247">ruoŧagiella</t>
          </tg>
       </mg>
@@ -144408,16 +144336,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">ruuhi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">rufe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">ryppy</l>
     </lg>
     <mg>
@@ -144623,16 +144541,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">beassansátni</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">sammas</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">sámpá</t>
       </tg>
     </mg>
   </e>
@@ -146956,26 +146864,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">suojelus</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">suddjen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">suojelus</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">gáhtten</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">yläjuoksu</l>
     </lg>
     <mg>
@@ -147261,23 +147149,9 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">rekrutteren</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
         <t pos="N">rekruteren</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">háhkan</t>
@@ -155076,66 +154950,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">rekrutteren</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">rekruteren</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">háhkan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">rekrutteren</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">rekruteren</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rekrytointi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">háhkan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">reportaasi</l>
     </lg>
     <mg>
@@ -156173,31 +155987,6 @@ For the full license text, see the link above.</lic>
         <t pos="N">suddjen</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">suojelus</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">gáhtten</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">suojelus</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">suddjen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">suojelus</l>
-    </lg>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">gáhtten</t>
