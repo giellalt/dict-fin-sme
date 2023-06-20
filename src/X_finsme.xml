@@ -30091,16 +30091,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">1. vuoden ikäinen naarasporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="63">vuonjal</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">10 km</l>
       </lg>
       <mg>
@@ -31446,21 +31436,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="587">fievru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ajoporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="2349">heargi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="517">vuoján</t>
          </tg>
       </mg>
    </e>
@@ -35592,16 +35567,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">eväsporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="43">niesteboazu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" nr="Pl">eväät</l>
       </lg>
       <mg>
@@ -38948,16 +38913,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="3677">buorri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hyvin levännyt ja kuntoutunut vetoporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">rávnnut</t>
          </tg>
       </mg>
    </e>
@@ -42732,16 +42687,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kahdeksanvuotias tai sitä vanhempi urosporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="4">nammaláhpat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kahdeksikko</l>
       </lg>
       <mg>
@@ -43070,16 +43015,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="390">gáhkku</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kaksi vuotta vanha urosporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="105">varit</t>
          </tg>
       </mg>
    </e>
@@ -46964,17 +46899,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="0">gollebahta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kiiltäväkarvainen poro</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>erit. vaadin</re>
-            <t pos="N" freq="0">šelge</t>
          </tg>
       </mg>
    </e>
@@ -51368,16 +51292,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kusikas poro</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">guččár</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kustannus</l>
       </lg>
       <mg>
@@ -55004,16 +54918,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">liekaporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">veattat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">liekovarpio</l>
       </lg>
       <mg>
@@ -57173,17 +57077,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="76">jalvi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">lyhytkarvainen poro</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>alkusyksystä</re>
-            <t pos="N" freq="0">šnjilža</t>
          </tg>
       </mg>
    </e>
@@ -68652,6 +68545,151 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="13730">boazu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ajoporo</re>
+            <t pos="N" freq="2349">heargi</t>
+            <t pos="N" freq="517">vuoján</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>hirvas</re>
+            <t pos="N" freq="334">sarvvis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>vaadin</re>
+            <t pos="N" freq="402">áldu</t>
+            <t pos="N" freq="0">váža</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>villiporo</re>
+            <t pos="N" freq="482">goddi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>villihirvas</re>
+            <t pos="N" freq="0">goddesarvvis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kaksi vuotta vanha urosporo</re>
+            <t pos="N" freq="105">varit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>1. vuoden ikäinen naarasporo</re>
+            <t pos="N" freq="63">vuonjal</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>eväsporo</re>
+            <t pos="N" freq="43">niesteboazu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>valkoinen poro</re>
+            <t pos="N" freq="37">gabba</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>mustikki</re>
+            <t pos="N" freq="121">muzet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kahdeksanvuotias tai sitä vanhempi urosporo</re>
+            <t pos="N" freq="4">nammaláhpat</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>kellokas</re>
+            <t pos="N" freq="0">skilan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>hyvin levännyt ja kuntoutunut vetoporo</re>
+            <t pos="N" freq="0">rávnnut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lyhytkarvainen poro</re>
+            <t pos="N" freq="0">šnjilža</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>liekaporo</re>
+            <t pos="N" freq="0">veattat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kusikas poro</re>
+            <t pos="N" freq="0">guččár</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kiiltäväkarvainen poro, erit. vaadin</re>
+            <t pos="N" freq="0">šelge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">villiporo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="482">goddi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ajoporo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="2349">heargi</t>
+            <t pos="N" freq="517">vuoján</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">eväsporo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="43">niesteboazu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">liekaporo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">veattat</t>
          </tg>
       </mg>
    </e>
@@ -88193,16 +88231,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">valkoinen poro</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="37">gabba</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">valkoposkihanhi</l>
       </lg>
       <mg>
@@ -91055,16 +91083,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="11">vildu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">villiporo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="482">goddi</t>
          </tg>
       </mg>
    </e>
@@ -143755,16 +143773,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">loađđa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">porovaadin</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">váža</t>
       </tg>
     </mg>
   </e>
