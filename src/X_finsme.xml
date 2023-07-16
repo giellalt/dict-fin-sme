@@ -3019,7 +3019,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <!-- <e>
       <lg>
          <l pos="A">hienojakoinen</l>
       </lg>
@@ -3028,7 +3028,7 @@ For the full license text, see the link above.</lic>
             <t pos="A" freq="99"/>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e>
       <lg>
          <l pos="A">hihaton</l>
@@ -51821,7 +51821,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <!-- <e>
       <lg>
          <l pos="N">käsikirjoittaja</l>
       </lg>
@@ -51830,7 +51830,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" freq="99"/>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e>
       <lg>
          <l pos="N">käsikirjoitus</l>
@@ -54957,7 +54957,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <!-- <e>
       <lg>
          <l pos="N">liittovaltio</l>
       </lg>
@@ -54966,7 +54966,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" freq="99"/>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e>
       <lg>
          <l pos="N">liittymä</l>
@@ -93943,7 +93943,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <!-- <e>
       <lg>
          <l pos="Po">käsissä</l>
       </lg>
@@ -93952,7 +93952,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po" freq="99"/>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e>
       <lg>
          <l pos="Po">laitaan</l>
@@ -109758,7 +109758,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <!-- <e>
       <lg>
          <l pos="V">käsikirjoittaa</l>
       </lg>
@@ -109767,7 +109767,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" freq="99"/>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e>
       <lg>
          <l pos="V">käsitellä</l>
