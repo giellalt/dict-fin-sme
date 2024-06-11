@@ -75625,7 +75625,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
            <t pos="N" freq="105">nuorri</t>
-	   <t pos="N">čoalbmi</t>
+      <t pos="N">čoalbmi</t>
          </tg>
       </mg>
    </e>
@@ -121754,10 +121754,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
            <t pos="V" freq="8894">doallat</t>
-	   <xg>
-	     <x>Äiti pitää lasta sylissä</x>
-	     <xt>Eadni doallá máná askkis.</xt>
-	   </xg>
+      <xg>
+        <x>Äiti pitää lasta sylissä</x>
+        <xt>Eadni doallá máná askkis.</xt>
+      </xg>
          </tg>
       </mg>
       <mg>
