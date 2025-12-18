@@ -93028,6 +93028,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="Num" freq="0">gávccilogi</t>
             <t pos="Num" freq="0">gákcilogi</t>
          </tg>
       </mg>
@@ -93044,11 +93045,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">kaksikymmentä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="20455">guoktelogi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">kolme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Num" freq="11842">golbma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmekymmentä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="11842">golbmalogi</t>
          </tg>
       </mg>
    </e>
@@ -93069,6 +93090,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="Num" freq="2787">guhtta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuusikymmentä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="2787">guhttalogi</t>
          </tg>
       </mg>
    </e>
@@ -93154,11 +93185,111 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">neljäkymmentä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="5622">njealljelogi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">puolitoista</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Num" freq="557">beannot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yksitoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">oktanuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kaksitoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">guoktenuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kolmetoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">golbmanuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">neljätoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">njealljenuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">viisitoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">vihttanuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kuusitoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">guhttanuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seitsemäntoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">čiežanuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">kahdeksantoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">gávccinuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yhdeksäntoista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="557">ovccinuppelohkái</t>
          </tg>
       </mg>
    </e>
@@ -93193,7 +93324,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Num" freq="0">čiehččalogi</t>
+            <t pos="Num" freq="0">čiežalogi</t>
          </tg>
       </mg>
    </e>
@@ -93229,11 +93360,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">viisikymmentä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="4527">vihttalogi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">yhdeksän</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Num" freq="1013">ovcci</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">yhdeksänkymmentä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num" freq="1013">ovccilogi</t>
          </tg>
       </mg>
    </e>
