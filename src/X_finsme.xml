@@ -4403,16 +4403,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">jatkuvasti nälkäinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="0">nelggoš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">jauhoinen</l>
       </lg>
       <mg>
@@ -11799,11 +11789,29 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" freq="9">nealggas</t>
+            <t pos="A" freq="0">nealgái</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" freq="0">nealgái</t>
+            <re>jatkuvasti nälkäinen</re>
+            <t pos="A" freq="0">nelggoš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>aina nälkäinen olio</re>
+            <t pos="N" freq="0">nealggár</t>
+         </tg>
+      </mg>
+   </e>
+       <e>
+      <lg>
+         <l pos="V">tulla hyvin nälkäiseksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" freq="253">nealgut</t>
          </tg>
       </mg>
    </e>
@@ -30833,16 +30841,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="0">rávisolmmoš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">aina nälkäinen olio</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">nealggár</t>
          </tg>
       </mg>
    </e>
@@ -62414,6 +62412,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="334">nealgi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nähdä nälkää</re>
+            <t pos="V" freq="253">nealgut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa tuntea nälkää</re>
+            <t pos="V" freq="0">nealggostuvvat</t>
          </tg>
       </mg>
    </e>
@@ -96493,26 +96503,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa laskeutua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="17">njiedjalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa laulaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="8">lávlet</t>
-         </tg>
-      </mg>
-   </e>
    <!-- <e>
       <lg>
          <l pos="V">alkaa olla</l>
@@ -96523,26 +96513,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> -->
-   <e>
-      <lg>
-         <l pos="V">alkaa onkia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="24">oakkastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa palella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">goallát</t>
-         </tg>
-      </mg>
-   </e>
+
    <e>
       <lg>
          <l pos="V">alkaa saada kesäpukunsa riekosta alkukeväällä</l>
@@ -96553,51 +96524,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa sataa hienoa lunta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">earbmálahttit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa sataa lunta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="62">muohttát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa sataa räntää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="6">šlahttát</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">šlahtádit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa sataa vettä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="12">arvát</t>
-         </tg>
-      </mg>
-   </e>
+
    <e>
       <lg>
          <l pos="V">alkaa sojottaa</l>
@@ -96621,16 +96548,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">alkaa tarjeta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">bivvát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">alkaa tuiskuttamaan tie tms. umpeen</l>
       </lg>
       <mg>
@@ -96639,16 +96556,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="V">alkaa tuntea nälkää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">nealggostuvvat</t>
-         </tg>
-      </mg>
-   </e>
+
    <e>
       <lg>
          <l pos="V">alkaa tuulla heikosti</l>
@@ -111070,58 +110978,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">laskeutua lennosta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="257">seaivut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">laskeutua makuulle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>useista sorkkaeläimistä</re>
-            <t pos="V" freq="0">livodit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">laskeutua nopeasti mahalleen tai polvilleen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>eläin, ihminen</re>
-            <t pos="V" freq="0">luovdilit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">laskeutua nopeasti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="17">njiedjalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">laskeutua rinnettä tms.</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="1895">njiedjat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">laskeutua</l>
       </lg>
       <mg>
@@ -111132,6 +110988,42 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" freq="0">luoitalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa laskeutua</re>
+            <t pos="V" freq="17">njiedjalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lennosta</re>
+            <t pos="V" freq="257">seaivut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>makuulle, useista sorkkaeläimistä</re>
+            <t pos="V" freq="0">livodit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nopeasti mahalleen tai polvilleen (eläin, ihminen)</re>
+            <t pos="V" freq="0">luovdilit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nopeasti</re>
+            <t pos="V" freq="17">njiedjalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>rinnettä tms.</re>
+            <t pos="V" freq="1895">njiedjat</t>
          </tg>
       </mg>
    </e>
@@ -111252,31 +111144,29 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">laulaa hieman</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="113">lávlestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">laulaa vähän</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="8">lávlet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">laulaa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" freq="2905">lávlut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa laulaa</re>
+            <t pos="V" freq="8">lávlet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>hieman</re>
+            <t pos="V" freq="113">lávlestit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>vähän</re>
+            <t pos="V" freq="8">lávlet</t>
          </tg>
       </mg>
    </e>
@@ -117487,16 +117377,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">nähdä nälkää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="253">nealgut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">nähdä painajaisia</l>
       </lg>
       <mg>
@@ -118692,21 +118572,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">onkia vähän</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="4">oakkostit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">onkia</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" freq="1128">oaggut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa onkia</re>
+            <t pos="V" freq="24">oakkastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>vähän</re>
+            <t pos="V" freq="4">oakkostit</t>
          </tg>
       </mg>
    </e>
@@ -119663,6 +119545,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" freq="73">goallut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa palella</re>
+            <t pos="V" freq="0">goallát</t>
          </tg>
       </mg>
    </e>
@@ -127395,116 +127283,87 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">sataa hienoa lunta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">earbmut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa kerralla kovasti vettä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">arvilit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa lunta ohuelti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">áinnádastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa lunta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="88">muohttit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa ohuelti lunta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">áidnet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa rakeita</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="3">čuorpmastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa räntää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="5">šlahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">šlahttádit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa vettä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="192">arvit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa vähän</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="10">arvvestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sataa äkkiä runsaasti vettä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="0">arvvistit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">sataa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>vettä</re>
             <t pos="V" freq="192">arvit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lunta</re>
+            <t pos="V" freq="88">muohttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>räntää</re>
+            <t pos="V" freq="5">šlahttit</t>
+            <t pos="V" freq="0">šlahttádit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>rakeita</re>
+            <t pos="V" freq="3">čuorpmastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>hienoa lunta</re>
+            <t pos="V" freq="0">earbmut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>vähän</re>
+            <t pos="V" freq="10">arvvestit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kerralla kovasti vettä</re>
+            <t pos="V" freq="0">arvilit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>äkkiä runsaasti vettä</re>
+            <t pos="V" freq="0">arvvistit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lunta ohuelti</re>
+            <t pos="V" freq="0">áinnádastit</t>
+            <t pos="V" freq="0">áidnet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa sataa vettä</re>
+            <t pos="V" freq="12">arvát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa sataa lunta</re>
+            <t pos="V" freq="62">muohttát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa sataa räntää</re>
+            <t pos="V" freq="6">šlahttát</t>
+            <t pos="V" freq="0">šlahtádit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa sataa hienoa lunta</re>
+            <t pos="V" freq="0">earbmálahttit</t>
          </tg>
       </mg>
    </e>
@@ -131282,6 +131141,12 @@ For the full license text, see the link above.</lic>
             <t pos="V" freq="0">girtat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>alkaa tarjeta</re>
+            <t pos="V" freq="0">bivvát</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -133216,16 +133081,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" freq="0">heitot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tulla hyvin nälkäiseksi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="253">nealgut</t>
          </tg>
       </mg>
    </e>
