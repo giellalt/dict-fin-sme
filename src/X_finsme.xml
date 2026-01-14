@@ -160170,4 +160170,700 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <l pos="Num">yksitoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">oktanuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksitoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktenuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmetoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmanuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljätoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljenuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisitoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttanuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusitoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttanuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemäntoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežanuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksantoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccinuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksäntoista</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccinuppelohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentä</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">guokteloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kaksikymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">guoktelogiovcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentä</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmaloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kolmekymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">golbmalogiovcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentä</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljeloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">neljäkymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">njealljelogiovcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentä</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttaloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">viisikymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">vihttalogiovcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentä</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttaloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kuusikymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">guhttalogiovcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežaloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">seitsemänkymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">čiežalogiovcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávcciloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">kahdeksankymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">gávccilogiovcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentä</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäyksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogiokta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäkaksi</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogiguokte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäkolme</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogigolbma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäneljä</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovcciloginjeallje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäviisi</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogivihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäkuusi</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogiguhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäseitsemän</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogičieža</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäkahdeksan</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogigávcci</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Num">yhdeksänkymmentäyhdeksän</l>
+    <mg>
+      <tg>
+        <t pos="Num">ovccilogiovcci</t>
+      </tg>
+    </mg>
+  </e>
 </r>
