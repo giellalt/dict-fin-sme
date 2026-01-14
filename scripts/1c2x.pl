@@ -10,20 +10,21 @@ print STDOUT "<r>\n";
 while (<>) 
 {
 	chomp ;
-	my ($lemma, $POS, $trans, $trans2) = split /	/ ;
+	#	my ($lemma, $POS, $trans, $trans2) = split /	/ ;
+	my ($lemma, $POS, $trans) = split /	/ ;
 	my @lemma = split /	/, $lemma ;
 	my @POS = split /	/, $POS ;
 	my @trans = split /	/, $trans ;
-	my @trans2 = split /	/, $trans2 ;
+#	my @trans2 = split /	/, $trans2 ;
 	print STDOUT "  <e>\n";
 	print STDOUT "    <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "    <mg>\n";
 	print STDOUT "      <tg>\n";
 	print STDOUT "        <t pos=\"$POS\">$trans</t>\n";
 	print STDOUT "      </tg>\n";
-	print STDOUT "      <tg>\n";
-	print STDOUT "        <t pos=\"$POS\">$trans2</t>\n";
-	print STDOUT "      </tg>\n";
+#	print STDOUT "      <tg>\n";
+#	print STDOUT "        <t pos=\"$POS\">$trans2</t>\n";
+#	print STDOUT "      </tg>\n";
 	print STDOUT "    </mg>\n";
 	print STDOUT "  </e>\n";
 }
