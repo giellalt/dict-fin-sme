@@ -3,7 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
@@ -160171,697 +160171,871 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Num">yksitoista</l>
+    <lg>
+      <l pos="Num">yksitoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">oktanuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksitoista</l>
+    <lg>
+      <l pos="Num">kaksitoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktenuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmetoista</l>
+    <lg>
+      <l pos="Num">kolmetoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmanuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljätoista</l>
+    <lg>
+      <l pos="Num">neljätoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljenuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisitoista</l>
+    <lg>
+      <l pos="Num">viisitoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttanuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusitoista</l>
+    <lg>
+      <l pos="Num">kuusitoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttanuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemäntoista</l>
+    <lg>
+      <l pos="Num">seitsemäntoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežanuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksantoista</l>
+    <lg>
+      <l pos="Num">kahdeksantoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccinuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksäntoista</l>
+    <lg>
+      <l pos="Num">yhdeksäntoista</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccinuppelohkái</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentä</l>
+    <lg>
+      <l pos="Num">kaksikymmentä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogi</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäyksi</l>
+    <lg>
+      <l pos="Num">kaksikymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäkaksi</l>
+    <lg>
+      <l pos="Num">kaksikymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäkolme</l>
+    <lg>
+      <l pos="Num">kaksikymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäneljä</l>
+    <lg>
+      <l pos="Num">kaksikymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guokteloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäviisi</l>
+    <lg>
+      <l pos="Num">kaksikymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäkuusi</l>
+    <lg>
+      <l pos="Num">kaksikymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">kaksikymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">kaksikymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kaksikymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">kaksikymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guoktelogiovcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentä</l>
+    <lg>
+      <l pos="Num">kolmekymmentä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogi</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäyksi</l>
+    <lg>
+      <l pos="Num">kolmekymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäkaksi</l>
+    <lg>
+      <l pos="Num">kolmekymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäkolme</l>
+    <lg>
+      <l pos="Num">kolmekymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäneljä</l>
+    <lg>
+      <l pos="Num">kolmekymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmaloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäviisi</l>
+    <lg>
+      <l pos="Num">kolmekymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäkuusi</l>
+    <lg>
+      <l pos="Num">kolmekymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">kolmekymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">kolmekymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kolmekymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">kolmekymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">golbmalogiovcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentä</l>
+    <lg>
+      <l pos="Num">neljäkymmentä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogi</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäyksi</l>
+    <lg>
+      <l pos="Num">neljäkymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäkaksi</l>
+    <lg>
+      <l pos="Num">neljäkymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäkolme</l>
+    <lg>
+      <l pos="Num">neljäkymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäneljä</l>
+    <lg>
+      <l pos="Num">neljäkymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljeloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäviisi</l>
+    <lg>
+      <l pos="Num">neljäkymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäkuusi</l>
+    <lg>
+      <l pos="Num">neljäkymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">neljäkymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">neljäkymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">neljäkymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">neljäkymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">njealljelogiovcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentä</l>
+    <lg>
+      <l pos="Num">viisikymmentä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogi</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäyksi</l>
+    <lg>
+      <l pos="Num">viisikymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäkaksi</l>
+    <lg>
+      <l pos="Num">viisikymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäkolme</l>
+    <lg>
+      <l pos="Num">viisikymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäneljä</l>
+    <lg>
+      <l pos="Num">viisikymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttaloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäviisi</l>
+    <lg>
+      <l pos="Num">viisikymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäkuusi</l>
+    <lg>
+      <l pos="Num">viisikymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">viisikymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">viisikymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">viisikymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">viisikymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">vihttalogiovcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentä</l>
+    <lg>
+      <l pos="Num">kuusikymmentä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogi</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäyksi</l>
+    <lg>
+      <l pos="Num">kuusikymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäkaksi</l>
+    <lg>
+      <l pos="Num">kuusikymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäkolme</l>
+    <lg>
+      <l pos="Num">kuusikymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäneljä</l>
+    <lg>
+      <l pos="Num">kuusikymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttaloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäviisi</l>
+    <lg>
+      <l pos="Num">kuusikymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäkuusi</l>
+    <lg>
+      <l pos="Num">kuusikymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">kuusikymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">kuusikymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kuusikymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">kuusikymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">guhttalogiovcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäyksi</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäkaksi</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäkolme</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäneljä</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežaloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäviisi</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäkuusi</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">seitsemänkymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">seitsemänkymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">čiežalogiovcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäyksi</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäkaksi</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäkolme</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäneljä</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávcciloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäviisi</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäkuusi</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">kahdeksankymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">kahdeksankymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">gávccilogiovcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentä</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogi</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäyksi</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäyksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogiokta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäkaksi</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäkaksi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogiguokte</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäkolme</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäkolme</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogigolbma</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäneljä</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäneljä</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovcciloginjeallje</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäviisi</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäviisi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogivihtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäkuusi</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäkuusi</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogiguhtta</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäseitsemän</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäseitsemän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogičieža</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäkahdeksan</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäkahdeksan</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogigávcci</t>
       </tg>
     </mg>
   </e>
   <e>
-    <l pos="Num">yhdeksänkymmentäyhdeksän</l>
+    <lg>
+      <l pos="Num">yhdeksänkymmentäyhdeksän</l>
+  </lg>
     <mg>
-      <tg>
+      <tg xml:lang="sme">
         <t pos="Num">ovccilogiovcci</t>
       </tg>
     </mg>
