@@ -131458,7 +131458,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">tavata</l>
+         <l pos="V" hid="Hom1">tavata</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -131475,6 +131475,11 @@ For the full license text, see the link above.</lic>
             <t pos="V" freq="133">oaidnalit</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V" hid="Hom2">tavata</l>
+      </lg>
       <mg>
          <tg xml:lang="sme">
             <re>kirjoitusta</re>
