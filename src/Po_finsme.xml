@@ -1,0 +1,1576 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+
+   <e>
+      <lg>
+         <l pos="Po">alapuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="288">vulobealde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="37">vuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="37">vuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2387">vuolde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1124">vuollel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2117">vuollái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2387">vuolde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">asti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="5777">rádjái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">edeltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="315">ovddal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">edessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="10969">ovddas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">edestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="10969">ovddas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">editse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="64">ovddabeale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ehdolla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="20594">ektui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">eteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2194">ovdii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">haltuun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">háldui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ilman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4945">haga</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">hahttá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">irti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="285">luovus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">jkun suhteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="7940">dáfus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">johdosta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="7977">geažil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">johonkin saakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3301">rádjai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">jonkun suhteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="5188">hárrái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">jssak suhteessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="7940">dáfus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">jstak asiasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="46906">birra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">jtak koskien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="46906">birra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">jälkeen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="5082">maŋŋel</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2533">maŋŋá</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">maŋŋil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kautta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="17535">bokte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="666">bakte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">bokti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">keskelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="702">guovdu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">keskellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="702">guovdu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">keskeltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="702">guovdu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kesken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4304">gaskka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">keskuudessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="8421">gaskkas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2677">siste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kohden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="190">vuollai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kohti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="702">guovdu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">koskien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="2858">guoskevaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kotiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="130">geahčai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kotoa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="769">geahčen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kotona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="769">geahčen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kuluttua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="172">geažes</t>
+         </tg>
+      </mg>
+   </e> <e>
+      <lg>
+         <l pos="Po">käsissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="99"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">laitaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="121">gurrii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">liki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="912">lahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lisäksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">lassin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3630">lusa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="130">geahčai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luokse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3630">lusa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="130">geahčai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2519">luhtte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="769">geahčen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">luhtti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2519">luhtte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="769">geahčen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">luhtti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lähellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="912">lahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lähtien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="16743">rájes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lähtöisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="14604">eret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">läpi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2286">čađa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lävitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2286">čađa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">mennessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="5777">rádjái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">mielestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="15517">mielas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">muassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="34557">mielde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1362">fárus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">mukaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="34557">mielde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3165">olis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">mukana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="34557">mielde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1362">fárus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">myötä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="34557">mielde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">nähden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="57">oaidnut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">näkyville</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1323">oidnosii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">näkyvistä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="512">oidnosis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">oheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4130">oktii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ohella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="7939">ovttas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ohessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="34557">mielde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ohitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="141">meaddel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">paitsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pr" freq="4740">earret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">perusteella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="14888">vuođul</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">peräisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="14604">eret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">perässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="802">maŋis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">perästä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="802">maŋis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">perään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="182">maŋŋái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">pitkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4305">miehtá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">poikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1127">rastá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">puolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3299">bealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">bealde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">puolelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="81">beallai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">puolelta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3299">bealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">bealde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">puolesta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1190">beale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">puoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="444">beal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">päin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1900">guvlui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">päälle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4713">ala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">päällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4146">alde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="358">badjelis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">päältä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4146">alde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">aldi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">päässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">geahčen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">rinnalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="366">bálddas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">rinnalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="149">báldii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">rinnalta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="366">bálddas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">saakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3301">rádjai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">saatavilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="0">oažžun sajis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">saataville</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="0">oažžun sadjái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">seassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2677">siste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="13">seahká</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">seasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2677">siste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="13">seahká</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sijaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2331">sadjái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sijalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1035">sajis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sijassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1035">sajis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sisälle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2112">sisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sisällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2677">siste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="229">sisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sisältä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2677">siste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sisäpuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3183">siskkobealde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sisässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2677">siste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sisään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2112">sisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sivuitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="73">guora</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">suhteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="1900">guvlui</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">gorrái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">taakse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="313">duohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">taitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="19">maŋábeale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">takaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2508">duohken</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">takana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2508">duohken</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="350">maŋábealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">maŋábealde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">takia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="11654">dihte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="8593">várás</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">tasalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">dásis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">tykönä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2519">luhtte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">tähden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="11654">dihte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ulkopuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="3332">olggobealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="11">olggobealde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="388">váile</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="8593">várás</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">váráš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varalta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="78">vári</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="94">veagas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">várte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vastaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="7017">vuostá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vastassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="315">ovddal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vasten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="348">njeaiga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vastoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="7017">vuostá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">viereen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="149">báldii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vieressä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="366">bálddas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vierestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="366">bálddas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vuoksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="7977">geažil</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4548">dihte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">väliin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="784">gaskii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">välissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="8421">gaskkas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">välistä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="8421">gaskkas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">välitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="5184">gaskal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">yli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="4557">badjel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ylle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="2415">badjelii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">yllä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="358">badjelis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">yltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="55">bajil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">yläpuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="843">bajábealde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ympärille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="46906">birra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ympärillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="46906">birra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ympäriltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="46906">birra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ääreen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="121">gurrii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">äärellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="260">guoras</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ääreltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="260">guoras</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ääressä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="260">guoras</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">äärestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="260">guoras</t>
+         </tg>
+      </mg>
+   </e>
+</r>

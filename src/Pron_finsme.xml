@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+
+   <e>
+      <lg>
+         <l pos="Pron">eri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="62129">eará</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">he</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">sii</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">soai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="289043">dat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="219760">son</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hänen oma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">iežas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">itse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="72991">ieš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">itsekukin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">iešguđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="14437">juohke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="9384">guhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jokainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="14437">juohke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="7171">iešguhtet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="2016">juohkehaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="1593">guhtege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jokin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="5283">juoga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="14184">muhtun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jompikumpi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="21">juobbá</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">juobbágoabbá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jotakin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="5283">juoga</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">juoidá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">juurikaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="1561">olus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kaikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="31425">buot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="12840">buohkat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kuka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="79132">gii</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="9384">guhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kukaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="672">giige</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kukin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="672">giige</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="190">guhtet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kumpi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="664">goabbá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kumpikin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="919">goabbáge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="617">goabbat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">lähellä puhuttavaase</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="8291">diet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">me kaksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">moai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">me</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="254138">mii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mikin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">miijai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="254138">mii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mikään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">mihkkige</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">millainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="11750">makkár</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="64">makkáraš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">minkälainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="11750">makkár</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="64">makkáraš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">minä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="161710">mun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mitään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="9542">mihkkege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">maidege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">molemmat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="1555">goappašat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="883">guktot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="553">goappaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">monet ihmiset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">ollugat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">muu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="62129">eará</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">muut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="686">iežá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">muuta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="62129">eará</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">muutama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="11528">muhtin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="2398">soames</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">paljonkaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="1561">olus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">seamma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">samoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="16911">seammá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">se</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="289043">dat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sellainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="16317">dakkár</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="407">dakkáraš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="43379">don</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">te kaksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="0">doai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">te</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="4978">dii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tuo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="1225">duot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="606">dot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tuollainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="4">duokkáraš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tällainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="12496">dákkár</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tämä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="175603">dát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">useampi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="14816">eanet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">useat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="1016">moanat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">vähän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="6">váháš</t>
+         </tg>
+      </mg>
+   </e>
+</r>
