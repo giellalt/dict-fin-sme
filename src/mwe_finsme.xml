@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+
+   <e>
+      <lg>
+         <l pos="mwe">alaspäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">vulos guvlui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">antaisitko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">attášitgo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">eikö niin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">amma nu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ensin nyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">vuos dál</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">entisiin verrattuna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">ovddežiid ektui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">eräällä tavalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">ovtta láhkai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">eräänä iltana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">ovtta eahket</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">halki aikojen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">čađa áiggiid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ihmisiksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">olbmo láhkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">itse asiassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">iešalddes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">itsensä laskeneen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">iežas čierastan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">joka paikassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">juohke báikkis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">jokaikinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">juohke okta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">jokainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">juohke okta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">jooko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">amma nu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">kahta puolta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">guovtte beale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">kaukana siitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">guhkkin eret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">kautta aikojen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">čađa áiggiid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">kokonaiskuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">oppalaš govva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">kunnolla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">olbmo láhkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">lähes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">goaseai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">läpi aikojen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">čađa áiggiid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">mihinkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">gosabat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">mikä muu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">mii eará</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">millä lailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">man láhkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">minnekä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">gosabat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">mitä muuta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">mii eará</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">monenko aikaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">galle áigge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">muun muassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">earret eará</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">muutakin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">earáge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">niin sanottu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">nu gohčoduvvon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">niinkään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">nuge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">odotahan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">vuorddemat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">odotapas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">vuorddemat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">vuorddesmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ole hyvä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">leage buorre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">olla huolissaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">leat fuolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">olla iloinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">leat ilus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">olla näkyvissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">leat oidnosis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">onneksi olkoon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">lihkku lehkos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ottaa osaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">váldit oasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">paljon kiitoksia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">ollu giitu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">paljonko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">ollugo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">pitää ikävänä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">atnit váivin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">samoissa paikoissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">ovttain báikkiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">sen enempää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">duođe eambbo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">seuraavana vuonna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">nuppe jagi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">siinä missä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dakko gokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">siitä mistä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dakko gokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">siitä syystä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dan sivas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">siksi että</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">danin go</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">siksi koska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">danin go</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">silloin tällöin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">duollet dálle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">silloinhan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dallehan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">silloinkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dallege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dallenai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">sillä aikaa kun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dan botta go</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">sillä erää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dan vuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">sillä kertaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dan vuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">sillä tavalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">dieinna lágiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">tavalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">man láhkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">tervetuloa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">bures boahtin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">todellakaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">duođaige</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">toisinpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">nuppe beliid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">tosiaankaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">duođaige</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">tämän päivän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">otná beaivve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">tänä päivänä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">otná beaivve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">täyttä vauhtia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">olles fártta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">yli rajojen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="mwe" freq="0">badjel rájáid</t>
+         </tg>
+      </mg>
+   </e>
+</r>
