@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+
+   <e>
+      <lg>
+         <l pos="Pcle">-han</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="736">aitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-hän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="736">aitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-pa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="736">aitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-pä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="736">aitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ainakin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="4132">goit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="628">goittotge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">anteeksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="802">ándagassii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ehkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="45">gánske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">entä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="10">nas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">jokseenkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="3">joksege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">juo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="194">ammal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">juuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="2019">aiddo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kuitenkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="5396">dattetge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="4132">goit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="855">almmatge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="628">goittotge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kuten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CS" freq="7790">dego</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kyllä kai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="194">ammal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kylläkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="11">mái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">melko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="3463">oba</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="1210">mihá</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="764">mealgat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">myös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="1615">nai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">niinpä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="0">nuba</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nimeltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="23">nammejahkii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nimenomaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="23">nammejahkii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">no</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="2381">na</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="337">no</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">sujut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="0">guita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">suoraan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kääntymättä tai pysähtymättä</re>
+            <t pos="Adv" freq="1216">njulgestaga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">suorastaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="1216">njulgestaga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">taas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="1958">on</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">tosiaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" freq="0">mis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">tuskin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="194">vátni</t>
+         </tg>
+      </mg>
+   </e>
+</r>
