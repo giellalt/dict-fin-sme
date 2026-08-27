@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
     <e>
       <lg>
-         <l pos="mwe">10 km</l>
+         <l pos="N">10 km</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40,7 +40,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">Jumalan lahja</l>
+         <l pos="N">Jumalan lahja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50,7 +50,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">Norjan kansalainen</l>
+         <l pos="N">Norjan kansalainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -60,7 +60,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">Suomen puoli</l>
+         <l pos="N">Suomen puoli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -70,7 +70,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">Tenoon nouseva kampela</l>
+         <l pos="N">Tenoon nouseva kampela</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -80,7 +80,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">Väinämöisen vyö</l>
+         <l pos="N">Väinämöisen vyö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -90,7 +90,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ahkera ja taitava oksien pilkkoja</l>
+         <l pos="N">ahkera ja taitava oksien pilkkoja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -100,7 +100,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ahkion kaari</l>
+         <l pos="N">ahkion kaari</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -110,7 +110,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ahkion kolmanneksi ylin liiste</l>
+         <l pos="N">ahkion kolmanneksi ylin liiste</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -120,7 +120,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ahkion liiste</l>
+         <l pos="N">ahkion liiste</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -130,7 +130,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ahkion tai komsion laidassa oleva raksi</l>
+         <l pos="N">ahkion tai komsion laidassa oleva raksi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -140,7 +140,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ahkionkaaren paininpuu</l>
+         <l pos="N">ahkionkaaren paininpuu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -150,7 +150,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">aikaansaapa teurastaja</l>
+         <l pos="N">aikaansaapa teurastaja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -160,7 +160,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">aines kahvaa tai vartta varten</l>
+         <l pos="N">aines kahvaa tai vartta varten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -170,7 +170,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">aines veneen tai ahkion paikaksi</l>
+         <l pos="N">aines veneen tai ahkion paikaksi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -180,7 +180,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ainespuu sauvointa varten</l>
+         <l pos="N">ainespuu sauvointa varten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -190,7 +190,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">aitan luhti</l>
+         <l pos="N">aitan luhti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -200,7 +200,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ajoporon suoraan menevä oius</l>
+         <l pos="N">ajoporon suoraan menevä oius</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -210,7 +210,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ajoporon vasen puoli</l>
+         <l pos="N">ajoporon vasen puoli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -220,7 +220,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ankara ihminen</l>
+         <l pos="N">ankara ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">asumaton alue</l>
+         <l pos="N">asumaton alue</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -240,7 +240,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">avaimen haitta</l>
+         <l pos="N">avaimen haitta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -250,7 +250,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ei-saamelainen nainen</l>
+         <l pos="N">ei-saamelainen nainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -260,7 +260,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">elinikäinen elanto</l>
+         <l pos="N">elinikäinen elanto</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -270,7 +270,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">elinikäinen muisto</l>
+         <l pos="N">elinikäinen muisto</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -280,7 +280,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">eläimen kaulanahka</l>
+         <l pos="N">eläimen kaulanahka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -290,7 +290,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">eläimen kuola</l>
+         <l pos="N">eläimen kuola</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -300,7 +300,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">eläimen ulkosynnyttimet</l>
+         <l pos="N">eläimen ulkosynnyttimet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -310,7 +310,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">eläinten suosima laidunalue</l>
+         <l pos="N">eläinten suosima laidunalue</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -320,7 +320,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">englannin kieli</l>
+         <l pos="N">englannin kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -330,7 +330,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">enneunia näkevä</l>
+         <l pos="N">enneunia näkevä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -340,7 +340,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ensimmäinen kieli</l>
+         <l pos="N">ensimmäinen kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -350,7 +350,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">epämiellyttävä sattumus</l>
+         <l pos="N">epämiellyttävä sattumus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -360,7 +360,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">erit. haudan lepo</l>
+         <l pos="N">erit. haudan lepo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -370,7 +370,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">erit. joen rannasta nouseva esteaita</l>
+         <l pos="N">erit. joen rannasta nouseva esteaita</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -380,7 +380,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">erit. märkivä tulehdus</l>
+         <l pos="N">erit. märkivä tulehdus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -390,7 +390,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">erit. pukeutumiseltaan huoliteltu ihminen</l>
+         <l pos="N">erit. pukeutumiseltaan huoliteltu ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -400,7 +400,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">etelänorjalainen merikalastaja</l>
+         <l pos="N">etelänorjalainen merikalastaja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -410,7 +410,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">etelässä asuva saamelainen</l>
+         <l pos="N">etelässä asuva saamelainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -420,7 +420,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">haara poronkorvamerkistä</l>
+         <l pos="N">haara poronkorvamerkistä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -430,7 +430,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">haara sarven yläosassa</l>
+         <l pos="N">haara sarven yläosassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -440,7 +440,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">haaste oikeuteen</l>
+         <l pos="N">haaste oikeuteen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -450,7 +450,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">haavauma kalassa</l>
+         <l pos="N">haavauma kalassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -460,7 +460,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">halkaistessa syntynyt puu</l>
+         <l pos="N">halkaistessa syntynyt puu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -470,7 +470,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">halkaistu ja suolattu turska</l>
+         <l pos="N">halkaistu ja suolattu turska</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -480,7 +480,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">halkeillut tai halkeileva ydinpuu</l>
+         <l pos="N">halkeillut tai halkeileva ydinpuu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -490,7 +490,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">halkio vaatteessa</l>
+         <l pos="N">halkio vaatteessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -500,7 +500,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hallava eläin</l>
+         <l pos="N">hallava eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -515,7 +515,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hallinta tapa</l>
+         <l pos="N">hallinta tapa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -525,7 +525,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hallituksen selonteko eduskunnalle</l>
+         <l pos="N">hallituksen selonteko eduskunnalle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -535,7 +535,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hellittämätön ihminen</l>
+         <l pos="N">hellittämätön ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -545,7 +545,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">helmakoriste miehen lapintakissa</l>
+         <l pos="N">helmakoriste miehen lapintakissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -555,7 +555,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">helposti muistettava</l>
+         <l pos="N">helposti muistettava</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -566,7 +566,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hertta pelikorteissa</l>
+         <l pos="N">hertta pelikorteissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -576,7 +576,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hieno ilma</l>
+         <l pos="N">hieno ilma</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -586,7 +586,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hillan raakile</l>
+         <l pos="N">hillan raakile</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -596,7 +596,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">huomautus, idea</l>
+         <l pos="N">huomautus, idea</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -606,7 +606,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">huono käsityskyky</l>
+         <l pos="N">huono käsityskyky</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -616,7 +616,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">huonosti istuva vaatekappale</l>
+         <l pos="N">huonosti istuva vaatekappale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -626,7 +626,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">huonosti istuviin vaatteisiin pukeutuva ihminen</l>
+         <l pos="N">huonosti istuviin vaatteisiin pukeutuva ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -636,7 +636,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">huonoääninen tiuku</l>
+         <l pos="N">huonoääninen tiuku</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -646,7 +646,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">huutava lapsi</l>
+         <l pos="N">huutava lapsi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -656,7 +656,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hyljelaji norppa?</l>
+         <l pos="N">hyljelaji norppa?</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -666,7 +666,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hyvä sää</l>
+         <l pos="N">hyvä sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -676,7 +676,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hyvähampainen henkilö</l>
+         <l pos="N">hyvähampainen henkilö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -686,7 +686,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">hämärä ennen tai jälkeen päivänvalon</l>
+         <l pos="N">hämärä ennen tai jälkeen päivänvalon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -696,7 +696,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">härällä ajo</l>
+         <l pos="N">härällä ajo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -706,7 +706,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">höylänlastu koipinahkojen kuivauksessa</l>
+         <l pos="N">höylänlastu koipinahkojen kuivauksessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -716,7 +716,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ikäloppu olio</l>
+         <l pos="N">ikäloppu olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -726,7 +726,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">imevä karitsa</l>
+         <l pos="N">imevä karitsa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -736,7 +736,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">innokas onkija</l>
+         <l pos="N">innokas onkija</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -746,7 +746,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">innokas survoja</l>
+         <l pos="N">innokas survoja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -756,7 +756,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">iso aalto meressä</l>
+         <l pos="N">iso aalto meressä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -766,7 +766,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">iso heinäsuova</l>
+         <l pos="N">iso heinäsuova</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -776,7 +776,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">iso ja kömpelö nainen</l>
+         <l pos="N">iso ja kömpelö nainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -786,7 +786,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">iso joki</l>
+         <l pos="N">iso joki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -796,7 +796,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">iso kello</l>
+         <l pos="N">iso kello</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -806,7 +806,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">isosilmäinen patoverkko</l>
+         <l pos="N">isosilmäinen patoverkko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -816,7 +816,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">isosilmäinen verkko</l>
+         <l pos="N">isosilmäinen verkko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -831,7 +831,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">isoäidille tai isoäidin äidille</l>
+         <l pos="N">isoäidille tai isoäidin äidille</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -841,7 +841,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">isoäiti lapsenlapsensa kanssa</l>
+         <l pos="N">isoäiti lapsenlapsensa kanssa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -851,7 +851,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">isän nuorempi veli</l>
+         <l pos="N">isän nuorempi veli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -861,7 +861,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">isän sisar</l>
+         <l pos="N">isän sisar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -871,7 +871,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">isän vanhempi veli</l>
+         <l pos="N">isän vanhempi veli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -881,7 +881,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">itsenäinen työ</l>
+         <l pos="N">itsenäinen työ</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -891,7 +891,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jata (verkkoja</l>
+         <l pos="N">jata (verkkoja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -901,7 +901,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">joen tai järven jäällä oleva vesi</l>
+         <l pos="N">joen tai järven jäällä oleva vesi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -911,7 +911,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">joessa talvehtinut meritaimen</l>
+         <l pos="N">joessa talvehtinut meritaimen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -921,7 +921,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">johde lohipadossa</l>
+         <l pos="N">johde lohipadossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -931,7 +931,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">johtokunnan jäsen</l>
+         <l pos="N">johtokunnan jäsen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -941,7 +941,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">joka höylää kovasti</l>
+         <l pos="N">joka höylää kovasti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -951,7 +951,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">joka rikkoo tavaransa</l>
+         <l pos="N">joka rikkoo tavaransa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -961,7 +961,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">joka vuolee kovasti</l>
+         <l pos="N">joka vuolee kovasti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -971,7 +971,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jolla on aina nälkä</l>
+         <l pos="N">jolla on aina nälkä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -981,7 +981,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jolla on pienet ja luisevat kasvot</l>
+         <l pos="N">jolla on pienet ja luisevat kasvot</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -991,7 +991,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jolla on turpeat kasvot</l>
+         <l pos="N">jolla on turpeat kasvot</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1001,7 +1001,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jollekin kuuluva</l>
+         <l pos="N">jollekin kuuluva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1011,7 +1011,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jota on jouduttu kauan odottamaan</l>
+         <l pos="N">jota on jouduttu kauan odottamaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1021,7 +1021,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jota yleensä kutsutaan liikanimillä</l>
+         <l pos="N">jota yleensä kutsutaan liikanimillä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1031,7 +1031,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">joutava asia</l>
+         <l pos="N">joutava asia</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1041,7 +1041,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">juoksennella jonkun perässä</l>
+         <l pos="N">juoksennella jonkun perässä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1051,7 +1051,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">juokseva hiiva</l>
+         <l pos="N">juokseva hiiva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1061,7 +1061,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jutaava saamelainen</l>
+         <l pos="N">jutaava saamelainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1071,7 +1071,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jykevä esine</l>
+         <l pos="N">jykevä esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1081,7 +1081,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jyrkkäreunainen kapeikko (joessa</l>
+         <l pos="N">jyrkkäreunainen kapeikko (joessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1091,7 +1091,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">järvi joen varrella</l>
+         <l pos="N">järvi joen varrella</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1101,7 +1101,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">järvi- tai kirjokorte</l>
+         <l pos="N">järvi- tai kirjokorte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1111,7 +1111,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jää vuonossa</l>
+         <l pos="N">jää vuonossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1121,7 +1121,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">jäähile vedessä</l>
+         <l pos="N">jäähile vedessä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1131,7 +1131,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kaareva emäpuun jatke</l>
+         <l pos="N">kaareva emäpuun jatke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1141,7 +1141,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kaatonokka astiassa</l>
+         <l pos="N">kaatonokka astiassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1151,7 +1151,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kahdeksan naulaa painomitta</l>
+         <l pos="N">kahdeksan naulaa painomitta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1161,7 +1161,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kahdesta syrjällään olevasta lankusta koostuva höyläpenkki</l>
+         <l pos="N">kahdesta syrjällään olevasta lankusta koostuva höyläpenkki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1171,7 +1171,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kahvi- tai lihamylly</l>
+         <l pos="N">kahvi- tai lihamylly</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1181,7 +1181,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kahvin tuoksu</l>
+         <l pos="N">kahvin tuoksu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1191,7 +1191,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kaivos jossa poro voi kaivaa jäkälää lumen alta</l>
+         <l pos="N">kaivos jossa poro voi kaivaa jäkälää lumen alta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1201,7 +1201,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kalan sisälmysten lyhyistä umpisuolista</l>
+         <l pos="N">kalan sisälmysten lyhyistä umpisuolista</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1211,7 +1211,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kalan vatsanalus</l>
+         <l pos="N">kalan vatsanalus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1221,7 +1221,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kalankuivaustelineessä orsien varassa lepäävät selkoimet</l>
+         <l pos="N">kalankuivaustelineessä orsien varassa lepäävät selkoimet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1231,7 +1231,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kaluttava liha luussa</l>
+         <l pos="N">kaluttava liha luussa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1241,7 +1241,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kalvo (jonkun ympärillä</l>
+         <l pos="N">kalvo (jonkun ympärillä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1251,7 +1251,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kalvoin verkonkudonnassa</l>
+         <l pos="N">kalvoin verkonkudonnassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1261,7 +1261,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kangastukki kangaspuissa</l>
+         <l pos="N">kangastukki kangaspuissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1271,7 +1271,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kankaan leveys</l>
+         <l pos="N">kankaan leveys</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1281,7 +1281,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kannas ahkiossa</l>
+         <l pos="N">kannas ahkiossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1291,7 +1291,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kantamaton hankiainen</l>
+         <l pos="N">kantamaton hankiainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1301,7 +1301,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kapea kannas</l>
+         <l pos="N">kapea kannas</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1311,7 +1311,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kapea vetinen jänkä</l>
+         <l pos="N">kapea vetinen jänkä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1321,7 +1321,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">karvakulu ajokas</l>
+         <l pos="N">karvakulu ajokas</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1336,7 +1336,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">karvakulu kohta</l>
+         <l pos="N">karvakulu kohta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1346,7 +1346,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">karvakulu vaatekappale</l>
+         <l pos="N">karvakulu vaatekappale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1356,7 +1356,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kaste (luonnossa</l>
+         <l pos="N">kaste (luonnossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1366,7 +1366,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kaularasva porolla kaulalihassa</l>
+         <l pos="N">kaularasva porolla kaulalihassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1376,7 +1376,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kaulausreikä taljassa koiven kohdalla</l>
+         <l pos="N">kaulausreikä taljassa koiven kohdalla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1386,7 +1386,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kehittymätön mäti</l>
+         <l pos="N">kehittymätön mäti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1396,7 +1396,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keihään kaltainen harppuuna paltaan tai kampelan pyynnissä</l>
+         <l pos="N">keihään kaltainen harppuuna paltaan tai kampelan pyynnissä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1406,7 +1406,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keimailija (naisesta</l>
+         <l pos="N">keimailija (naisesta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1416,7 +1416,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keitetty kalanmaksa</l>
+         <l pos="N">keitetty kalanmaksa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1426,7 +1426,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keittämättömän maku</l>
+         <l pos="N">keittämättömän maku</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1436,7 +1436,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kela nuotanvedossa</l>
+         <l pos="N">kela nuotanvedossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1446,7 +1446,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kenttää muistuttava paikka</l>
+         <l pos="N">kenttää muistuttava paikka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1456,7 +1456,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kerralla käytettävä kenkäheinäerä</l>
+         <l pos="N">kerralla käytettävä kenkäheinäerä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1466,7 +1466,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keskinäinen jako</l>
+         <l pos="N">keskinäinen jako</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1476,7 +1476,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keskinäinen ymmärrys</l>
+         <l pos="N">keskinäinen ymmärrys</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1486,7 +1486,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keskipäivä kaamosaikaan</l>
+         <l pos="N">keskipäivä kaamosaikaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1496,7 +1496,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keskiyön aurinko</l>
+         <l pos="N">keskiyön aurinko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1506,7 +1506,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kestävä työnteossa</l>
+         <l pos="N">kestävä työnteossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1516,7 +1516,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kesy eläin</l>
+         <l pos="N">kesy eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1531,7 +1531,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kesy vaadin</l>
+         <l pos="N">kesy vaadin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1541,7 +1541,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kesäinen sää keväällä tai syksyllä</l>
+         <l pos="N">kesäinen sää keväällä tai syksyllä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1551,7 +1551,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kesällä kuivuva lampi</l>
+         <l pos="N">kesällä kuivuva lampi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1561,7 +1561,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keveästi sauvottava vene</l>
+         <l pos="N">keveästi sauvottava vene</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1571,7 +1571,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">keväinen jäkälännostopaikka</l>
+         <l pos="N">keväinen jäkälännostopaikka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1581,7 +1581,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kiero esine</l>
+         <l pos="N">kiero esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1591,7 +1591,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kierous esineen päässä</l>
+         <l pos="N">kierous esineen päässä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1601,7 +1601,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kiertotie jonkun edelle pääsemiseksi</l>
+         <l pos="N">kiertotie jonkun edelle pääsemiseksi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1611,7 +1611,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kiimainen eläin</l>
+         <l pos="N">kiimainen eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1621,7 +1621,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kiinitysnuora kodan louteen päässä keskellä ja alhaalla</l>
+         <l pos="N">kiinitysnuora kodan louteen päässä keskellä ja alhaalla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1631,7 +1631,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kiinteä rasva</l>
+         <l pos="N">kiinteä rasva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1641,7 +1641,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kirjan luku</l>
+         <l pos="N">kirjan luku</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1651,7 +1651,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kirjavan koiran nimitys</l>
+         <l pos="N">kirjavan koiran nimitys</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1666,7 +1666,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kirkkaanvärinen kukka</l>
+         <l pos="N">kirkkaanvärinen kukka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1676,7 +1676,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kirppa jne.</l>
+         <l pos="N">kirppa jne.</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1686,7 +1686,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kodalla oleva kotimies</l>
+         <l pos="N">kodalla oleva kotimies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1696,7 +1696,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kodan kynnys</l>
+         <l pos="N">kodan kynnys</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1706,7 +1706,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kodan perä</l>
+         <l pos="N">kodan perä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1716,7 +1716,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kodassa tulisijan kahden puolen</l>
+         <l pos="N">kodassa tulisijan kahden puolen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1726,7 +1726,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">koipinahan reikä</l>
+         <l pos="N">koipinahan reikä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1736,7 +1736,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">koiran kaluama liha</l>
+         <l pos="N">koiran kaluama liha</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1746,7 +1746,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">koiran kannus</l>
+         <l pos="N">koiran kannus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1756,7 +1756,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kolmijalka ripustamista varten tai säilytyslavan nurkan alla</l>
+         <l pos="N">kolmijalka ripustamista varten tai säilytyslavan nurkan alla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1766,7 +1766,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">komeaoksainen mänty</l>
+         <l pos="N">komeaoksainen mänty</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1776,7 +1776,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">komsion kuivikkeena käytettävä sammal</l>
+         <l pos="N">komsion kuivikkeena käytettävä sammal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1786,7 +1786,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">komsion kuomusta jalkopäähän ulottuva paula tai nyöri</l>
+         <l pos="N">komsion kuomusta jalkopäähän ulottuva paula tai nyöri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1796,7 +1796,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">komsion päällysnahka</l>
+         <l pos="N">komsion päällysnahka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1806,7 +1806,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kookas ihminen tai eläin</l>
+         <l pos="N">kookas ihminen tai eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1816,7 +1816,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">korkea ja ohutääninen kilkutus</l>
+         <l pos="N">korkea ja ohutääninen kilkutus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1826,7 +1826,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">korkea veisu</l>
+         <l pos="N">korkea veisu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1836,7 +1836,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">korkein oikeus</l>
+         <l pos="N">korkein oikeus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1846,7 +1846,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kosketuksenarka lapsi</l>
+         <l pos="N">kosketuksenarka lapsi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1856,7 +1856,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kostea sää</l>
+         <l pos="N">kostea sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1866,7 +1866,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kova kipu</l>
+         <l pos="N">kova kipu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1876,7 +1876,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kudottava esine</l>
+         <l pos="N">kudottava esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1886,7 +1886,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kuiva puu</l>
+         <l pos="N">kuiva puu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1896,7 +1896,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kuivakka olio</l>
+         <l pos="N">kuivakka olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1906,7 +1906,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kuivattu liha</l>
+         <l pos="N">kuivattu liha</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1916,7 +1916,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kulunut kesälaidun</l>
+         <l pos="N">kulunut kesälaidun</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1931,7 +1931,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kumollaan olevan veneen pohja</l>
+         <l pos="N">kumollaan olevan veneen pohja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1941,7 +1941,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kun peitinkarvat ovat vielä aivan lyhyet</l>
+         <l pos="N">kun peitinkarvat ovat vielä aivan lyhyet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1951,7 +1951,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kunnanvaltuuston puheenjohtaja</l>
+         <l pos="N">kunnanvaltuuston puheenjohtaja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1961,7 +1961,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kuonoke poroja purevalle koiralle</l>
+         <l pos="N">kuonoke poroja purevalle koiralle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1971,7 +1971,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kuontalo kehrätessä</l>
+         <l pos="N">kuontalo kehrätessä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1981,7 +1981,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kurokaulainen olio</l>
+         <l pos="N">kurokaulainen olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1991,7 +1991,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kuura puissa</l>
+         <l pos="N">kuura puissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2001,7 +2001,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kylmä ilma</l>
+         <l pos="N">kylmä ilma</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2011,7 +2011,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kylmä rankkasade</l>
+         <l pos="N">kylmä rankkasade</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2021,7 +2021,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kyyry olio</l>
+         <l pos="N">kyyry olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2031,7 +2031,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kyömynokkainen ja isopäinen olio</l>
+         <l pos="N">kyömynokkainen ja isopäinen olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2041,7 +2041,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">käyrä olento tai esine</l>
+         <l pos="N">käyrä olento tai esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2051,7 +2051,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">kömpelö (suopungin heittäjä</l>
+         <l pos="N">kömpelö (suopungin heittäjä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2061,7 +2061,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">köyry selässä</l>
+         <l pos="N">köyry selässä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2071,7 +2071,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">köyttä sidoksessa oleva kierros</l>
+         <l pos="N">köyttä sidoksessa oleva kierros</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2081,7 +2081,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">laimenne suolan vähentämiseksi</l>
+         <l pos="N">laimenne suolan vähentämiseksi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2091,7 +2091,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">laiskanpulskea olio</l>
+         <l pos="N">laiskanpulskea olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2101,7 +2101,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lammaskarsina navetassa</l>
+         <l pos="N">lammaskarsina navetassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2111,7 +2111,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">langallinen painosauma</l>
+         <l pos="N">langallinen painosauma</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2121,7 +2121,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">langon tyttären mies</l>
+         <l pos="N">langon tyttären mies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2131,7 +2131,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lapinpukuinen ihminen</l>
+         <l pos="N">lapinpukuinen ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2141,7 +2141,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lapsen vaippa</l>
+         <l pos="N">lapsen vaippa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2151,7 +2151,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lapsenlapsenlapsi isoisälle tai isoisän isälle</l>
+         <l pos="N">lapsenlapsenlapsi isoisälle tai isoisän isälle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2161,7 +2161,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">laskeutumispaikka jäälle</l>
+         <l pos="N">laskeutumispaikka jäälle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2171,7 +2171,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lasta airon varressa</l>
+         <l pos="N">lasta airon varressa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2181,7 +2181,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lauha sää</l>
+         <l pos="N">lauha sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2191,7 +2191,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lehdykkä koruissa</l>
+         <l pos="N">lehdykkä koruissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2201,7 +2201,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">leppymätön viha</l>
+         <l pos="N">leppymätön viha</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2211,7 +2211,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">leuanalus porolla</l>
+         <l pos="N">leuanalus porolla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2221,7 +2221,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">leukakappale nyljetyssä porontaljassa</l>
+         <l pos="N">leukakappale nyljetyssä porontaljassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2231,7 +2231,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">levällään oleva esine</l>
+         <l pos="N">levällään oleva esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2241,7 +2241,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lievä tartuntatauti</l>
+         <l pos="N">lievä tartuntatauti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2251,7 +2251,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lihassärky niskassa ja hartioissa</l>
+         <l pos="N">lihassärky niskassa ja hartioissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2261,7 +2261,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lihassäryn hoidon jäljiltä jäänyt puristuskohta ihossa</l>
+         <l pos="N">lihassäryn hoidon jäljiltä jäänyt puristuskohta ihossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2271,7 +2271,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">liian korkea ja leveä vene</l>
+         <l pos="N">liian korkea ja leveä vene</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2281,7 +2281,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">liian syvä esine</l>
+         <l pos="N">liian syvä esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2291,7 +2291,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">liian väljä vaate</l>
+         <l pos="N">liian väljä vaate</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2301,7 +2301,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">liikkeelle lähtö jutamamatkalla</l>
+         <l pos="N">liikkeelle lähtö jutamamatkalla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2311,7 +2311,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">liippa viikatteen hiomiseen</l>
+         <l pos="N">liippa viikatteen hiomiseen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2321,7 +2321,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">likomärkä nahkavaate</l>
+         <l pos="N">likomärkä nahkavaate</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2341,7 +2341,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">liotusvesi karvojen irrottamiseksi taljasta</l>
+         <l pos="N">liotusvesi karvojen irrottamiseksi taljasta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2351,7 +2351,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lohipadossa poikittain virtaan nähden oleva osa</l>
+         <l pos="N">lohipadossa poikittain virtaan nähden oleva osa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2361,7 +2361,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">loppuun syötetty kesälaidun</l>
+         <l pos="N">loppuun syötetty kesälaidun</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2371,7 +2371,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">louteen yläosa</l>
+         <l pos="N">louteen yläosa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2381,7 +2381,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">luiseva olio</l>
+         <l pos="N">luiseva olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2391,7 +2391,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lumisateinen sää</l>
+         <l pos="N">lumisateinen sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2401,7 +2401,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">luoti luotilangassa</l>
+         <l pos="N">luoti luotilangassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2411,7 +2411,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">luupuikko hirvieläimen takajalan lihassa</l>
+         <l pos="N">luupuikko hirvieläimen takajalan lihassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2421,7 +2421,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lyhyet jalat harallaan seisova olio</l>
+         <l pos="N">lyhyet jalat harallaan seisova olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2431,7 +2431,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lyhyt joki järvien välissä</l>
+         <l pos="N">lyhyt joki järvien välissä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2441,7 +2441,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lyhyt suvanto kahden kosken välissä</l>
+         <l pos="N">lyhyt suvanto kahden kosken välissä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2451,7 +2451,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lyhytkarvainen poro alkusyksystä</l>
+         <l pos="N">lyhytkarvainen poro alkusyksystä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2461,7 +2461,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lyhytkorvainen lammas</l>
+         <l pos="N">lyhytkorvainen lammas</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2471,7 +2471,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lännessä asuva saamelainen</l>
+         <l pos="N">lännessä asuva saamelainen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2481,7 +2481,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lääketieteellinen tiedekunta</l>
+         <l pos="N">lääketieteellinen tiedekunta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2491,7 +2491,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">lääkärin tms. todistus</l>
+         <l pos="N">lääkärin tms. todistus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2501,7 +2501,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">maailman luominen</l>
+         <l pos="N">maailman luominen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2511,7 +2511,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">maata vasten oleva raelumi</l>
+         <l pos="N">maata vasten oleva raelumi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2521,7 +2521,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">maho vaadin</l>
+         <l pos="N">maho vaadin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2531,7 +2531,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">maiskutus kielen kärjellä</l>
+         <l pos="N">maiskutus kielen kärjellä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2541,7 +2541,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">matalikko joessa</l>
+         <l pos="N">matalikko joessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2551,7 +2551,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">melkoinen määrä</l>
+         <l pos="N">melkoinen määrä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2561,7 +2561,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">miehen lapintakin helmakoriste</l>
+         <l pos="N">miehen lapintakin helmakoriste</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2571,7 +2571,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">miehen veljen tai serkun vaimo</l>
+         <l pos="N">miehen veljen tai serkun vaimo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2581,7 +2581,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">mielellään kodan loukossa oleileva</l>
+         <l pos="N">mielellään kodan loukossa oleileva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2591,7 +2591,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">monista erilaisista aineksista laitettu ruoka</l>
+         <l pos="N">monista erilaisista aineksista laitettu ruoka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2601,7 +2601,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">muita pitemmäksi jätetty rakennuksen pitkän seinän ylimmäinen tai alimmainen hirsi</l>
+         <l pos="N">muita pitemmäksi jätetty rakennuksen pitkän seinän ylimmäinen tai alimmainen hirsi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2611,7 +2611,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">mullin mallin oleva esine tai tila</l>
+         <l pos="N">mullin mallin oleva esine tai tila</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2621,7 +2621,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">musta eläin</l>
+         <l pos="N">musta eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2631,7 +2631,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">myrkkysyötti petoeläimiä varten</l>
+         <l pos="N">myrkkysyötti petoeläimiä varten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2641,7 +2641,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">märkä haavassa</l>
+         <l pos="N">märkä haavassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2651,7 +2651,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">määräysten noudattaminen</l>
+         <l pos="N">määräysten noudattaminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2661,7 +2661,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">naisen häpy</l>
+         <l pos="N">naisen häpy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2671,7 +2671,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">naisen päällyslakki</l>
+         <l pos="N">naisen päällyslakki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2681,7 +2681,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">naisen rinta</l>
+         <l pos="N">naisen rinta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2691,7 +2691,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">neljänneslitran mitta</l>
+         <l pos="N">neljänneslitran mitta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2701,7 +2701,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">niin ja niin monta kertaa</l>
+         <l pos="N">niin ja niin monta kertaa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2711,7 +2711,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nikama jokin alimmaisista selkänikamista</l>
+         <l pos="N">nikama jokin alimmaisista selkänikamista</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2721,7 +2721,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nimetön sormi tai vastaava varvas</l>
+         <l pos="N">nimetön sormi tai vastaava varvas</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2731,7 +2731,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nopeajalkainen henkilö</l>
+         <l pos="N">nopeajalkainen henkilö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2741,7 +2741,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nopeasti väsyvä</l>
+         <l pos="N">nopeasti väsyvä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2751,7 +2751,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">norjan kieli</l>
+         <l pos="N">norjan kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2766,7 +2766,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">norjan puoli</l>
+         <l pos="N">norjan puoli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2776,7 +2776,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nouseva uiva</l>
+         <l pos="N">nouseva uiva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2786,7 +2786,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nousupaikka jäältä maalle</l>
+         <l pos="N">nousupaikka jäältä maalle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2796,7 +2796,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nuoremman sisaren tai naisserkun lapsi tädilleen</l>
+         <l pos="N">nuoremman sisaren tai naisserkun lapsi tädilleen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2806,7 +2806,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nuori koivu</l>
+         <l pos="N">nuori koivu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2816,7 +2816,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nuori mies</l>
+         <l pos="N">nuori mies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2826,7 +2826,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nuotan kela</l>
+         <l pos="N">nuotan kela</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2836,7 +2836,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nutukas jossa reunakappale ulottuu kengän nokkaan saakka</l>
+         <l pos="N">nutukas jossa reunakappale ulottuu kengän nokkaan saakka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2846,7 +2846,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">nyppylä ylävässä maassa</l>
+         <l pos="N">nyppylä ylävässä maassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2856,7 +2856,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">näkymätön kummitus</l>
+         <l pos="N">näkymätön kummitus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2866,7 +2866,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">näppylä ihossa</l>
+         <l pos="N">näppylä ihossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2876,7 +2876,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ohut sumu</l>
+         <l pos="N">ohut sumu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2886,7 +2886,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ohutluminen paikka</l>
+         <l pos="N">ohutluminen paikka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2896,7 +2896,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ommel haljenneen keramiikka- tai puuastian korjaamiseksi</l>
+         <l pos="N">ommel haljenneen keramiikka- tai puuastian korjaamiseksi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2906,7 +2906,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">opetusmateriaalin tekeminen</l>
+         <l pos="N">opetusmateriaalin tekeminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2916,7 +2916,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">outo olio</l>
+         <l pos="N">outo olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2926,7 +2926,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">oven rako</l>
+         <l pos="N">oven rako</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2936,7 +2936,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ovenseutu kodan sisäpuolella</l>
+         <l pos="N">ovenseutu kodan sisäpuolella</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2946,7 +2946,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ovenseutu kodan ulkopuolella</l>
+         <l pos="N">ovenseutu kodan ulkopuolella</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2956,7 +2956,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paakku jauhoissa</l>
+         <l pos="N">paakku jauhoissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2966,7 +2966,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paakkuuntunut ja huonosti kuivunut heinä</l>
+         <l pos="N">paakkuuntunut ja huonosti kuivunut heinä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2976,7 +2976,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paha henki</l>
+         <l pos="N">paha henki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2986,7 +2986,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paikattu esine jossa on paljon paikkoja</l>
+         <l pos="N">paikattu esine jossa on paljon paikkoja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2996,7 +2996,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paikka veneen tai ahkion paikkaamiseen</l>
+         <l pos="N">paikka veneen tai ahkion paikkaamiseen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3006,7 +3006,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paininpuu heinäsuovassa heinien päällä</l>
+         <l pos="N">paininpuu heinäsuovassa heinien päällä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3016,7 +3016,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paino verkossa</l>
+         <l pos="N">paino verkossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3026,7 +3026,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">painostava sää</l>
+         <l pos="N">painostava sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3036,7 +3036,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paju reessä</l>
+         <l pos="N">paju reessä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3051,7 +3051,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pajunoksa josta parkkisuikaleet kuoritaan</l>
+         <l pos="N">pajunoksa josta parkkisuikaleet kuoritaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3061,7 +3061,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pakkanen leudon ilman jälkeen</l>
+         <l pos="N">pakkanen leudon ilman jälkeen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3071,7 +3071,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pakkasen aiheuttama ruumiinvamma</l>
+         <l pos="N">pakkasen aiheuttama ruumiinvamma</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3081,7 +3081,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paksulti lunta</l>
+         <l pos="N">paksulti lunta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3091,7 +3091,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paliskunnan osa</l>
+         <l pos="N">paliskunnan osa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3101,7 +3101,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">parantumaton varas</l>
+         <l pos="N">parantumaton varas</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3111,7 +3111,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paras ikä</l>
+         <l pos="N">paras ikä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3121,7 +3121,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">parsi (turvekodan katossa</l>
+         <l pos="N">parsi (turvekodan katossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3131,7 +3131,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pata korttipelissä</l>
+         <l pos="N">pata korttipelissä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3141,7 +3141,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">patoutuman vuoksi tulviva</l>
+         <l pos="N">patoutuman vuoksi tulviva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3151,7 +3151,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paulan nyöri</l>
+         <l pos="N">paulan nyöri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3161,7 +3161,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">paulassa kengän raksiin tuleva osa</l>
+         <l pos="N">paulassa kengän raksiin tuleva osa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3171,7 +3171,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pauloitettu nilkka</l>
+         <l pos="N">pauloitettu nilkka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3181,7 +3181,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pauloitussilmä verkossa</l>
+         <l pos="N">pauloitussilmä verkossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3191,7 +3191,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pehmennyt kala</l>
+         <l pos="N">pehmennyt kala</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3206,7 +3206,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pehmeä keli jolloin hangen pinta on pehmennyt</l>
+         <l pos="N">pehmeä keli jolloin hangen pinta on pehmennyt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3216,7 +3216,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pehmeä tai pehmeän lumen vuoksi upottava keli</l>
+         <l pos="N">pehmeä tai pehmeän lumen vuoksi upottava keli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3226,7 +3226,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">perinnöllinen sairaus</l>
+         <l pos="N">perinnöllinen sairaus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3236,7 +3236,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">persous tiettyyn ruokaan</l>
+         <l pos="N">persous tiettyyn ruokaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3246,7 +3246,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">peruke pitkässäsiimassa</l>
+         <l pos="N">peruke pitkässäsiimassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3261,7 +3261,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">perätilassa syntyvä poikanen tai lapsi</l>
+         <l pos="N">perätilassa syntyvä poikanen tai lapsi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3271,7 +3271,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">peräänantamaton ihminen tai eläin</l>
+         <l pos="N">peräänantamaton ihminen tai eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3281,7 +3281,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">peskissä kaula-aukon kahden puolen</l>
+         <l pos="N">peskissä kaula-aukon kahden puolen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3291,7 +3291,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">petojen paljous</l>
+         <l pos="N">petojen paljous</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3301,7 +3301,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">peukalon tyvestä etusormen kärkeen</l>
+         <l pos="N">peukalon tyvestä etusormen kärkeen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3311,7 +3311,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">peuran talja</l>
+         <l pos="N">peuran talja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3321,7 +3321,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pienehkö joki</l>
+         <l pos="N">pienehkö joki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3331,7 +3331,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pienehkö vene</l>
+         <l pos="N">pienehkö vene</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3341,7 +3341,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni hilla</l>
+         <l pos="N">pieni hilla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3351,7 +3351,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni ja jyrkkä kanjoni</l>
+         <l pos="N">pieni ja jyrkkä kanjoni</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3361,7 +3361,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni koira</l>
+         <l pos="N">pieni koira</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3371,7 +3371,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni kota</l>
+         <l pos="N">pieni kota</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3381,7 +3381,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni laakso</l>
+         <l pos="N">pieni laakso</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3391,7 +3391,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni lapsi</l>
+         <l pos="N">pieni lapsi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3401,7 +3401,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni liikasarvi porolla</l>
+         <l pos="N">pieni liikasarvi porolla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3411,7 +3411,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni merikala</l>
+         <l pos="N">pieni merikala</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3421,7 +3421,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni poika</l>
+         <l pos="N">pieni poika</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3431,7 +3431,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni pöytä</l>
+         <l pos="N">pieni pöytä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3441,7 +3441,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni talo</l>
+         <l pos="N">pieni talo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3451,7 +3451,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni turska</l>
+         <l pos="N">pieni turska</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3461,7 +3461,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni tyttö</l>
+         <l pos="N">pieni tyttö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3471,7 +3471,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pieni voikauha</l>
+         <l pos="N">pieni voikauha</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3481,7 +3481,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pienisilmäinen verkko</l>
+         <l pos="N">pienisilmäinen verkko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3491,7 +3491,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pienisilmäisin sallittu verkko lohipadossa</l>
+         <l pos="N">pienisilmäisin sallittu verkko lohipadossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3501,7 +3501,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pilvinen sää</l>
+         <l pos="N">pilvinen sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3511,7 +3511,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pimeä sää</l>
+         <l pos="N">pimeä sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3521,7 +3521,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pitkä jono</l>
+         <l pos="N">pitkä jono</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3531,7 +3531,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pitkäksi leivottu leipä</l>
+         <l pos="N">pitkäksi leivottu leipä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3542,7 +3542,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pitävä jalansija</l>
+         <l pos="N">pitävä jalansija</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3552,7 +3552,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pohjoinen alue</l>
+         <l pos="N">pohjoinen alue</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3562,7 +3562,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poikittainen valkoinen juova eläimen kaulassa</l>
+         <l pos="N">poikittainen valkoinen juova eläimen kaulassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3572,7 +3572,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poikkipuu reen kopassa tai tavara-ahkiossa</l>
+         <l pos="N">poikkipuu reen kopassa tai tavara-ahkiossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3582,7 +3582,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poikkipuu verkkojen kuivaamiseen</l>
+         <l pos="N">poikkipuu verkkojen kuivaamiseen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3592,7 +3592,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poltettava hiili</l>
+         <l pos="N">poltettava hiili</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3602,7 +3602,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">polttava kipu</l>
+         <l pos="N">polttava kipu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3612,7 +3612,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">polun tms. haara</l>
+         <l pos="N">polun tms. haara</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3622,7 +3622,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">porohärän talja</l>
+         <l pos="N">porohärän talja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3632,7 +3632,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">porojen kesälaitumena</l>
+         <l pos="N">porojen kesälaitumena</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3642,7 +3642,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">porojen paimennus</l>
+         <l pos="N">porojen paimennus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3652,7 +3652,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">porokatokeväälle tyypillinen kylmä sää</l>
+         <l pos="N">porokatokeväälle tyypillinen kylmä sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3662,7 +3662,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">porolla kyljen ja lonkan välillä</l>
+         <l pos="N">porolla kyljen ja lonkan välillä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3672,7 +3672,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron hankakorva</l>
+         <l pos="N">poron hankakorva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3682,7 +3682,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron hauislihas</l>
+         <l pos="N">poron hauislihas</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3692,7 +3692,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron kaivukuoppa lumessa</l>
+         <l pos="N">poron kaivukuoppa lumessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3702,7 +3702,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron kaulalihat</l>
+         <l pos="N">poron kaulalihat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3712,7 +3712,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron koukkusarvi</l>
+         <l pos="N">poron koukkusarvi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3722,7 +3722,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron otsaluu</l>
+         <l pos="N">poron otsaluu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3732,7 +3732,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron piikkisarvi</l>
+         <l pos="N">poron piikkisarvi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3742,7 +3742,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron puikkosarvi</l>
+         <l pos="N">poron puikkosarvi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3752,7 +3752,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron rintalastan takapäässä oleva nipukka</l>
+         <l pos="N">poron rintalastan takapäässä oleva nipukka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3762,7 +3762,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron ruokaa keväällä</l>
+         <l pos="N">poron ruokaa keväällä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3772,7 +3772,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron sairaus</l>
+         <l pos="N">poron sairaus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3782,7 +3782,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">poron uloste (kesällä</l>
+         <l pos="N">poron uloste (kesällä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3792,7 +3792,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">porotokan suurin hirvas erit. rykimäaikana</l>
+         <l pos="N">porotokan suurin hirvas erit. rykimäaikana</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3802,7 +3802,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puinen lautanen</l>
+         <l pos="N">puinen lautanen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3812,7 +3812,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puinen vinkka</l>
+         <l pos="N">puinen vinkka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3823,7 +3823,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puissa talvella oleva lumettomuus</l>
+         <l pos="N">puissa talvella oleva lumettomuus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3833,7 +3833,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">punainen esine</l>
+         <l pos="N">punainen esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3843,7 +3843,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">punainen viinimarja</l>
+         <l pos="N">punainen viinimarja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3853,7 +3853,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">punotus (silmässä</l>
+         <l pos="N">punotus (silmässä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3863,7 +3863,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puoli kiloa</l>
+         <l pos="N">puoli kiloa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3873,7 +3873,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puoli sanaa</l>
+         <l pos="N">puoli sanaa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3883,7 +3883,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puolialaston olio</l>
+         <l pos="N">puolialaston olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3893,7 +3893,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puraistu suupala</l>
+         <l pos="N">puraistu suupala</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3903,7 +3903,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">purkautumisväylä tulivuoressa</l>
+         <l pos="N">purkautumisväylä tulivuoressa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3913,7 +3913,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pussinmuotoinen osa naistenlakissa</l>
+         <l pos="N">pussinmuotoinen osa naistenlakissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3923,7 +3923,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">putouksen nielu</l>
+         <l pos="N">putouksen nielu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3933,7 +3933,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puukon tai höylän lastu</l>
+         <l pos="N">puukon tai höylän lastu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3943,7 +3943,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puun kyljessä tai kivessä kasvava matala jäkälä</l>
+         <l pos="N">puun kyljessä tai kivessä kasvava matala jäkälä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3953,7 +3953,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puun tumma ja vettynyt ydin</l>
+         <l pos="N">puun tumma ja vettynyt ydin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3963,7 +3963,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puunaulan aines</l>
+         <l pos="N">puunaulan aines</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3973,7 +3973,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puunaulan kiila</l>
+         <l pos="N">puunaulan kiila</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3988,7 +3988,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">puuämpärin sanka</l>
+         <l pos="N">puuämpärin sanka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3998,7 +3998,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pyssyn hana</l>
+         <l pos="N">pyssyn hana</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4008,7 +4008,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pystykorvainen koira</l>
+         <l pos="N">pystykorvainen koira</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4018,7 +4018,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pystypuu rysäpadossa</l>
+         <l pos="N">pystypuu rysäpadossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4028,7 +4028,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pyörteinen kohta joessa</l>
+         <l pos="N">pyörteinen kohta joessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4038,7 +4038,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">päällä vita korvamerkissä XXX</l>
+         <l pos="N">päällä vita korvamerkissä XXX</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4048,7 +4048,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">pöydän reuna</l>
+         <l pos="N">pöydän reuna</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4058,7 +4058,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">raanun valmiiksi kudotun kankaan reunassa</l>
+         <l pos="N">raanun valmiiksi kudotun kankaan reunassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4068,7 +4068,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">raaputettu kohta</l>
+         <l pos="N">raaputettu kohta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4078,7 +4078,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">raisu vaadin tai tyttö</l>
+         <l pos="N">raisu vaadin tai tyttö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4088,7 +4088,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rakas ystävä</l>
+         <l pos="N">rakas ystävä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4098,7 +4098,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rakennuksen kehä</l>
+         <l pos="N">rakennuksen kehä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4108,7 +4108,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rako halkeama</l>
+         <l pos="N">rako halkeama</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4118,7 +4118,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">reessä kaplaiden kannattama sivupuu</l>
+         <l pos="N">reessä kaplaiden kannattama sivupuu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4128,7 +4128,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">reunaporo joka pysyttelee tokan reunoilla</l>
+         <l pos="N">reunaporo joka pysyttelee tokan reunoilla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4138,7 +4138,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">riippuva esine</l>
+         <l pos="N">riippuva esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4148,7 +4148,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rinta- ja vatsaontelo</l>
+         <l pos="N">rinta- ja vatsaontelo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4158,7 +4158,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ripustamista varten yhteensidottuja esineitä</l>
+         <l pos="N">ripustamista varten yhteensidottuja esineitä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4168,7 +4168,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ristiluun ja alimman lannenikaman välissä oleva välilevy</l>
+         <l pos="N">ristiluun ja alimman lannenikaman välissä oleva välilevy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4178,7 +4178,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rivi peräkkäin jamottuja ajoverkkoja</l>
+         <l pos="N">rivi peräkkäin jamottuja ajoverkkoja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4188,7 +4188,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rivopuheinen ihminen</l>
+         <l pos="N">rivopuheinen ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4198,7 +4198,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">roso metallissa</l>
+         <l pos="N">roso metallissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4208,7 +4208,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rotkon kapeikko</l>
+         <l pos="N">rotkon kapeikko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4218,7 +4218,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ruijanpaltaan maha</l>
+         <l pos="N">ruijanpaltaan maha</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4228,7 +4228,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ruijanpaltaan pää ilman alaleukaa</l>
+         <l pos="N">ruijanpaltaan pää ilman alaleukaa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4238,7 +4238,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ruko heinää</l>
+         <l pos="N">ruko heinää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4248,7 +4248,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ruohokanukan marja</l>
+         <l pos="N">ruohokanukan marja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4258,7 +4258,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ruotsin kieli</l>
+         <l pos="N">ruotsin kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4268,7 +4268,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rupinen ihminen tai eläin</l>
+         <l pos="N">rupinen ihminen tai eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4278,7 +4278,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ruskea eläin</l>
+         <l pos="N">ruskea eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4288,7 +4288,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">rusko taivaalla</l>
+         <l pos="N">rusko taivaalla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4298,7 +4298,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ryhdikäs henkilö</l>
+         <l pos="N">ryhdikäs henkilö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4308,7 +4308,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saamelaiskäräjien joukko</l>
+         <l pos="N">saamelaiskäräjien joukko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4318,7 +4318,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saamen alue</l>
+         <l pos="N">saamen alue</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4328,7 +4328,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saamen kielen kurssi</l>
+         <l pos="N">saamen kielen kurssi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4343,7 +4343,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saamen kieli</l>
+         <l pos="N">saamen kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4353,7 +4353,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saamen neuvosto</l>
+         <l pos="N">saamen neuvosto</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4363,7 +4363,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saniaisen lehti</l>
+         <l pos="N">saniaisen lehti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4373,7 +4373,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sankapuu heinäsaurassa</l>
+         <l pos="N">sankapuu heinäsaurassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4383,7 +4383,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saraheinän käpy</l>
+         <l pos="N">saraheinän käpy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4393,7 +4393,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sarja reessä</l>
+         <l pos="N">sarja reessä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4403,7 +4403,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sarvenvälinahka (poron otsassa</l>
+         <l pos="N">sarvenvälinahka (poron otsassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4413,7 +4413,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saukon pesäkolo</l>
+         <l pos="N">saukon pesäkolo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4423,7 +4423,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">saverikko aisassa</l>
+         <l pos="N">saverikko aisassa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4433,7 +4433,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">seinän puoli</l>
+         <l pos="N">seinän puoli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4443,7 +4443,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">seisten tehty asento</l>
+         <l pos="N">seisten tehty asento</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4453,7 +4453,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">seitsemän joukko</l>
+         <l pos="N">seitsemän joukko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4463,7 +4463,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">selkävyö poron valjaissa</l>
+         <l pos="N">selkävyö poron valjaissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4473,7 +4473,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sepalus housuissa</l>
+         <l pos="N">sepalus housuissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4483,7 +4483,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">serkun tyttären mies</l>
+         <l pos="N">serkun tyttären mies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4493,7 +4493,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">siiman vyyhteämiseen käytetty haaru (siimoineen</l>
+         <l pos="N">siiman vyyhteämiseen käytetty haaru (siimoineen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4503,7 +4503,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">siipi viikatteessa</l>
+         <l pos="N">siipi viikatteessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4513,7 +4513,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">siitä ei ole taikaa</l>
+         <l pos="N">siitä ei ole taikaa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4523,7 +4523,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">siivoton ihminen</l>
+         <l pos="N">siivoton ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4533,7 +4533,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">silmärivi verkossa</l>
+         <l pos="N">silmärivi verkossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4543,7 +4543,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">silokallio rannikolla</l>
+         <l pos="N">silokallio rannikolla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4553,7 +4553,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">silokarvainen eläin</l>
+         <l pos="N">silokarvainen eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4563,7 +4563,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">siro ihminen tai esine</l>
+         <l pos="N">siro ihminen tai esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4573,7 +4573,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">siskon tai veljen tyttären mies</l>
+         <l pos="N">siskon tai veljen tyttären mies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4583,7 +4583,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sisämaassa kesällä laiduntava porokylä tai sen jäsen</l>
+         <l pos="N">sisämaassa kesällä laiduntava porokylä tai sen jäsen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4593,7 +4593,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sisäpuolen kylki</l>
+         <l pos="N">sisäpuolen kylki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4603,7 +4603,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sola korkealla kahden vaaran välissä</l>
+         <l pos="N">sola korkealla kahden vaaran välissä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4613,7 +4613,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">solakka ihminen vartalonmyötäisissä vaatteissaan</l>
+         <l pos="N">solakka ihminen vartalonmyötäisissä vaatteissaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4623,7 +4623,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">solakka ja tyylikkäästi pukeutunut mies</l>
+         <l pos="N">solakka ja tyylikkäästi pukeutunut mies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4633,7 +4633,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sormien haara</l>
+         <l pos="N">sormien haara</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4643,7 +4643,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sotku verkossa</l>
+         <l pos="N">sotku verkossa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4653,7 +4653,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sulkasadosta johtuva lentokyvyttömyys</l>
+         <l pos="N">sulkasadosta johtuva lentokyvyttömyys</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4664,7 +4664,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sulkumerkki kirjoituksessa</l>
+         <l pos="N">sulkumerkki kirjoituksessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4674,7 +4674,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sumu pimeällä</l>
+         <l pos="N">sumu pimeällä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4684,7 +4684,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suojapato lohipadon yläpuolella virtaa heikentämässä</l>
+         <l pos="N">suojapato lohipadon yläpuolella virtaa heikentämässä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4694,7 +4694,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suolattu kala</l>
+         <l pos="N">suolattu kala</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4704,7 +4704,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suomen kieli</l>
+         <l pos="N">suomen kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4714,7 +4714,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suonirauta suoneniskennässä</l>
+         <l pos="N">suonirauta suoneniskennässä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4724,7 +4724,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suopungin kehä</l>
+         <l pos="N">suopungin kehä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4734,7 +4734,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suora kulma</l>
+         <l pos="N">suora kulma</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4744,7 +4744,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">susien paljous</l>
+         <l pos="N">susien paljous</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4754,7 +4754,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sutjakka olio</l>
+         <l pos="N">sutjakka olio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4765,7 +4765,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suuren porotokan tai ihmisjoukon kulkujälki</l>
+         <l pos="N">suuren porotokan tai ihmisjoukon kulkujälki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4775,7 +4775,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suuri koski</l>
+         <l pos="N">suuri koski</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4785,7 +4785,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suurista varkauksista epäilty porovaras</l>
+         <l pos="N">suurista varkauksista epäilty porovaras</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4795,7 +4795,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">suurisuuntainen teurastus</l>
+         <l pos="N">suurisuuntainen teurastus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4805,7 +4805,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sydänalakipua aiheuttava eliö</l>
+         <l pos="N">sydänalakipua aiheuttava eliö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4815,7 +4815,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">sytytettäessä muiden alla poikittain oleva</l>
+         <l pos="N">sytytettäessä muiden alla poikittain oleva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4825,7 +4825,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">syvä vesi</l>
+         <l pos="N">syvä vesi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4841,7 +4841,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">syysvasa (jonka karva on jo hieman tuuheampaa</l>
+         <l pos="N">syysvasa (jonka karva on jo hieman tuuheampaa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4851,7 +4851,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">syömäpaikka laidunalueella</l>
+         <l pos="N">syömäpaikka laidunalueella</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4861,7 +4861,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">säie suoninarussa</l>
+         <l pos="N">säie suoninarussa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4871,7 +4871,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">takakaihdin sarvessa</l>
+         <l pos="N">takakaihdin sarvessa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4881,7 +4881,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">takakenossa seisova henkilö</l>
+         <l pos="N">takakenossa seisova henkilö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4891,7 +4891,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">takissa vyön yläpuolelle jäävä pussimaiseksi vedetty kohta</l>
+         <l pos="N">takissa vyön yläpuolelle jäävä pussimaiseksi vedetty kohta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4901,7 +4901,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tallattu tanner</l>
+         <l pos="N">tallattu tanner</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4911,7 +4911,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">talon pääty</l>
+         <l pos="N">talon pääty</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4921,7 +4921,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">talvinen sää</l>
+         <l pos="N">talvinen sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4931,7 +4931,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tamman astuttaja</l>
+         <l pos="N">tamman astuttaja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4941,7 +4941,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tapahtuma esim. markkinoilla</l>
+         <l pos="N">tapahtuma esim. markkinoilla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4951,7 +4951,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tarttuva tauti</l>
+         <l pos="N">tarttuva tauti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4961,7 +4961,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tarvepuu komsion kuomua varten</l>
+         <l pos="N">tarvepuu komsion kuomua varten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4971,7 +4971,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">taula taulomiseen</l>
+         <l pos="N">taula taulomiseen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4981,7 +4981,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tavallisen lakin päälle tuleva suojuslakki</l>
+         <l pos="N">tavallisen lakin päälle tuleva suojuslakki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4991,7 +4991,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tavaroistaan tarkasti huolehtiva</l>
+         <l pos="N">tavaroistaan tarkasti huolehtiva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5001,7 +5001,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tela veneelle</l>
+         <l pos="N">tela veneelle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5011,7 +5011,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">telana käytetty pölkky</l>
+         <l pos="N">telana käytetty pölkky</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5021,7 +5021,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tervas poltettavaksi</l>
+         <l pos="N">tervas poltettavaksi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5031,7 +5031,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">teuraan alaleuka</l>
+         <l pos="N">teuraan alaleuka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5041,7 +5041,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">teuraan kylkipala</l>
+         <l pos="N">teuraan kylkipala</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5051,7 +5051,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">teurastuspaikka kodan takana</l>
+         <l pos="N">teurastuspaikka kodan takana</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5061,7 +5061,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">teurastuspaikka lumella</l>
+         <l pos="N">teurastuspaikka lumella</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5071,7 +5071,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tietokoneen näyttö</l>
+         <l pos="N">tietokoneen näyttö</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5081,7 +5081,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tiiviste tapin tms. ympärillä</l>
+         <l pos="N">tiiviste tapin tms. ympärillä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5091,7 +5091,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tilapäisesti maho</l>
+         <l pos="N">tilapäisesti maho</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5101,7 +5101,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tinttiä vähän isompi uroslohi</l>
+         <l pos="N">tinttiä vähän isompi uroslohi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5111,7 +5111,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">toinen kieli</l>
+         <l pos="N">toinen kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5121,7 +5121,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">toisen puolen vatsanpeitteet</l>
+         <l pos="N">toisen puolen vatsanpeitteet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5131,7 +5131,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">toisen vuoden loppupuolella oleva hieho</l>
+         <l pos="N">toisen vuoden loppupuolella oleva hieho</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5141,7 +5141,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tokan ympärihiihtäjä</l>
+         <l pos="N">tokan ympärihiihtäjä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5151,7 +5151,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tukko reiän tukkimiseksi</l>
+         <l pos="N">tukko reiän tukkimiseksi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5161,7 +5161,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tulisijassa liesikiviä korvaava pölkky koivua</l>
+         <l pos="N">tulisijassa liesikiviä korvaava pölkky koivua</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5171,7 +5171,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tumma leipä</l>
+         <l pos="N">tumma leipä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5181,7 +5181,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">turpea ihminen</l>
+         <l pos="N">turpea ihminen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5191,7 +5191,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">turvekammi (yöpymissuojana</l>
+         <l pos="N">turvekammi (yöpymissuojana</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5201,7 +5201,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tutkinto, tutkimus</l>
+         <l pos="N">tutkinto, tutkimus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5211,7 +5211,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tutut keskenään</l>
+         <l pos="N">tutut keskenään</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5221,7 +5221,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tuuhea olio tai esine</l>
+         <l pos="N">tuuhea olio tai esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5231,7 +5231,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tuulen ajama kinos</l>
+         <l pos="N">tuulen ajama kinos</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5241,7 +5241,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tuulla vähän</l>
+         <l pos="N">tuulla vähän</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5251,7 +5251,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tuuma leipä</l>
+         <l pos="N">tuuma leipä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5261,7 +5261,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tylppä esine</l>
+         <l pos="N">tylppä esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5276,7 +5276,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tytärpuolen mies</l>
+         <l pos="N">tytärpuolen mies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5286,7 +5286,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tyynehkö ilma</l>
+         <l pos="N">tyynehkö ilma</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5296,7 +5296,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">tyyni tuulisella ilmalla tai navakan tuulen jälkeen</l>
+         <l pos="N">tyyni tuulisella ilmalla tai navakan tuulen jälkeen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5306,7 +5306,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">täysi määrä</l>
+         <l pos="N">täysi määrä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5316,7 +5316,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">täysikasvuinen saukkonaaras</l>
+         <l pos="N">täysikasvuinen saukkonaaras</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5326,7 +5326,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">täyttöastia jonka jälkeen marjat siirretään isompaan astiaan</l>
+         <l pos="N">täyttöastia jonka jälkeen marjat siirretään isompaan astiaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5336,7 +5336,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">uhkuvesi jäällä</l>
+         <l pos="N">uhkuvesi jäällä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5346,7 +5346,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ukkosen jyrinä</l>
+         <l pos="N">ukkosen jyrinä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5356,7 +5356,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">umpeenmennyttä ahkionuraa hyvin noudattava ajokas</l>
+         <l pos="N">umpeenmennyttä ahkionuraa hyvin noudattava ajokas</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5366,7 +5366,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">utareissa oleva vedin</l>
+         <l pos="N">utareissa oleva vedin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5376,7 +5376,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">uunin vieri</l>
+         <l pos="N">uunin vieri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5386,7 +5386,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">uupunut eläin</l>
+         <l pos="N">uupunut eläin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5396,7 +5396,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">uusi lumi</l>
+         <l pos="N">uusi lumi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5406,7 +5406,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">uutukainen esine</l>
+         <l pos="N">uutukainen esine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5421,7 +5421,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vaadintokka keväällä</l>
+         <l pos="N">vaadintokka keväällä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5431,7 +5431,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vaaksa (peukalon ja sormenpään välillä</l>
+         <l pos="N">vaaksa (peukalon ja sormenpään välillä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5441,7 +5441,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vaalea juova poron tai koiran jalan etupuolella</l>
+         <l pos="N">vaalea juova poron tai koiran jalan etupuolella</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5451,7 +5451,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vaatteisiin ja karjan karvoihin tarttuva loka</l>
+         <l pos="N">vaatteisiin ja karjan karvoihin tarttuva loka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5461,7 +5461,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vahva suolaliemi</l>
+         <l pos="N">vahva suolaliemi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5471,7 +5471,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vaikea sairaus</l>
+         <l pos="N">vaikea sairaus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5481,7 +5481,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vaikeapääsyinen laakso</l>
+         <l pos="N">vaikeapääsyinen laakso</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5491,7 +5491,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vainajan suusta otettu sylki</l>
+         <l pos="N">vainajan suusta otettu sylki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5501,7 +5501,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vaivaiskoivua kasvava paikka</l>
+         <l pos="N">vaivaiskoivua kasvava paikka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5511,7 +5511,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">valtion metsä</l>
+         <l pos="N">valtion metsä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5521,7 +5521,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vanha asuinkenttä tunturissa</l>
+         <l pos="N">vanha asuinkenttä tunturissa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5531,7 +5531,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vanhanaikainen vyönsolki</l>
+         <l pos="N">vanhanaikainen vyönsolki</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5542,7 +5542,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vanhemman sisaren lapsi tädilleen</l>
+         <l pos="N">vanhemman sisaren lapsi tädilleen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5552,7 +5552,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vanhemman veljen lapsi sedälleen</l>
+         <l pos="N">vanhemman veljen lapsi sedälleen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5562,7 +5562,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vanttuussa tai rukkasessa peukalon tyvestä kärkeen ulottuva osa</l>
+         <l pos="N">vanttuussa tai rukkasessa peukalon tyvestä kärkeen ulottuva osa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5572,7 +5572,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vasansa hylkäävä vaadin</l>
+         <l pos="N">vasansa hylkäävä vaadin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5582,7 +5582,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vastakkaista sukupuolta oleva sukulainen avioliiton kautta</l>
+         <l pos="N">vastakkaista sukupuolta oleva sukulainen avioliiton kautta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5592,7 +5592,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vastasyntynyt vasa</l>
+         <l pos="N">vastasyntynyt vasa</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5602,7 +5602,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vatsanturpoama karitsoilla</l>
+         <l pos="N">vatsanturpoama karitsoilla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5612,7 +5612,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">veistetty kohta</l>
+         <l pos="N">veistetty kohta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5622,7 +5622,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">veneen kaari</l>
+         <l pos="N">veneen kaari</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5632,7 +5632,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">veneen laita</l>
+         <l pos="N">veneen laita</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5642,7 +5642,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">veneen paljas kaarenväli (siestimen ja pohjateljon välillä</l>
+         <l pos="N">veneen paljas kaarenväli (siestimen ja pohjateljon välillä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5652,7 +5652,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">veneen ylilaidan jatke etusiestimestä vannaaseen</l>
+         <l pos="N">veneen ylilaidan jatke etusiestimestä vannaaseen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5662,7 +5662,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">venäjän kieli</l>
+         <l pos="N">venäjän kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5672,7 +5672,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">verkon koho</l>
+         <l pos="N">verkon koho</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5682,7 +5682,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">verkon paula</l>
+         <l pos="N">verkon paula</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5692,7 +5692,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vettynyt puu</l>
+         <l pos="N">vettynyt puu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5707,7 +5707,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vetää vähän</l>
+         <l pos="N">vetää vähän</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5717,7 +5717,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">viettävä pohja sisävesissä</l>
+         <l pos="N">viettävä pohja sisävesissä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5727,7 +5727,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">viimainen sää</l>
+         <l pos="N">viimainen sää</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5737,7 +5737,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vinosti laskeutuva talvitie</l>
+         <l pos="N">vinosti laskeutuva talvitie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5747,7 +5747,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vitsas sitomiseen</l>
+         <l pos="N">vitsas sitomiseen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5757,7 +5757,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">voimakas kipu</l>
+         <l pos="N">voimakas kipu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5767,7 +5767,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">voimakas virta</l>
+         <l pos="N">voimakas virta</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5777,7 +5777,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vuoden vanhana vasonut kermikkävaadin</l>
+         <l pos="N">vuoden vanhana vasonut kermikkävaadin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5787,7 +5787,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vyyhdetty silmukka</l>
+         <l pos="N">vyyhdetty silmukka</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5797,7 +5797,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vyön kieli</l>
+         <l pos="N">vyön kieli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5807,7 +5807,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vähennettävä osuus</l>
+         <l pos="N">vähennettävä osuus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5818,7 +5818,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">vähän alempi</l>
+         <l pos="N">vähän alempi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5828,7 +5828,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ylin tai toiseksi ylin kylkiluu</l>
+         <l pos="N">ylin tai toiseksi ylin kylkiluu</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5838,7 +5838,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">ylivuotinen variksenmarja</l>
+         <l pos="N">ylivuotinen variksenmarja</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5848,7 +5848,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">äidin nuorempi sisar</l>
+         <l pos="N">äidin nuorempi sisar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5858,7 +5858,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe">äidin vanhempi sisar</l>
+         <l pos="N">äidin vanhempi sisar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5868,7 +5868,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe" nr="Pl">alimmaiset selkänikamat</l>
+         <l pos="N" nr="Pl">alimmaiset selkänikamat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5878,7 +5878,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe" nr="Pl">saamelaiskäräjien vaalit</l>
+         <l pos="N" nr="Pl">saamelaiskäräjien vaalit</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5888,7 +5888,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="mwe" nr="Pl">veljesten tai serkusten vaimot keskenään</l>
+         <l pos="N" nr="Pl">veljesten tai serkusten vaimot keskenään</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
