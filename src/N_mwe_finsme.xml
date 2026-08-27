@@ -1,0 +1,5899 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+    <e>
+      <lg>
+         <l pos="mwe">10 km</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="882">miila</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">Jumalan lahja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">láhji</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">Norjan kansalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1437">norgalaš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">Suomen puoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">suomabealli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">Tenoon nouseva kampela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">guorpmat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">Väinämöisen vyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">Oaggut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ahkera ja taitava oksien pilkkoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ferkkon</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ahkion kaari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">fierra</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ahkion kolmanneksi ylin liiste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čogat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ahkion liiste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">láitta</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ahkion tai komsion laidassa oleva raksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gáron</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ahkionkaaren paininpuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="136">loahku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">aikaansaapa teurastaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njuovan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">aines kahvaa tai vartta varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nađas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">aines veneen tai ahkion paikaksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">dáinnis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ainespuu sauvointa varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čuoimmis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">aitan luhti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="133">leapma</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ajoporon suoraan menevä oius</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" nr="Pl" freq="0">rievttat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ajoporon vasen puoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gávllubealli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ankara ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">streaŋggár</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">asumaton alue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4208">meahcci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">avaimen haitta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">meaddja</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ei-saamelainen nainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="352">rivgu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">elinikäinen elanto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">agibeailáibi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">elinikäinen muisto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">agibeaimuitu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">eläimen kaulanahka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gurtádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">eläimen kuola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sáivi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">eläimen ulkosynnyttimet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">viigá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">eläinten suosima laidunalue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ealabáiki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">englannin kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="552">eŋgelasgiella</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">enneunia näkevä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nigolaš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ensimmäinen kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="907">vuosttašgiella</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">epämiellyttävä sattumus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">válbi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">erit. haudan lepo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="52">vuoiŋŋadus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">erit. joen rannasta nouseva esteaita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="103">ruohtu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">erit. märkivä tulehdus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="31">vuolši</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">erit. pukeutumiseltaan huoliteltu ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">smolge</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">etelänorjalainen merikalastaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">feallá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">etelässä asuva saamelainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="20">oarján</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">haara poronkorvamerkistä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">guobir</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">haara sarven yläosassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="43">sárgu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">haaste oikeuteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="12">stevnnet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">haavauma kalassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">ráhkku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">halkaistessa syntynyt puu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">spanjahas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">halkaistu ja suolattu turska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">rosgeret</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">halkeillut tai halkeileva ydinpuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">jiellu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">halkio vaatteessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">lákči</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hallava eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">čuorggut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čurge</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hallinta tapa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="72">stivrenvuohki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hallituksen selonteko eduskunnalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1754">stuorradiggedieđáhus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hellittämätön ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">hoavrran</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">helmakoriste miehen lapintakissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">luoska</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">helposti muistettava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>paikasta</re>
+            <t pos="N" freq="20">sajus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hertta pelikorteissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šiertá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hieno ilma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čáppadálki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hillan raakile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="14">čurrot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">huomautus, idea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1081">fuomášupmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">huono käsityskyky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čuovggahisvuohta</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">huonosti istuva vaatekappale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skolpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">huonosti istuviin vaatteisiin pukeutuva ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skolpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">huonoääninen tiuku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gihlar</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">huutava lapsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">máran</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hyljelaji norppa?</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="21">oaidu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hyvä sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">buorádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hyvähampainen henkilö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bátneolmmoš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">hämärä ennen tai jälkeen päivänvalon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skápmu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">härällä ajo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="486">heargevuodjin</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">höylänlastu koipinahkojen kuivauksessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">spánas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ikäloppu olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruktanas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">imevä karitsa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">njammá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">innokas onkija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">okkon</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">innokas survoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njuvddán</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">iso aalto meressä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">skávval</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">iso heinäsuova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">stáhkká</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">iso ja kömpelö nainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">suonti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">iso joki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="366">deatnu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">iso kello</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="17">roahpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">isosilmäinen patoverkko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="184">luosat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">isosilmäinen verkko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">galjat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">galjot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">isoäidille tai isoäidin äidille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="164">áhkkut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">isoäiti lapsenlapsensa kanssa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">áhkošguovttos</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">isän nuorempi veli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="123">čeahci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">isän sisar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="157">siessá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">isän vanhempi veli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="69">eahki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">itsenäinen työ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">oktobargu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jata (verkkoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">jáhti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">joen tai järven jäällä oleva vesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">rovusčáhci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">joessa talvehtinut meritaimen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="22">gudjor</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">johde lohipadossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čuollu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">johtokunnan jäsen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">stivralahttu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">joka höylää kovasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuolan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">joka rikkoo tavaransa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="694">roassu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">joka vuolee kovasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuolan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jolla on aina nälkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nealgeskárdna</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jolla on pienet ja luisevat kasvot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">cugga</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jolla on turpeat kasvot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">buldu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jollekin kuuluva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="564">gulli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jota on jouduttu kauan odottamaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuorddáhus-</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jota yleensä kutsutaan liikanimillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">buddostat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">joutava asia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="637">dušši</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">juoksennella jonkun perässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" freq="8">viegahallat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">juokseva hiiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">jester</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jutaava saamelainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1115">johttisápmelaš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jykevä esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šumpu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jyrkkäreunainen kapeikko (joessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skurči</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">järvi joen varrella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="17">luoppal</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">järvi- tai kirjokorte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gorddet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jää vuonossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">áhttán</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">jäähile vedessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">moalus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kaareva emäpuun jatke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">loahtta</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kaatonokka astiassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skuibor</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kahdeksan naulaa painomitta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nelet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kahdesta syrjällään olevasta lankusta koostuva höyläpenkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skohtabeaŋka</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kahvi- tai lihamylly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">feardna</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kahvin tuoksu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">gáfehádja</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kaivos jossa poro voi kaivaa jäkälää lumen alta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goaivvis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kalan sisälmysten lyhyistä umpisuolista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">snuđđor</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kalan vatsanalus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">eavru</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kalankuivaustelineessä orsien varassa lepäävät selkoimet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">oarda</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kaluttava liha luussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sobus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kalvo (jonkun ympärillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="8">skoađđi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kalvoin verkonkudonnassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">guolladat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kangastukki kangaspuissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">unnabummeš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kankaan leveys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vupmodat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kannas ahkiossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bieidni</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kantamaton hankiainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">moarádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kapea kannas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">cahca</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kapea vetinen jänkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="32">vuohčču</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">karvakulu ajokas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guorbban</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guorbá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">karvakulu kohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">snuordu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">karvakulu vaatekappale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">skoarri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kaste (luonnossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">laksi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kaularasva porolla kaulalihassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">válká</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kaulausreikä taljassa koiven kohdalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gávlun</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kehittymätön mäti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">márdu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keihään kaltainen harppuuna paltaan tai kampelan pyynnissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skohtal</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keimailija (naisesta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">hearci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keitetty kalanmaksa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="8">mullju</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keittämättömän maku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skealččasmáhkka</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kela nuotanvedossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="8">gealli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kenttää muistuttava paikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">giettádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kerralla käytettävä kenkäheinäerä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">dállas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keskinäinen jako</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1091">juogadeapmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keskinäinen ymmärrys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="15">áddehallan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keskipäivä kaamosaikaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čuovggáš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keskiyön aurinko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="50">gaskaijabeaivváš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kestävä työnteossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">veaddjil</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kesy eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">lojan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">lojat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kesy vaadin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">lojáš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kesäinen sää keväällä tai syksyllä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">geasádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kesällä kuivuva lampi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="202">guorru</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keveästi sauvottava vene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gehpot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">keväinen jäkälännostopaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njejohat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kiero esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">geavzi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kierous esineen päässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skaipi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kiertotie jonkun edelle pääsemiseksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gávččáldat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kiimainen eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gieimman</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kiinitysnuora kodan louteen päässä keskellä ja alhaalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">biššanbáddi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kiinteä rasva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="229">buoidi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kirjan luku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="267">kapihttal</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kirjavan koiran nimitys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="843">girjjis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="39">girje</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kirkkaanvärinen kukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="13">hearvarássi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kirppa jne.</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" nr="Pl" freq="5">behttosat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kodalla oleva kotimies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goađelutolmmoš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kodan kynnys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="34">lassá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kodan perä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="36">boaššu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kodassa tulisijan kahden puolen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="41">loaidu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">koipinahan reikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">feavli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">koiran kaluama liha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sobahas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">koiran kannus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">siekkis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kolmijalka ripustamista varten tai säilytyslavan nurkan alla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goađádas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">komeaoksainen mänty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">barju</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">komsion kuivikkeena käytettävä sammal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">raksa</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">komsion kuomusta jalkopäähän ulottuva paula tai nyöri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">searrobáddi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">komsion päällysnahka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">luvddon</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kookas ihminen tai eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="216">stuorat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">korkea ja ohutääninen kilkutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skiŋggas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">korkea veisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">allalávlla</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">korkein oikeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1174">alimusriekti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kosketuksenarka lapsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="148">sieidá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kostea sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">lávttadat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kova kipu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gihpu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kudottava esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="33">gođus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kuiva puu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="26">goikemuorra</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kuivakka olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="20">skirri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kuivattu liha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="99">goikebiergu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kulunut kesälaidun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">doldi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čilvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kumollaan olevan veneen pohja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goalva</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kun peitinkarvat ovat vielä aivan lyhyet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guolbmá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kunnanvaltuuston puheenjohtaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg" freq="5227">sátnejođiheaddji</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kuonoke poroja purevalle koiralle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="9">skuohppu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kuontalo kehrätessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guonddal</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kurokaulainen olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">faŋki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kuura puissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šuhči</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kylmä ilma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="21">čoaskin</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kylmä rankkasade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ráššu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kyyry olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guoggi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kyömynokkainen ja isopäinen olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skoaldu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">käyrä olento tai esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">gávri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">kömpelö (suopungin heittäjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šleaivi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">köyry selässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guvri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">köyttä sidoksessa oleva kierros</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bárddáldat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">laimenne suolan vähentämiseksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">veahtadas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">laiskanpulskea olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šloaŋgu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lammaskarsina navetassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">gársan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">langallinen painosauma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">deattáldat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">langon tyttären mies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vivvabealle</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lapinpukuinen ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="196">gávttehas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lapsen vaippa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">raksa</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lapsenlapsenlapsi isoisälle tai isoisän isälle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="125">áddjut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">laskeutumispaikka jäälle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njiejahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lasta airon varressa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skáktá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lauha sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">lievhnu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lehdykkä koruissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="8">lávggastat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">leppymätön viha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">agibeaivašši</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">leuanalus porolla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">giehppi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">leukakappale nyljetyssä porontaljassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">ginal</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">levällään oleva esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">leabbadas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lievä tartuntatauti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">logahasdávda</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lihassärky niskassa ja hartioissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuhččon</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lihassäryn hoidon jäljiltä jäänyt puristuskohta ihossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuhččohat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">liian korkea ja leveä vene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruhmut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">liian syvä esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gurci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">liian väljä vaate</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">loamši</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">liikkeelle lähtö jutamamatkalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="15">sirdán</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">liippa viikatteen hiomiseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">liippá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">likomärkä nahkavaate</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njirvi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šnjarvi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šnjirvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">liotusvesi karvojen irrottamiseksi taljasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">lovttačáhci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lohipadossa poikittain virtaan nähden oleva osa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="148">vuojahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">loppuun syötetty kesälaidun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">smurvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">louteen yläosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">naleš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">luiseva olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skirči</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lumisateinen sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" nr="Pl" freq="0">muohttálagat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">luoti luotilangassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šlimpá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">luupuikko hirvieläimen takajalan lihassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gumppenjuolla</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lyhyet jalat harallaan seisova olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">reahcci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lyhyt joki järvien välissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">giezzi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lyhyt suvanto kahden kosken välissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="76">jalvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lyhytkarvainen poro alkusyksystä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šnjilži</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lyhytkorvainen lammas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nihppá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lännessä asuva saamelainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="20">oarján</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lääketieteellinen tiedekunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">doavtterskuvla</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">lääkärin tms. todistus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="15">ateasta</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">maailman luominen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sivdnidupmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">maata vasten oleva raelumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">seaŋáš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">maho vaadin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="62">rotnu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">maiskutus kielen kärjellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">cuvkkas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">matalikko joessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="9">coagan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">melkoinen määrä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">šlumpa</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">miehen lapintakin helmakoriste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">luskkostat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">miehen veljen tai serkun vaimo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gálojeatni</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">mielellään kodan loukossa oleileva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sokkehas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">monista erilaisista aineksista laitettu ruoka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="19">rudda</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">muita pitemmäksi jätetty rakennuksen pitkän seinän ylimmäinen tai alimmainen hirsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">geiggo</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">mullin mallin oleva esine tai tila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">rámski</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">musta eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="47">čáhput</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">myrkkysyötti petoeläimiä varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šeallju</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">märkä haavassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuožži</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">määräysten noudattaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="16">doahttalus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">naisen häpy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">cuohpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">naisen päällyslakki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skupmot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">naisen rinta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="113">čižži</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">neljänneslitran mitta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">peaila</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">niin ja niin monta kertaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gearʼ</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nikama jokin alimmaisista selkänikamista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">smarbmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nimetön sormi tai vastaava varvas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="7">orbbeš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nopeajalkainen henkilö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">falan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nopeasti väsyvä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">silan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">norjan kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6428">dárogiella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="898">dárru</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">norjan puoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">norggabealli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nouseva uiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg" freq="1255">vuoddji</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nousupaikka jäältä maalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gorrehat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nuoremman sisaren tai naisserkun lapsi tädilleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="18">goaskit</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nuori koivu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="14">látnjá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nuori mies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5361">bárdni</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nuotan kela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gehlá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nutukas jossa reunakappale ulottuu kengän nokkaan saakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">seahkot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">nyppylä ylävässä maassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čolpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">näkymätön kummitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">neahkameahttun</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">näppylä ihossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čuomáras</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ohut sumu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sopmu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ohutluminen paikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">seakkis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ommel haljenneen keramiikka- tai puuastian korjaamiseksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njirttastat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">opetusmateriaalin tekeminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="464">oahpponeavvoráhkadeapmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">outo olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">iđat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">oven rako</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goavku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ovenseutu kodan sisäpuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">uski</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ovenseutu kodan ulkopuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">uvssohat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paakku jauhoissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruohpá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paakkuuntunut ja huonosti kuivunut heinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">láhkku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paha henki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="109">beargalat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paikattu esine jossa on paljon paikkoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">spággu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paikka veneen tai ahkion paikkaamiseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="13">dáidni</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paininpuu heinäsuovassa heinien päällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">luovanas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paino verkossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">buddu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">painostava sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čussi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paju reessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="28">dáhkká</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">čahca</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pajunoksa josta parkkisuikaleet kuoritaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">osttus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pakkanen leudon ilman jälkeen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čabadat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pakkasen aiheuttama ruumiinvamma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">váŋka</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paksulti lunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gasit</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paliskunnan osa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">siidaoassi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">parantumaton varas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">agibeaisuola</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paras ikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">báresahki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">parsi (turvekodan katossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">čávgŋi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pata korttipelissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">spáđđá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">patoutuman vuoksi tulviva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">báttas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paulan nyöri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="12">bárggeš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">paulassa kengän raksiin tuleva osa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruvdu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pauloitettu nilkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">giesahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pauloitussilmä verkossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sándil</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pehmennyt kala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šlinzi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njuozat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pehmeä keli jolloin hangen pinta on pehmennyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">dimádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pehmeä tai pehmeän lumen vuoksi upottava keli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">linádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">perinnöllinen sairaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="22">bearri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">persous tiettyyn ruokaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">hapmu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">peruke pitkässäsiimassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">oarskieddu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">oarstuddu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">perätilassa syntyvä poikanen tai lapsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">ruovttot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">peräänantamaton ihminen tai eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="7">arahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">peskissä kaula-aukon kahden puolen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guohttelus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">petojen paljous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">stálpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">peukalon tyvestä etusormen kärkeen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">váksi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">peuran talja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goddádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pienehkö joki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="15">veadji</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pienehkö vene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="14">gárbbis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni hilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">rihca</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni ja jyrkkä kanjoni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guršu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni koira</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="9">beatnagaš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni kota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="22">goađáš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni laakso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">leagástat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni lapsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="200">mánáš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni liikasarvi porolla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="16">geardu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni merikala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">murtu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni poika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="160">gánddaš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni pöytä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">beavddáš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni talo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="61">visoš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni turska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">rutnot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni tyttö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1171">nieiddaš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pieni voikauha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">fáskkir</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pienisilmäinen verkko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">baskkot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pienisilmäisin sallittu verkko lohipadossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guvčalbmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pilvinen sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="22">obbadálki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pimeä sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">seavnnjádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pitkä jono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="15">gárgadas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pitkäksi leivottu leipä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ja korkeaksi</re>
+            <t pos="N" freq="0">stumpa</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pitävä jalansija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="159">coakci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pohjoinen alue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1562">davviguovlu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poikittainen valkoinen juova eläimen kaulassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">čierggis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poikkipuu reen kopassa tai tavara-ahkiossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">cahca</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poikkipuu verkkojen kuivaamiseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="54">holga</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poltettava hiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="46">koalla</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">polttava kipu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">boalddáhat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">polun tms. haara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">serrodat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">porohärän talja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">heargádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">porojen kesälaitumena</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="17">nanni</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">porojen paimennus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">reaidnu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">porokatokeväälle tyypillinen kylmä sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goavádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">porolla kyljen ja lonkan välillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">muošmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron hankakorva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">giškon</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron hauislihas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">urkádeahkki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron kaivukuoppa lumessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">suovŋŋis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron kaulalihat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gurti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron koukkusarvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">roahkkečoarvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron otsaluu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="7">áksi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron piikkisarvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">buikočoarvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron puikkosarvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sággečoarvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron rintalastan takapäässä oleva nipukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šáikádákti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron ruokaa keväällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ájasámil</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron sairaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">smoahtta</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">poron uloste (kesällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">haksa</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">porotokan suurin hirvas erit. rykimäaikana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">áidnaváldu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puinen lautanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">lásti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puinen vinkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>takassa</re>
+            <t pos="N" freq="0">vuoššanmuorra</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puissa talvella oleva lumettomuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">sealli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">punainen esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruoksadas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">punainen viinimarja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">jieret</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">punotus (silmässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">jielti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puoli kiloa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">kilobealle</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puoli sanaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sátnelahkki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puolialaston olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ranči</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puraistu suupala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gáskkus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">purkautumisväylä tulivuoressa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">cirgenkanála</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pussinmuotoinen osa naistenlakissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guobaldat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">putouksen nielu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">njielahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puukon tai höylän lastu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuolahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puun kyljessä tai kivessä kasvava matala jäkälä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="13">gatna</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puun tumma ja vettynyt ydin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="34">gálla</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puunaulan aines</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">návllis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puunaulan kiila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">hirrehas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">hirrehat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">puuämpärin sanka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sáŋgá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pyssyn hana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="13">hátná</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pystykorvainen koira</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skohči</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pystypuu rysäpadossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sierrán</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pyörteinen kohta joessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šluppar</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">päällä vita korvamerkissä XXX</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njavki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">pöydän reuna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="67">beavdeguorra</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">raanun valmiiksi kudotun kankaan reunassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="15">dutkán</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">raaputettu kohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">faskkohat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">raisu vaadin tai tyttö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="7">biltu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rakas ystävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="49">beavvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rakennuksen kehä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gehá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rako halkeama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="19">ráhku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">reessä kaplaiden kannattama sivupuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gávstá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">reunaporo joka pysyttelee tokan reunoilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ravddat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">riippuva esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sorji</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rinta- ja vatsaontelo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="61">vuovda</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ripustamista varten yhteensidottuja esineitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gáddadas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ristiluun ja alimman lannenikaman välissä oleva välilevy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šuokkas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rivi peräkkäin jamottuja ajoverkkoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bolot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rivopuheinen ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šleaidu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">roso metallissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">leaibmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rotkon kapeikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruovddáš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ruijanpaltaan maha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">uldu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ruijanpaltaan pää ilman alaleukaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">uksu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ruko heinää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">ruhku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ruohokanukan marja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">beatnatjokŋa</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ruotsin kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="247">ruoŧagiella</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rupinen ihminen tai eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruobbá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ruskea eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ruškkut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">rusko taivaalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">roađđi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ryhdikäs henkilö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bivššut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saamelaiskäräjien joukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4128">sámediggejoavku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saamen alue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sámeguovlu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saamen kielen kurssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="138">sámegielkursa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="32">sámegielgursa</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saamen kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="43094">sámegiella</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saamen neuvosto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1806">Sámiráđđi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saniaisen lehti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="12">luotni</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sankapuu heinäsaurassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sáŋgá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saraheinän käpy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guodja</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sarja reessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sárjá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sarvenvälinahka (poron otsassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čuossi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saukon pesäkolo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">irvi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">saverikko aisassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">sávarihkku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">seinän puoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">seainnebealle</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">seisten tehty asento</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čuoččastat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">seitsemän joukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="86">čiežas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">selkävyö poron valjaissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ogohas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sepalus housuissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">cuohpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">serkun tyttären mies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vivvabealle</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">siiman vyyhteämiseen käytetty haaru (siimoineen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">suvja</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">siipi viikatteessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">siiba</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">siitä ei ole taikaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="25">dáigá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">siivoton ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nuoská</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">silmärivi verkossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">moksin</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">silokallio rannikolla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">šleađđu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">silokarvainen eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njavge</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">siro ihminen tai esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šođbbut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">siskon tai veljen tyttären mies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vivvabealle</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sisämaassa kesällä laiduntava porokylä tai sen jäsen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nanihas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sisäpuolen kylki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="33">erttet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sola korkealla kahden vaaran välissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">čahca</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">solakka ihminen vartalonmyötäisissä vaatteissaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">spanut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">solakka ja tyylikkäästi pukeutunut mies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">spažut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sormien haara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="7">sárri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sotku verkossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">šluppar</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sulkasadosta johtuva lentokyvyttömyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>linnuilla</re>
+            <t pos="N" freq="8">lápmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sulkumerkki kirjoituksessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="103">ruohtu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sumu pimeällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="8">mosku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suojapato lohipadon yläpuolella virtaa heikentämässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">seagan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suolattu kala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="29">sálteguolli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suomen kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="1224">suomagiella</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suonirauta suoneniskennässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">snihppar</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suopungin kehä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">feavli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suora kulma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">viŋkil</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">susien paljous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">stálpi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sutjakka olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>esine tai eläin</re>
+            <t pos="N" freq="0">njággu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suuren porotokan tai ihmisjoukon kulkujälki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">márahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suuri koski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="23">geavŋŋis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suurista varkauksista epäilty porovaras</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">moršá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">suurisuuntainen teurastus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njuovalmas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sydänalakipua aiheuttava eliö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guorti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">sytytettäessä muiden alla poikittain oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">dilot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">syvä vesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="14">jorbmi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>josta ei pääse ylös</re>
+            <t pos="N" freq="0">luovosčáhci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">syysvasa (jonka karva on jo hieman tuuheampaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">suohkulanmiessi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">syömäpaikka laidunalueella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">guđohat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">säie suoninarussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="50">čielggus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">takakaihdin sarvessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">alesgahcin</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">takakenossa seisova henkilö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gavži</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">takissa vyön yläpuolelle jäävä pussimaiseksi vedetty kohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">geazaldat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tallattu tanner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">dulmmohat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">talon pääty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="81">gáranas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">talvinen sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">dálvvádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tamman astuttaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg" freq="0">duolmmaheaddji</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tapahtuma esim. markkinoilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vássu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tarttuva tauti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="68">njoammudávda</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tarvepuu komsion kuomua varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goagis</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">taula taulomiseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">duovli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tavallisen lakin päälle tuleva suojuslakki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skupmot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tavaroistaan tarkasti huolehtiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">rádjánas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tela veneelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">dealli</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">telana käytetty pölkky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gálljo</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tervas poltettavaksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">soarvvuš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">teuraan alaleuka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bátneluš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">teuraan kylkipala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="33">erttet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">teurastuspaikka kodan takana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">boššohat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">teurastuspaikka lumella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ávttahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tietokoneen näyttö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">čájáhat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tiiviste tapin tms. ympärillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nuovhlu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tilapäisesti maho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="62">rotnu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tinttiä vähän isompi uroslohi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">linddor</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">toinen kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nubbigiella</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">toisen puolen vatsanpeitteet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">muošmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">toisen vuoden loppupuolella oleva hieho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">luohpet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tokan ympärihiihtäjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg" freq="0">birračuoigi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tukko reiän tukkimiseksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="24">nuvsku</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tulisijassa liesikiviä korvaava pölkky koivua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">dilot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tumma leipä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">groavaláibi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">turpea ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nuršu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">turvekammi (yöpymissuojana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="91">gámme</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tutkinto, tutkimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6622">dutkan</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tutut keskenään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">dovdosaččat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tuuhea olio tai esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">bolfi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tuulen ajama kinos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">fáskka</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tuulla vähän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="45">jiellat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tuuma leipä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="4">roavvaláibi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tylppä esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nurdi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">nursi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tytärpuolen mies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vivvabealle</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tyynehkö ilma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">loažži</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">tyyni tuulisella ilmalla tai navakan tuulen jälkeen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="31">loahkki</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">täysi määrä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bidjalannárri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">täysikasvuinen saukkonaaras</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">snáhka</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">täyttöastia jonka jälkeen marjat siirretään isompaan astiaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">láppezas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">uhkuvesi jäällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vuožži</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ukkosen jyrinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="6">čearggas</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">umpeenmennyttä ahkionuraa hyvin noudattava ajokas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg" freq="4">guorri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">utareissa oleva vedin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="12">ruoksi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">uunin vieri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">uvdnagáddi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">uupunut eläin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="41">váibbat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">uusi lumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">áinnádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">uutukainen esine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">ođut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">ođat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vaadintokka keväällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="17">áldoeallu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vaaksa (peukalon ja sormenpään välillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">vuoksi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vaalea juova poron tai koiran jalan etupuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gáiri</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vaatteisiin ja karjan karvoihin tarttuva loka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">suorti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vahva suolaliemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="48">vuorda</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vaikea sairaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="331">suohtta</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vaikeapääsyinen laakso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">riehppi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vainajan suusta otettu sylki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">váigačáhci</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vaivaiskoivua kasvava paikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skieras</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">valtion metsä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="100">stáhtavuovdi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vanha asuinkenttä tunturissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gendá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vanhanaikainen vyönsolki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>hopeaa</re>
+            <t pos="N" freq="0">smuortu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vanhemman sisaren lapsi tädilleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="25">muoŧŧal</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vanhemman veljen lapsi sedälleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">čeahcit</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vanttuussa tai rukkasessa peukalon tyvestä kärkeen ulottuva osa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">váksi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vasansa hylkäävä vaadin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">suohppá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vastakkaista sukupuolta oleva sukulainen avioliiton kautta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="76">sivjjot</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vastasyntynyt vasa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="16">njuorat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vatsanturpoama karitsoilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">rimba</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">veistetty kohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">fearahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">veneen kaari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="19">rággu</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">veneen laita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="10">láidi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">veneen paljas kaarenväli (siestimen ja pohjateljon välillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="12">siessi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">veneen ylilaidan jatke etusiestimestä vannaaseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">skávžžet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">venäjän kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="196">ruoššagiella</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">verkon koho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">bajuš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">verkon paula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="3">reašmi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vettynyt puu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="5">šallu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njiezat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vetää vähän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="45">jiellat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">viettävä pohja sisävesissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="21">beaŋká</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">viimainen sää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">vaššolat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vinosti laskeutuva talvitie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">goarrálat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vitsas sitomiseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">váccahat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">voimakas kipu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">váŋka</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">voimakas virta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">virdi</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vuoden vanhana vasonut kermikkävaadin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">luohpet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vyyhdetty silmukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">njámastat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vyön kieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">máiddon</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vähennettävä osuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>erit. kahvipannusta tai kattilasta ylikiehumisen välttämiseksi vähennettävästä nesteestä</re>
+            <t pos="N" freq="0">geahpedus</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">vähän alempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="54">vuolibuš</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ylin tai toiseksi ylin kylkiluu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">cuovedákti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">ylivuotinen variksenmarja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">gáranasbaika</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">äidin nuorempi sisar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="142">muoŧŧá</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe">äidin vanhempi sisar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="124">goaski</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe" nr="Pl">alimmaiset selkänikamat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">smarbmedákti</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe" nr="Pl">saamelaiskäräjien vaalit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="2340">sámediggeválga</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="mwe" nr="Pl">veljesten tai serkusten vaimot keskenään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" nr="Pl" freq="0">gálojenežat</t>
+         </tg>
+      </mg>
+   </e>
+</r>
