@@ -1,0 +1,2097 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="A">ahkera toistamaan toisten sanomaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jievžalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ahne juomaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">juhkalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ahne syömään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">borastuhkes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alituiseen maleksiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">joltálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ei minkäänlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="4735">makkárge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">enneunia näkevä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">nihkkoš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">erehtyväinen jonkun suhteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">eadjálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">erittäin jyrkkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>rinteestä</re>
+            <t pos="A" freq="0">ráđus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">erittäin tarttuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>taudista</re>
+            <t pos="A" freq="59">njoammu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">etukenossa oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">snogas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hallittavissa oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">boddasaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">halukas imemään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">njameš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">halukas käyttämään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">anistuhkes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">halukas laiduntamaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="19">guohttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">haluton torjumaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">duosttoheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti kastuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="5">njuoski</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">njuoskil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti kiehuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">duoldalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti kovettuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">garri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti kutiava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">čagaldahkes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti kutistuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">játnalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti pyörivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jorril</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti sakeneva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">suohkkul</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti sulava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">suddil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti talutettava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>eläimestä</re>
+            <t pos="A" freq="0">báddelodji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti unohtuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">vajálduvvalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helposti venyvä tai venytettävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">vadnil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hiljaa virtaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">doaččis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">huono ampumaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">skuđuheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">huono ottamaan koppia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">duosttoheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">huonosti kaupaksi käyvä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="1397">jođiheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="5">jođuheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">huonosti luistava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="1397">jođiheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="5">jođuheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">huonosti palava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">buoloheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hyvin ruma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="571">fasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hyvä suunnistamaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="74">deaivil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hyvä tuntemaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">dovdil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">innokas hankkimaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">háhkalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">innokas määkymään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">mehkolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">innokas näykkimään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">hámsolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">innokas onkimaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">oggolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">innokas ostamaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="8">oastil</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">oastálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka hallitsee hyvin saamen kielen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="7">sábmái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka helposti saa ontumavian</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>juhdasta</re>
+            <t pos="A" freq="0">rovvolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka helposti voidaan varastaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jávkalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka helposti väsyy (hieman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">viessi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka helposti väsyy hieman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">viessalas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">viessil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka kuivuu helposti rutikuivaksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jagŋi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jagŋil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka mielellään oleilee maatalossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">dáluhas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka odottaa kovasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">vuordálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka on taipuvainen vääntelemään suutaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">venzolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka seuraa helposti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">čuovvul</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka usein juroo paikoilleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ajoporosta</re>
+            <t pos="A" freq="0">luovdálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joka viipyy pitkään jossakin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jávkalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on iso etuselkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>eläimestä</re>
+            <t pos="A" freq="0">seahppái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on liian vähän nuoraa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">oaraheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on lyhyt sylimitta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">salaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on paljon (pyyntirautoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ruovdái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on paljon aseita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">verjui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on paljon suonia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">suodnái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on poikittainen valkoinen juova kaulassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">čiergálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on suuret jäljet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="4">luoddái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on suuret ryntäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>juhdasta</re>
+            <t pos="A" freq="0">fálbmái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on suuret utareet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ruoksái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on suuri karja tai (porotokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ellui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on vähän evästä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">niestteheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla on vähän jälkeläisiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">sagaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla tai jossa on paljon (porohärkiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">heargái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolla tai jossa on paljon sappea tai iso sappirakko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">sáhppái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolle usein tarjotaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="6">gussolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jolloin on paljon rankkasateita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ráššui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jonka reunassa ei ole koristenauhaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>naistenlakista</re>
+            <t pos="A" freq="0">ravddaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa ei ole tai on vähän porokyliä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>seudusta</re>
+            <t pos="A" freq="0">siiddaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa ei ole valkkoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jievjjaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa ei voi kääntyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jorgalmeahttun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa kasvaa paljon haapoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">suhppái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on itikoita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">divrái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on liikaa rautaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ruovdái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paksu kerros rasvaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>hylkeestä</re>
+            <t pos="A" freq="0">sulttas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon (koivunpökkelöitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">stohkkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon ajopuuta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">riehkkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon hopeaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">silbii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon kimpiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>astiasta</re>
+            <t pos="A" freq="0">stáhppái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon komojäätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">rovkui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon kultaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">gollái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon kuparia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">veaikái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon metsäisiä laaksoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>seudusta</re>
+            <t pos="A" freq="0">vuobmái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon metsärinteitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="12">rábmái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon neulasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">goahccái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon pihlajia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">skáhppái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon porokyliä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>seudusta</re>
+            <t pos="A" freq="0">siiddalmas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">siidái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon poukamia (veneitä varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">váhkkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon rauhasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ráksái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon sulia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">suddái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon toukkia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lihasta</re>
+            <t pos="A" freq="4">suoksái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon valkkoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>tokasta</re>
+            <t pos="A" freq="0">jievjái</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">gabbái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon vieraita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">guossái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on paljon vuonoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">vuodnái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on pullistuma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jarkŋas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on runsaasti villaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ullui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on ulkonemia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">njáikkas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on vain vähän valkkoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>tokasta</re>
+            <t pos="A" freq="0">jievjjaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on valkoinen juova etupuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">gáirras</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on vähän lannoitetta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">veagaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on vähän pyhäpäiviä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ajanjaksosta</re>
+            <t pos="A" freq="0">basiheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on vähän tai ei ollenkaan kelohonkia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">soarvveheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa on vähän terästä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">stáleheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa tai jolla on vähän vasoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="18">mieseheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jossa tai jolloin on paljon susia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">stálpái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">josta vuotaa helposti tai usein verta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">vardil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">josta vuotaa usein verta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">vardálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jota ei voi kääntää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jorgalmeahttun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">juoksettunut (keitettävästä maidosta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">čuvkui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">järkevä ikäisekseen tai näköisekseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">jierpmaskas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaupaksi käymätön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="1397">jođiheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="5">jođuheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kerällä oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">nođus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kirkas silmistä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="11">girkat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kova ja sileä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">čalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuukauden vanha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="206">mánnosaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuuliainen vanhempiaan kohtaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>aikuisesta pojasta</re>
+            <t pos="A" freq="0">bártnálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kylmänarka ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">gološ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kylmänarka olio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">oardnji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kärsivällinen odottamaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="11">vuordevaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kärventyneen hajuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">civnna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kätevä käsistään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">gieđalaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kömpelö ja isokokoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>erit. ei-saamelaisista naisista</re>
+            <t pos="A" freq="0">suonttas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kömpelö käsistään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">čoapmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">laiha niin että selkäranka nousee esiin harjamaisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ruvžžas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">latuskainen pystysuunnassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">speaččas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lehmästä jolla on hyvä ternimaito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">gássái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">levällään oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">leabbat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">liiaksi nojallaan oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>selkänojasta</re>
+            <t pos="A" freq="0">mieiggus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">liian kauan seisseestä maksasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">riebas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">liian lyhyitä vaatteita pitävä henkilö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" freq="0">rampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">liian lyhyitä vaatteita pitävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">garppas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">liian matala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>astiasta</re>
+            <t pos="A" freq="0">stáččas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">loiva rinteestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">njoaiddus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">luodista haavoittunut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="40">bážas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lähempänä merta oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">mearat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lähimpänä merta oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">mearamus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">mearamuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">melko suolainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">sálttisis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mustasukkainen tavaroistaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">riidálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nirso (ruoan suhteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">herskui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">niukasti heinää kasvava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ávjjeheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">noitakonsteja käyttävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">noaiddes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">norjalaistalonpojan oloinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">skoalppas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nuorekas kasvoiltaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">muđolaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">onnekas tai taitava saamaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">oažžul</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">paakkuiseksi jäätynyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>karvoituksesta</re>
+            <t pos="A" freq="0">skilžžas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">perempi asumuksessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">boaššut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">perätilassa oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ruovtto-</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pitkiä askelia ottava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">lávkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">punoittava kasvoiltaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ráččas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">päivän vanha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="91">beaivásaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">raskaana oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="204">áhpeheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">eahpeveaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rinnushalkiossa oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>käsistä</re>
+            <t pos="A" freq="36">ohcalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ripillä käymätön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">beasakeahttá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ristissä oleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="36">ruossalas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="3">roahkkálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rivo (puheissaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">snoallái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rivo puheissaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="10">snoalus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">snoallalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rivot puheet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="10">snoalus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">roisi puheissaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">deafan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sen ja sen vahvuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" freq="0">gievrru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">siisti ulkoasultaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">sálbat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">syrjäinen asumus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="404">ávdin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taipuvainen muuttamaan toisenlaiseksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">muhttálas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taipuvainen nurisemaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">fuikolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taipuvainen tulehtumaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>jänteistä</re>
+            <t pos="A" freq="0">viednil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taipuvainen tulehtumaan jänteistä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">viedni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taitava löytämään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">gávdnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taitava ottamaan koppia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">duostul</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taitava saarnaamaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="14">sárdnái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">taitava seuraamaan jälkeä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">guorril</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tarkka aisteiltaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="62">áicil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tarkkakätinen ampumaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="74">deaivil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tiheästi vaivaiskoivuja kasvava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">skierrái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tuollainen kuin tuo tuolla kaukana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" freq="3">dokkár</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">dokkáraš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">turpea kasvoistaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">burššas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tyyni vedenpinta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">snárri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tyyni vesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">snárri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">täsmällinen ajan suhteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="7">joavdil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ulompi rannasta katsottuna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">fávli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">uuden uutukainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">spildarođas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vahvasti tinattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">muidui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vaivaiskoivua kasvava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">skieraskas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vatsa pystyssä kävelevä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>raskaana olevasta naisesta</re>
+            <t pos="A" freq="0">rieppis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">verevä kasvoiltaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">ođđaivnnálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">viikon vanha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="198">vahkkosaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vuoteensa kasteleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">cissadahkes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähän eteläisempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">oarjjibuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähän itäisempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">nuorttabuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähän kipeä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="825">rašši</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähän läntisempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">oarjjibuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähän pohjoisempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">nuorttabuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähän ulompi rannasta katsottuna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">fávllibuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähän ulompi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">olggubuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">yksi ja sama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">oktat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">yksin viihtyvä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>porosta</re>
+            <t pos="A" freq="0">duoddil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">yleensä hyvissä ajoin tuleva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" freq="0">boahttil</t>
+         </tg>
+      </mg>
+   </e>
+</r>
