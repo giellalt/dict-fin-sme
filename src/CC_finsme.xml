@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsme.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsme" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+
+   <e>
+      <lg>
+         <l pos="CC">eikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="0">iige</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">eli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="42119">dahje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">elikkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="140">dahjege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">enkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="0">inge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">että</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="237496">ahte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">ja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="743703">ja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">josko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CS" freq="3">josgo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">kunpa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" freq="0">altteson</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">mutta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="78045">muhto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">saati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="0">hálakeahttá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">sekä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="26405">sihke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">tahi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="42119">dahje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">tai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="1260">dehe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">taikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="42119">dahje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="107">dahe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="0">daihe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="0">daikke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">vaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="78045">muhto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">vai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="16644">vai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">vaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="12498">vaikko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="2035">vaikke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CS" freq="395">váikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">ynnä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="743703">ja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CC" freq="26405">sihke</t>
+         </tg>
+      </mg>
+   </e>
+</r>
