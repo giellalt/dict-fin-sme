@@ -38518,16 +38518,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">hyljelaji norppa?</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="21">oaidu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">hylly</l>
       </lg>
       <mg>
@@ -92029,7 +92019,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="14">publikumma</t>
+            <t pos="N" nr="Pl">geahččit</t>
          </tg>
       </mg>
    </e>
@@ -146014,16 +146004,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">yleisö(?)</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">almennet</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">suurlähettiläs</l>
     </lg>
     <mg>
@@ -153336,7 +153316,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">(sopimattomuus)</l>
+      <l pos="N">sopimattomuus</l>
     </lg>
     <mg>
       <tg xml:lang="sme">
@@ -153456,7 +153436,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">(ohjausjohtaja)</l>
+      <l pos="N">ohjausjohtaja</l>
     </lg>
     <mg>
       <tg xml:lang="sme">
@@ -154010,16 +153990,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sme">
         <t pos="N">viiddideapmi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">(viini)</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">viidna</t>
       </tg>
     </mg>
   </e>
