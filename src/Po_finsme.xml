@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -1573,4 +1572,147 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-</r>
+<e>
+    <lg>
+      <l pos="Po">avulla</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Po">vehkiin</t>
+        <xg>
+          <x>jonkun avulla</x>
+          <xt>soapmása vehkiin</xt>
+        </xg>
+        <xg>
+          <x>jonkin avulla</x>
+          <xt>mainna nu</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">edelle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Po">ovdii</t>
+        <t pos="Adv">ovddabeallai</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">myöten</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Adv">mielde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">osalta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>suhteen</re>
+        <t pos="Po">hárrái</t>
+        <t pos="Po">oasil</t>
+        <xg>
+          <x>tuon asian osalta</x>
+          <xt>dien ášši hárrái ~ oasil</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">parissa</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Adv">siste</t>
+        <t pos="Po">olis</t>
+        <t pos="Adv">páras</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">pohjalla</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Adv">botnis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">tienoilla</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>adv.</re>
+        <t pos="Adv">sulaid</t>
+        <t pos="Adv">sulain</t>
+        <xg>
+          <x>viiden seutuvilla</x>
+          <xt>viđa sulain</xt>
+        </xg>
+        <xg>
+          <x>niillä tienoilla</x>
+          <xt>dakko sulaid</xt>
+        </xg>
+        <xg>
+          <x>kolmen kilon paikkeilla</x>
+          <xt>golmma kilo sulaid</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">sijasta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Adv">sajis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">varaan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>postp.</re>
+        <t pos="Po">vehkii</t>
+        <t pos="Adv">ala</t>
+        <t pos="Po">oskálii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Po">verrattuna</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>johonkuhun, johonkin</re>
+        <t pos="Po">ektui</t>
+        <xg>
+          <x>minuun verrattuna hän on varakas</x>
+          <xt>mu ektui son lea jábálaš</xt>
+        </xg>
+        <xg>
+          <x>Ruotsiin verrattuna Belgia on pinta-alaltaan pieni maa</x>
+          <xt>Ruoŧa ektui Belgia lea viidodaga dáfus smávva riika</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  </r>

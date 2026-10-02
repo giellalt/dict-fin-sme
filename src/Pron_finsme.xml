@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -629,4 +628,234 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-</r>
+<e>
+    <lg>
+      <l pos="Pron">eräs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">muhtun</t>
+        <t pos="Pron" type="Indef">muhtin</t>
+        <t pos="Pron" type="Indef">soamis</t>
+        <t pos="Num">okta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">johon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Rel">masa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">joksikin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">juonin</t>
+        <t t_type="Phrase">manin nu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jonakin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">juonin</t>
+        <t t_type="Phrase">manin nu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jokunen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>ei kovin monta</re>
+        <t pos="Pron" type="Indef">soames</t>
+        <xg>
+          <x>oli vain muutama poro</x>
+          <xt>lei dušše soames boazu</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jollakulla</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">soapmásis</t>
+        <t t_type="Phrase">geas nu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jollekulle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">soapmásii</t>
+        <t t_type="Phrase">geasa nu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jonakin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Dem">juonin</t>
+        <t t_type="Phrase">manin nu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">joksikin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Dem">juonin</t>
+        <t t_type="Phrase">manin nu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jossa</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Rel">mas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jotakuta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">soapmása</t>
+        <t t_type="Phrase">gean nu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">jotkut</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef" nr="PlT">muhtumat</t>
+        <t pos="Pron" type="Indef" nr="PlT">muhtimat</t>
+        <t pos="Pron" type="Indef" nr="PlT">soapmásat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">kenelläkään</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">geastege</t>
+        <t pos="Pron" type="Indef">geasge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">monesko</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="A" type="Ord">gallát</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>monenneksiko</re>
+        <t pos="A" type="Ord">galládin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">monet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>ihmisistä</re>
+        <t pos="Pron" type="Indef" nr="PlT">oallugat</t>
+        <t pos="Pron" type="Indef" nr="PlT">ollugat</t>
+        <t pos="Pron" type="Indef" nr="PlT">olugat</t>
+        <t pos="Pron" type="Indef" nr="PlT">olusat</t>
+        <t pos="Pron" type="Indef" nr="PlT">eatnagat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">moni</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>ihmisistä</re>
+        <t pos="N" type="Coll">máŋggas</t>
+        <xg>
+          <x>moni oli tullut siihen kokoukseen</x>
+          <xt>máŋggas ledje boahtán dan čoahkkimii</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">moniko</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="N" type="Coll">gallis</t>
+        <xg>
+          <x>kuinka monta henkilöä oli tullut siihen tapaamiseen?</x>
+          <xt>gallis ledje boahtán dien deaivvadeapmái?</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">montako</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Adv">galle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">muuan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">muhtun</t>
+        <t pos="Pron" type="Indef">muhtin</t>
+        <t pos="Num">okta</t>
+      </tg>
+    </mg>
+  </e>
+  </r>

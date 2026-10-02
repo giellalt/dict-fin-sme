@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -1310,4 +1309,287 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-</r>
+<e>
+    <lg>
+      <l pos="Num">kahdeksattakymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">gávccátlohkái</t>
+        <xg>
+          <x>kahdeksatta kymmentä käyvä henkilö</x>
+          <xt>gávccátlohjahkásaš olmmoš</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kahdestoista</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="A" type="Ord">guoktenuppelogát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kolmattakymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">goalmmátlohkái</t>
+        <xg>
+          <x>kolmattakymmentä vuotta käyvä henkilö</x>
+          <xt>goalmmátlohjahkásaš olmmoš</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kolmesataa</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">golbmačuođi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>kolmensadan joukko</re>
+        <t pos="N" type="Coll">golbmačuođis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kolmisenkymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t t_type="Phrase">sullii golbmalogi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kuudestoista</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="A" type="Ord">guhttanuppelogát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kuudettakymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">guđátlohkái</t>
+        <xg>
+          <x>kuudettakymmentä käyvä henkilö</x>
+          <xt>guđátlohjahkásaš olmmoš</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">neljäkolmatta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>kaksikymmentä neljä</re>
+        <t pos="Num">njealljegoalmmátlohkái</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">neljästoista</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="A" type="Ord">njealljenuppelogát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">neljättäkymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">njealjátlohkái</t>
+        <xg>
+          <x>neljättäkymmentä vuotta käyvä henkilö</x>
+          <xt>njealjátlohjahkásaš olmmoš</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">parikymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">moaddelogi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>parisenkymmentä</re>
+        <t pos="Adv">moattelogi</t>
+        <xg>
+          <x>siellä oli parisenkymmentä poroa</x>
+          <xt>doppe ledje moattelogi bohccot</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">parisataa</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">moaddečuođi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>parisensataa</re>
+        <t pos="Num">moattečuođi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">parisen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t t_type="Phrase">sullii moadde</t>
+        <xg>
+          <x>sinne on parisen kilometriä</x>
+          <xt>dohko lea sullii moadde kilomehtera</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">parituhatta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">moaddeduhát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">sadas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="A" type="Ord">čuođát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">seitsemästoista</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="A" type="Ord">čiežanuppelogát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">toistakymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">nuppelohkái</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>pitkälti toistakymmentä</re>
+        <t pos="Num">máŋganuppelohkái</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>toistakymmentä ihmistä</re>
+        <t pos="N" type="Coll">nuppelogis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">tuhannes</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="N">duháhat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">viidettäkymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">viđátlohkái</t>
+        <xg>
+          <x>viidettäkymmentä käyvä henkilö</x>
+          <xt>viđátlohjahkásaš olmmoš</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">yhdeksättäkymmentä</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Num">ovccátlohkái</t>
+        <xg>
+          <x>yhdeksättäkymmentä käyvä henkilö</x>
+          <xt>ovccátlohjahkásaš olmmoš</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">yhdestoista</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="A" type="Ord">oktanuppelogát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">yksikään</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="Pron" type="Indef">oktage</t>
+      </tg>
+    </mg>
+  </e>
+  </r>
