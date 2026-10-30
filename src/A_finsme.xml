@@ -10752,16 +10752,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">p.a.</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="20">ruđaheapme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">paakkuinen</l>
       </lg>
       <mg>
@@ -15561,7 +15551,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="316">doalli</t>
+            <t pos="A" freq="316">doalli</t>
          </tg>
       </mg>
    </e>

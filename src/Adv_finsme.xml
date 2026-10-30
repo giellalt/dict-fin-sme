@@ -61,16 +61,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">...tarttuneeksi...</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" freq="0">njahppasii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">Jumala antakoon</l>
       </lg>
       <mg>
@@ -567,7 +557,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">ennenvanhaan</l>
+         <l pos="mwe">ennen vanhaan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2958,7 +2948,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">lähell'</l>
+         <l pos="Adv">lähellä</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3118,21 +3108,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" freq="0">jođus</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">miellummin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" freq="2834">baicca</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" freq="1887">buoret</t>
          </tg>
       </mg>
    </e>
@@ -10931,6 +10906,16 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="sme">
+         <t pos="Adv" freq="2834">baicca</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg xml:lang="sme">
+         <t pos="Adv" freq="1887">buoret</t>
+      </tg>
+   </mg>
   </e>
   <e>
     <lg>
